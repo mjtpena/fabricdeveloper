@@ -1,77 +1,85 @@
-🧵 Fabric Developer
+# 🧵 Fabric Developer
+
 A blog about Microsoft Fabric and content to help developers, built with Astro and Tina CMS.
-🖥️ Live Site: https://fabricdeveloper.com    
-📦 GitHub Repository
 
-README version: 2024-09-08
+[**🖥️ Live Site**](https://fabricdeveloper.com/) | 
+[**📦 GitHub Repository**](https://github.com/mjtpena/fabricdeveloper)
 
-✨ Features
+> README version: `2024-09-08`
 
- Content focused on Microsoft Fabric and developer resources
- Built with Astro for static site generation
- Tina CMS integration for local content management
- Automated deployment to Azure Static Web Apps using GitHub Actions
- Responsive design
- Light / dark mode
- Search functionality
+## ✨ Features
 
-👥 Authors
+- Content focused on Microsoft Fabric and developer resources
+- Built with [Astro](https://astro.build) for static site generation
+- [Tina CMS](https://tina.io/) integration for local content management
+- Automated deployment to Azure Static Web Apps using GitHub Actions
+- Responsive design
+- Light / dark mode
+- Search functionality
 
-Michael John Peña
-David Ding
+## 👥 Authors
 
-🚀 Setup Guide
+- [Michael John Peña](https://www.linkedin.com/in/michaeljohnpena/)
+- [David Ding](https://www.linkedin.com/in/david-ding-38442721/)
 
-Prerequisites
+## 🚀 Setup Guide
 
-Ensure you have Node.js 18 installed on your system.
-Have an Azure account for deploying to Azure Static Web Apps.
-Have a GitHub account for version control and automated deployments.
+1. **Prerequisites**
+   - Node.js 18
+   - Azure account for Static Web Apps
+   - GitHub account
 
-
-Clone the Repository
-Copygit clone https://github.com/mjtpena/fabricdeveloper.git
+2. **Clone the Repository**
+```bash
+git clone https://github.com/mjtpena/fabricdeveloper.git
 cd fabricdeveloper
+```
 
-Install Dependencies
-Copynpm install
+3. **Install Dependencies**
+```bash
+npm install
+```
 
-Local Development
+4. **Local Development**
+```bash
+npm run dev
+```
+Access the local site at `http://localhost:4321`
 
-Start the development server:
-Copynpm run dev
+5. **Creating Content**
+- Use Tina CMS interface for content management
+- Add new posts in `src/content/posts/`
 
-This will spin up Tina CMS for WYSIWYG blog editing and Astro for static site generation.
-Access the local development site at http://localhost:4321
+6. **Building for Production**
+```bash
+npm run build
+```
 
+7. **Deployment**
+- Automated via GitHub Actions to Azure Static Web Apps
+- Pushes to main branch trigger deployment
 
-Creating Content
+## ⚙️ Configuration
 
-Use Tina CMS interface for creating and editing content locally.
-New posts should be added in the appropriate directory (usually src/content/posts/).
+- Astro: `astro.config.mjs`
+- Tina CMS: `tina/config.ts`
+- GitHub Actions: `.github/workflows/azure-static-web-apps-*.yml`
 
+## 🧞 Commands
 
-Building for Production
-Copynpm run build
+| Command         | Action                                           |
+|:----------------|:-------------------------------------------------|
+| `npm install`   | Installs dependencies                            |
+| `npm run dev`   | Starts local dev server at `localhost:4321`      |
+| `npm run build` | Build your production site to `./dist/`          |
+| `npm run preview` | Preview your build locally, before deploying     |
 
-Deployment
+## 🤝 Contributing
 
-The project is set up to automatically deploy to Azure Static Web Apps using GitHub Actions.
-Any push to the main branch will trigger a new deployment.
-Ensure your Azure Static Web Apps service is properly configured to connect with your GitHub repository.
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
+## 📄 License
 
+This project is licensed under the [MIT License](LICENSE.md).
 
-⚙️ Configuration
-
-Astro configuration: astro.config.mjs
-Tina CMS configuration: tina/config.ts
-GitHub Actions workflow: .github/workflows/azure-static-web-apps-*.yml
-
-🧞 Commands
-CommandActionnpm installInstalls dependenciesnpm run devStarts local dev server at localhost:4321npm run buildBuild your production site to ./dist/npm run previewPreview your build locally, before deploying
-🤝 Contributing
-We welcome contributions to Fabric Developer! Please see our Contributing Guide for more details on how to get started.
-📄 License
-This project is licensed under the MIT License.
-For more information about the project or to contribute, please visit https://fabricdeveloper.com/ or the GitHub repository at https://github.com/mjtpena/fabricdeveloper.
+For more information, visit [https://fabricdeveloper.com/](https://fabricdeveloper.com/)
