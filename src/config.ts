@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
   lang: 'en',
   themeColor: {
     hue: 260,
-    fixed: false,
+    fixed: true,
   },
   banner: {
     enable: false,  // Keeping this disabled until you have a banner image
