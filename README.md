@@ -1,62 +1,77 @@
-# 🍥Fuwari
+🧵 Fabric Developer
+A blog about Microsoft Fabric and content to help developers, built with Astro and Tina CMS.
+🖥️ Live Site: https://fabricdeveloper.com    
+📦 GitHub Repository
 
-A static blog template built with [Astro](https://astro.build).
+README version: 2024-09-08
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**📦 Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 中文**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 日本語**](https://github.com/saicaca/fuwari/blob/main/README.ja-JP.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 한국어**](https://github.com/saicaca/fuwari/blob/main/README.ko.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 Español**](https://github.com/saicaca/fuwari/blob/main/README.es.md)
+✨ Features
 
-> README version: `2024-04-07`
+ Content focused on Microsoft Fabric and developer resources
+ Built with Astro for static site generation
+ Tina CMS integration for local content management
+ Automated deployment to Azure Static Web Apps using GitHub Actions
+ Responsive design
+ Light / dark mode
+ Search functionality
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+👥 Authors
 
-## ✨ Features
+Michael John Peña
+David Ding
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [ ] Comments
-- [x] Search
-- [ ] TOC
+🚀 Setup Guide
 
-## 🚀 How to Use
+Prerequisites
 
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.
-   - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+Ensure you have Node.js 18 installed on your system.
+Have an Azure account for deploying to Azure Static Web Apps.
+Have a GitHub account for version control and automated deployments.
 
-## ⚙️ Frontmatter of Posts
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: /images/cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
+Clone the Repository
+Copygit clone https://github.com/mjtpena/fabricdeveloper.git
+cd fabricdeveloper
 
-## 🧞 Commands
+Install Dependencies
+Copynpm install
 
-All commands are run from the root of the project, from a terminal:
+Local Development
 
-| Command                             | Action                                           |
-|:------------------------------------|:-------------------------------------------------|
-| `pnpm install` AND `pnpm add sharp` | Installs dependencies                            |
-| `pnpm dev`                          | Starts local dev server at `localhost:4321`      |
-| `pnpm build`                        | Build your production site to `./dist/`          |
-| `pnpm preview`                      | Preview your build locally, before deploying     |
-| `pnpm new-post <filename>`          | Create a new post                                |
-| `pnpm astro ...`                    | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro --help`                 | Get help using the Astro CLI                     |
+Start the development server:
+Copynpm run dev
+
+This will spin up Tina CMS for WYSIWYG blog editing and Astro for static site generation.
+Access the local development site at http://localhost:4321
+
+
+Creating Content
+
+Use Tina CMS interface for creating and editing content locally.
+New posts should be added in the appropriate directory (usually src/content/posts/).
+
+
+Building for Production
+Copynpm run build
+
+Deployment
+
+The project is set up to automatically deploy to Azure Static Web Apps using GitHub Actions.
+Any push to the main branch will trigger a new deployment.
+Ensure your Azure Static Web Apps service is properly configured to connect with your GitHub repository.
+
+
+
+⚙️ Configuration
+
+Astro configuration: astro.config.mjs
+Tina CMS configuration: tina/config.ts
+GitHub Actions workflow: .github/workflows/azure-static-web-apps-*.yml
+
+🧞 Commands
+CommandActionnpm installInstalls dependenciesnpm run devStarts local dev server at localhost:4321npm run buildBuild your production site to ./dist/npm run previewPreview your build locally, before deploying
+🤝 Contributing
+We welcome contributions to Fabric Developer! Please see our Contributing Guide for more details on how to get started.
+📄 License
+This project is licensed under the MIT License.
+For more information about the project or to contribute, please visit https://fabricdeveloper.com/ or the GitHub repository at https://github.com/mjtpena/fabricdeveloper.
