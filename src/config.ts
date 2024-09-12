@@ -43,14 +43,21 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Keeping the original reference
-  name: 'Fabric Developer',
-  bio: 'Empowering developers with Microsoft Fabric insights and resources',
+  avatar: 'assets/images/fabric-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: 'Fabirc Developer',
+  bio: 'with MJ and Dave',
   links: [
     {
       name: 'LinkedIn',
-      icon: 'fa6-brands:linkedin',
-      url: 'https://www.linkedin.com/company/fabricdeveloper',  // Replace with actual LinkedIn account
+      icon: 'fa6-brands:linkedin-in',       // Visit https://icones.js.org/ for icon codes
+                                        // You will need to install the corresponding icon set if it's not already included
+                                        // `pnpm add @iconify-json/<icon-set-name>`
+      url: 'https://www.linkedin.com/company/fabricdeveloper',
+    },
+    {
+      name: 'YouTube',
+      icon: 'fa6-brands:youtube',
+      url: 'https://www.youtube.com/@FabricDeveloper',
     },
     {
       name: 'GitHub',
