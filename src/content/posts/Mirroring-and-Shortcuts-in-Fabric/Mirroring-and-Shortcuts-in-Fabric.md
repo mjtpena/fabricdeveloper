@@ -46,3 +46,6 @@ I hope this blog post has been helpful. If you have any questions, please feel f
 
 * Fabric documentation: [https://learn.microsoft.com/en-us/fabric/](https://learn.microsoft.com/en-us/fabric/)
 * Azure SQL documentation: [https://learn.microsoft.com/en-us/azure/azure-sql/database/?view=azuresql](https://learn.microsoft.com/en-us/azure/azure-sql/database/?view=azuresql)
+
+## Note
+Modified content based on Google Gemini extraction of the YouTube video.
