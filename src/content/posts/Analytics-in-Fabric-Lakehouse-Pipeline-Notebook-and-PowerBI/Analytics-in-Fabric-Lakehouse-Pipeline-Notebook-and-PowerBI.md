@@ -35,3 +35,6 @@ Fabric Lakehouse is a powerful platform for building real-time analytics pipelin
 * Pricing: [https://learn.microsoft.com/en-us/fabric/data-factory/pricing-pipelines](https://learn.microsoft.com/en-us/fabric/data-factory/pricing-pipelines/)
 * Copy Activity: [https://learn.microsoft.com/en-us/fabric/data-factory/copy-data-activity](https://learn.microsoft.com/en-us/fabric/data-factory/copy-data-activity)
 * Notebook ETL: [https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-data-preparation](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-data-preparation)
+
+## Note
+Modified content based on Google Gemini extraction of the YouTube video.

@@ -46,3 +46,6 @@ Fabric is a powerful platform that can be used to build and deploy real-time ana
 ## Additional Resources
 * Real-time Analytics with Fabric: [https://learn.microsoft.com/en-us/fabric/real-time-intelligence/](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/)
 * KQL Reference: [https://learn.microsoft.com/en-us/kusto/query/?view=microsoft-fabric](https://learn.microsoft.com/en-us/kusto/query/?view=microsoft-fabric)
+
+## Note
+Modified content based on Google Gemini extraction of the YouTube video.
