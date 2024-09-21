@@ -11,7 +11,7 @@ import {
 } from '@utils/setting-utils.ts'
 import { onMount } from 'svelte'
 
-const seq: LIGHT_DARK_MODE[] = [LIGHT_MODE, DARK_MODE, AUTO_MODE]
+const seq: LIGHT_DARK_MODE[] = [LIGHT_MODE, DARK_MODE]
 let mode: LIGHT_DARK_MODE = AUTO_MODE
 
 onMount(() => {
@@ -66,9 +66,6 @@ function hidePanel() {
         <div class="absolute" class:opacity-0={mode !== DARK_MODE}>
             <Icon icon="material-symbols:dark-mode-outline-rounded" class="text-[1.25rem]"></Icon>
         </div>
-        <div class="absolute" class:opacity-0={mode !== AUTO_MODE}>
-            <Icon icon="material-symbols:radio-button-partial-outline" class="text-[1.25rem]"></Icon>
-        </div>
     </button>
 
     <div id="light-dark-panel" class="hidden lg:block absolute transition float-panel-closed top-11 -right-2 pt-5" >
@@ -86,13 +83,6 @@ function hidePanel() {
             >
                 <Icon icon="material-symbols:dark-mode-outline-rounded" class="text-[1.25rem] mr-3"></Icon>
                 {i18n(I18nKey.darkMode)}
-            </button>
-            <button class="flex transition whitespace-nowrap items-center justify-start w-full btn-plain scale-animation rounded-lg h-9 px-3 font-medium active:scale-95"
-                    class:current-theme-btn={mode === AUTO_MODE}
-                    on:click={() => switchScheme(AUTO_MODE)}
-            >
-                <Icon icon="material-symbols:radio-button-partial-outline" class="text-[1.25rem] mr-3"></Icon>
-                {i18n(I18nKey.systemMode)}
             </button>
         </div>
     </div>
