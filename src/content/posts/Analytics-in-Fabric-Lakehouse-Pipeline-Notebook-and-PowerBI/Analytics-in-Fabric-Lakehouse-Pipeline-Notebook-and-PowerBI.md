@@ -14,7 +14,7 @@ draft: false
 
 # Analytics in Fabric Lakehouse - Pipeline, Notebook and Power BI
 
-In this video, Andre and David discuss how to use Fabric Lakehouse to build a real-time analytics pipeline. They start by talking about the different components of Fabric Lakehouse, such as the data lake, the data warehouse, and the real-time intelligence service. They then show how to use the Fabric Lakehouse pipeline to ingest data from a variety of sources, transform the data, and load it into the data lake. Finally, they show how to use the Fabric Lakehouse notebook to build a real-time dashboard that visualizes the data.
+In this video, MJ and Dave discuss how to use Fabric Lakehouse to build a real-time analytics pipeline. They start by talking about the different components of Fabric Lakehouse, such as the data lake, the data warehouse, and the real-time intelligence service. They then show how to use the Fabric Lakehouse pipeline to ingest data from a variety of sources, transform the data, and load it into the data lake. Finally, they show how to use the Fabric Lakehouse notebook to build a real-time dashboard that visualizes the data.
 
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/aJy52xGeUlE" title="Analytics in Fabric Lakehouse - Pipeline, Notebook and Power BI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
