@@ -89,6 +89,7 @@ const siteLang = lang.replace('_', '-')
 				  media={favicon.theme && `(prefers-color-scheme: ${favicon.theme})`}
 			/>
 		))}
+
 		<!-- Set the theme before the page is rendered to avoid a flash -->
 		<script is:inline define:vars={{DEFAULT_THEME: DEFAULT_THEME, LIGHT_MODE: LIGHT_MODE, DARK_MODE: DARK_MODE, AUTO_MODE: AUTO_MODE}}>
 			const theme = localStorage.getItem('theme') || DEFAULT_THEME;
@@ -106,6 +107,20 @@ const siteLang = lang.replace('_', '-')
 						document.documentElement.classList.remove('dark');
 					}
 			}
+		</script>
+
+		<!-- Plausible tag -->
+		<script defer data-domain="fabricdeveloper.com" src="https://plausible.io/js/script.hash.outbound-links.js"></script>
+		<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
+		<!-- Google tag (gtag.js) -->
+		<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-N7VKBYP5F4"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-N7VKBYP5F4');
 		</script>
 
 		<slot name="head"></slot>

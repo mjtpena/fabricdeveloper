@@ -4,9 +4,9 @@ published: 2024-09-29T14:00:00.000Z
 description: >-
   New Fabric Certification Exam DP-700
 tags:
-  - Exam
   - Certification
   - Fabric
+  - DP-700
 category: Fabric
 image: "./cover.png"
 draft: false
@@ -14,7 +14,14 @@ draft: false
 
 # New Fabric Certification Exam: DP-700
 
-In this video, Fabric Developer talks about the second certification exam for Microsoft Fabric, DP-700. Dave and MJ have both passed the exam for DP-600 for Analytics Engineer. They discuss what the two exams are about and how it differs from the each other. DP-600 is more focused on analytics and Power BI, while DP-700 is more focused on data engineering, e.g. Onelake, Warehouse, Lakehouse etc.
+DP-700 exam will be available on October 22, 2024 towards *Fabric Data Engineer Associate*!
+
+This video in FabricDeveloper talks about the second certification exam for Microsoft Fabric, DP-700. Dave and MJ have both passed the exam for DP-600 for Analytics Engineer. They discuss what the two exams are about and how it differs from the each other. DP-600 is more focused on analytics and Power BI, while DP-700 is more focused on data engineering, specifically:
+* ingesting and transforming data
+* securing and managing an analytics solution
+* monitoring and optimizing an analytics solution
+
+It also covers some interesting skillsets including SQL, PySpark and KQL (Kusto Query Language).
 
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/x3ou_v0tCjo" title="DP-700 Fabric Data Engineer Certification Exam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
