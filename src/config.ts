@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Fabric Developer',
-  subtitle: 'Microsoft Fabric Resources for Developers',
+  subtitle: 'Microsoft Fabric Developer Resources, Power BI, Fabric Data Engineering, Fabric Data Science, Fabric Notebooks, Certification Exams (DP-600, DP-700), SQL, Data Lake, OneLake, Data Warehouse, Direct Lake, Real-time Analytics, Event Hub, Event Stream, Event House, Reflex',
   lang: 'en',
   themeColor: {
     hue: 260,
