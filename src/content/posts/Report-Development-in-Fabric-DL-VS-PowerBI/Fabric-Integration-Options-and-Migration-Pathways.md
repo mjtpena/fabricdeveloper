@@ -17,7 +17,7 @@ draft: false
 
 In this video, David and MJ discuss the different ways to integrate with Fabric. They also talk about the migration pathways for those who are already using other data platforms.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Euhjpy2w8Kw" title="Fabric Integration Options and Migration Pathways" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/Euhjpy2w8Kw" title="Fabric Integration Options and Migration Pathways" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Integration Options
 There are a number of different ways to integrate with Fabric. Some of the most common options include:
