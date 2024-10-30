@@ -36,7 +36,7 @@ The skills required in this exam include:
 
 ## What are the benefits of taking certification exams?
 
-There are a number of benefits to taking any certification exam2. These include:
+There are a number of benefits to taking any certification exam. These include:
 
 * Learn some new skills
 * Demonstrating your expertise in Microsoft Fabric
