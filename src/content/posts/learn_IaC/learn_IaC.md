@@ -41,4 +41,4 @@ The next step is to connect Fabric to the Plausible data to create dashboards an
 
 ## Conclusion: Embracing IaC as the Future of Data and AI
 
-This journey into infrastructure has reinforced the importance of a holistic understanding of the technology stack for BI professionals. By bridging the gap between BI and infrastructure, we unlock new possibilities for data analysis and gain deeper insights. The ability to manage infrastructure opens doors to more advanced analytics techniques, including real-time analysis and AI integration. As the BI landscape evolves, embracing infrastructure knowledge will be crucial for staying ahead of the curve.
+This journey into infrastructure has reinforced the importance of a holistic understanding of the technology stack for Data and AI professionals. By bridging the gap between data and infrastructure, we unlock new possibilities for future applications to gain deeper insights.
