@@ -1311,7 +1311,7 @@ packages:
   '@floating-ui/utils@0.2.7':
     resolution: {integrity: sha512-X8R8Oj771YRl/w+c1HqAC1szL8zWQRwFvgDwT129k9ACdBoud/+/rX9V0qiMl6LWUdP9voC2nDVZYPMQQsb6eA==}
 
-  '@fontsource-variable/jetbrains-mono@5.0.22':
+  '@fontsource-variable/jetbrains-mono@5.2.0':
     resolution: {integrity: sha512-2LZQFb37H9iUY92qrhqjvrrkBPROdmBy5MMDgQX+FGeHdVE2WwvGt4lOpxOAy0L/bwE2Y0UCe/eb/tOs1kaTYQ==}
 
   '@fontsource/roboto@5.0.14':
@@ -9592,7 +9592,7 @@ snapshots:
 
   '@floating-ui/utils@0.2.7': {}
 
-  '@fontsource-variable/jetbrains-mono@5.0.22': {}
+  '@fontsource-variable/jetbrains-mono@5.2.0': {}
 
   '@fontsource/roboto@5.0.14': {}
 
