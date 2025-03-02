@@ -31,7 +31,7 @@ David demonstrated how he implemented a Gateway to connect Microsoft Fabric to a
 - Connecting to the data source through Fabric by selecting the configured Gateway
 
 ## Infrastructure Considerations
-One interesting observation from the demonstration was that setting up the Gateway infrastructure can sometimes be more costly than the actual application it's connecting to. This is because the gateway must run on a Windows VM with certain specification [requirements]<https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install>.
+One interesting observation from the demonstration was that setting up the Gateway infrastructure can sometimes be more costly than the actual application it's connecting to. This is because the gateway must run on a Windows VM with certain specification [requirements](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install).
 
 For those setting up the infrastructure, David used Infrastructure as Code techniques, making the Gateway deployment optional within the original application setup. The VM needs to be accessible remotely, which requires either an RDP (Remote Desktop Protocol) or using Azure Bastion as an alternative approach for connecting to the VM.
 
@@ -52,4 +52,4 @@ Data gateway clusters helps to:
 1. avoid single points of failure,
 2. load balance traffice across gateways in a cluster
 
-You can start up mutliple VMs to host separate gateway services. These gateway services can be configured into a cluster group to achieve the desired cluster benefits. Find out more about cluster configurations in this learn [documentation]<https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-high-availability-clusters>.
+You can start up mutliple VMs to host separate gateway services. These gateway services can be configured into a cluster group to achieve the desired cluster benefits. Find out more about cluster configurations in this learn [documentation](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-high-availability-clusters).
