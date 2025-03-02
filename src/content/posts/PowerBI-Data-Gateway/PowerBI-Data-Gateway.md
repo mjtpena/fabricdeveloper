@@ -1,10 +1,8 @@
 ---
 title: Microsoft Fabric Data Gateway Setup in Azure
-
 published: 2025-03-02T14:00:00.000Z
 description: >-
   Bridging the Gap Between On-Premises data sources and Fabric cloud workspaces.
-
 tags:
   - Fabric
   - Infrastructure
@@ -25,10 +23,10 @@ As explained in a recent developer discussion between MJ (Microsoft MVP and MCT)
 ## The Technical Setup
 David demonstrated how he implemented a Gateway to connect Microsoft Fabric to a Clickhouse database (used for web traxusffic analysis via Plausible Community Edition) running in a private network. The process involved:
 
-- Deploying a Windows VM specifically for the Gateway (the Gateway requires Windows, even though the Plausible Community Edition runs on Linux)
-- Install and Configuring the Gateway on the Windows VM
-- Signing into the Gateway with the same account used for Fabric
-- Connecting to the data source through Fabric by selecting the configured Gateway
+* Deploying a Windows VM specifically for the Gateway (the Gateway requires Windows, even though the Plausible Community Edition runs on Linux)
+* Install and Configuring the Gateway on the Windows VM
+* Signing into the Gateway with the same account used for Fabric
+* Connecting to the data source through Fabric by selecting the configured Gateway
 
 ## Infrastructure Considerations
 One interesting observation from the demonstration was that setting up the Gateway infrastructure can sometimes be more costly than the actual application it's connecting to. This is because the gateway must run on a Windows VM with certain specification [requirements](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install).
@@ -37,9 +35,9 @@ For those setting up the infrastructure, David used Infrastructure as Code techn
 
 ## When Do You Need a Gateway?
 The Gateway is not always necessary. As clarified in the discussion:
-- Cloud-native data infrastructure like Azure SQL doesn't require a Gateway
-- On-premises data sources or data within an Azure network would need a Gateway
-- Previously, connections to other cloud platforms (like Snowflake in AWS) required Gateways, but newer options like lakehouse shortcuts have reduced this need.
+* Cloud-native data infrastructure like Azure SQL doesn't require a Gateway
+* On-premises data sources or data within an Azure network would need a Gateway
+* Previously, connections to other cloud platforms (like Snowflake in AWS) required Gateways, but newer options like lakehouse shortcuts have reduced this need.
 
 ## Best Practices
 ### Service Accounts
