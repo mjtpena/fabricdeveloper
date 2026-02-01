@@ -1,5 +1,5 @@
 ---
-title: Learning IaC (Infrastructure as Code)
+title: Learning IaC (Infrastructure as Code) 
 
 published: 2025-01-31T14:00:00.000Z
 description: >-
