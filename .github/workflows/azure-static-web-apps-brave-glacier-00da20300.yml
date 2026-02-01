@@ -24,6 +24,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Install build tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 build-essential
       - name: Setup pnpm
         uses: pnpm/action-setup@v2
         with:
