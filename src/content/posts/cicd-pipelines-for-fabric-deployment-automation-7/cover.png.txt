@@ -1,0 +1,4 @@
+CI/CD Pipelines for Fabric: Deployment Automation
+2024-07-28
+DevOps
+Educational

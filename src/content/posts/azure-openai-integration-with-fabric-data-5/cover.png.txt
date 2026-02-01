@@ -1,0 +1,4 @@
+Azure OpenAI Integration with Fabric Data
+2024-03-21
+AI/Copilot
+Educational

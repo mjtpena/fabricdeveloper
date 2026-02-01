@@ -1,0 +1,4 @@
+Databricks Unity Catalog and Fabric Shortcuts
+2025-03-09
+Integration
+Educational

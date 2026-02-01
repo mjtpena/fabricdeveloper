@@ -1,0 +1,4 @@
+OneLake Shortcuts: Connecting to External Data Sources
+2023-12-15
+Feature Release
+Milestone

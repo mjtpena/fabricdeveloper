@@ -1,0 +1,4 @@
+Migrating from Azure Synapse to Fabric
+2025-09-09
+Migration
+Educational

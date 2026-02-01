@@ -1,0 +1,4 @@
+Lakehouse Improvements: Tables, Files, and Shortcuts
+2023-09-15
+Feature Release
+Milestone

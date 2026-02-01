@@ -1,0 +1,4 @@
+SQL Database in Fabric GA
+2025-11-10
+Feature Release
+Milestone

@@ -1,0 +1,4 @@
+Pipeline Orchestration: Activities and Triggers
+2025-12-27
+Data Factory
+Educational

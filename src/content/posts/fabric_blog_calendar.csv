@@ -1,0 +1,987 @@
+date,day_of_week,title,category,type
+2023-05-23,Tuesday,Microsoft Fabric Announced at Build 2023: A New Era of Unified Analytics,Announcement,Milestone
+2023-05-24,Wednesday,OneLake: The OneDrive for Data - What Fabric Developers Need to Know,Announcement,Milestone
+2023-05-25,Thursday,Fabric Public Preview: Getting Started with Your First Lakehouse,Announcement,Milestone
+2023-05-26,Friday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2023-05-27,Saturday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2023-05-28,Sunday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2023-05-29,Monday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2023-05-30,Tuesday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2023-05-31,Wednesday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2023-06-01,Thursday,Microsoft Fabric June 2023 Update: First Monthly Feature Summary,Monthly Update,Milestone
+2023-06-02,Friday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2023-06-03,Saturday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2023-06-04,Sunday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2023-06-05,Monday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2023-06-06,Tuesday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2023-06-07,Wednesday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2023-06-08,Thursday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2023-06-09,Friday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2023-06-10,Saturday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2023-06-11,Sunday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2023-06-12,Monday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2023-06-13,Tuesday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2023-06-14,Wednesday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2023-06-15,Thursday,Data Factory in Microsoft Fabric: Dataflows Gen2 Deep Dive,Feature Release,Milestone
+2023-06-16,Friday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2023-06-17,Saturday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2023-06-18,Sunday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2023-06-19,Monday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2023-06-20,Tuesday,Power BI Composite Models with OneLake,Power BI,Educational
+2023-06-21,Wednesday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2023-06-22,Thursday,Workspace Administration: Roles and Permissions,Administration,Educational
+2023-06-23,Friday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2023-06-24,Saturday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2023-06-25,Sunday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2023-06-26,Monday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2023-06-27,Tuesday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2023-06-28,Wednesday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2023-06-29,Thursday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2023-06-30,Friday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2023-07-01,Saturday,Microsoft Fabric July 2023 Feature Summary,Monthly Update,Milestone
+2023-07-02,Sunday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2023-07-03,Monday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2023-07-04,Tuesday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2023-07-05,Wednesday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2023-07-06,Thursday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2023-07-07,Friday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2023-07-08,Saturday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2023-07-09,Sunday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2023-07-10,Monday,Real-Time Analytics in Fabric: KQL Database First Look,Feature Release,Milestone
+2023-07-11,Tuesday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2023-07-12,Wednesday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2023-07-13,Thursday,Snowflake Mirroring in Fabric,Integration,Educational
+2023-07-14,Friday,Spark Structured Streaming in Fabric,Advanced,Educational
+2023-07-15,Saturday,Custom Connectors in Data Factory,Advanced,Educational
+2023-07-16,Sunday,Fabric Workload Development Kit,Advanced,Educational
+2023-07-17,Monday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2023-07-18,Tuesday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2023-07-19,Wednesday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2023-07-20,Thursday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2023-07-21,Friday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2023-07-22,Saturday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2023-07-23,Sunday,Top Fabric Community Resources for Developers,Community,Educational
+2023-07-24,Monday,Fabric User Groups: Connecting with Peers,Community,Educational
+2023-07-25,Tuesday,Contributing to Fabric Open Source Projects,Community,Educational
+2023-07-26,Wednesday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2023-07-27,Thursday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2023-07-28,Friday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2023-07-29,Saturday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2023-07-30,Sunday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2023-07-31,Monday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2023-08-01,Tuesday,Microsoft Fabric August 2023 Feature Summary,Monthly Update,Milestone
+2023-08-02,Wednesday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2023-08-03,Thursday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2023-08-04,Friday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2023-08-05,Saturday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2023-08-06,Sunday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2023-08-07,Monday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2023-08-08,Tuesday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2023-08-09,Wednesday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2023-08-10,Thursday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2023-08-11,Friday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2023-08-12,Saturday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2023-08-13,Sunday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2023-08-14,Monday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2023-08-15,Tuesday,SSD Caching in Synapse Data Warehouse: Performance Breakthrough,Feature Release,Milestone
+2023-08-16,Wednesday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2023-08-17,Thursday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2023-08-18,Friday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2023-08-19,Saturday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2023-08-20,Sunday,Python Support in KQL: Running Python in Real-Time Analytics,Feature Release,Milestone
+2023-08-21,Monday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2023-08-22,Tuesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2023-08-23,Wednesday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2023-08-24,Thursday,Power BI Composite Models with OneLake,Power BI,Educational
+2023-08-25,Friday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2023-08-26,Saturday,Workspace Administration: Roles and Permissions,Administration,Educational
+2023-08-27,Sunday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2023-08-28,Monday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2023-08-29,Tuesday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2023-08-30,Wednesday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2023-08-31,Thursday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2023-09-01,Friday,Microsoft Fabric September 2023 Feature Summary,Monthly Update,Milestone
+2023-09-02,Saturday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2023-09-03,Sunday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2023-09-04,Monday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2023-09-05,Tuesday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2023-09-06,Wednesday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2023-09-07,Thursday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2023-09-08,Friday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2023-09-09,Saturday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2023-09-10,Sunday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2023-09-11,Monday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2023-09-12,Tuesday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2023-09-13,Wednesday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2023-09-14,Thursday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2023-09-15,Friday,"Lakehouse Improvements: Tables, Files, and Shortcuts",Feature Release,Milestone
+2023-09-16,Saturday,Snowflake Mirroring in Fabric,Integration,Educational
+2023-09-17,Sunday,Spark Structured Streaming in Fabric,Advanced,Educational
+2023-09-18,Monday,Custom Connectors in Data Factory,Advanced,Educational
+2023-09-19,Tuesday,Fabric Workload Development Kit,Advanced,Educational
+2023-09-20,Wednesday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2023-09-21,Thursday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2023-09-22,Friday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2023-09-23,Saturday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2023-09-24,Sunday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2023-09-25,Monday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2023-09-26,Tuesday,Top Fabric Community Resources for Developers,Community,Educational
+2023-09-27,Wednesday,Fabric User Groups: Connecting with Peers,Community,Educational
+2023-09-28,Thursday,Contributing to Fabric Open Source Projects,Community,Educational
+2023-09-29,Friday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2023-09-30,Saturday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2023-10-01,Sunday,Microsoft Fabric October 2023 Feature Summary,Monthly Update,Milestone
+2023-10-02,Monday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2023-10-03,Tuesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2023-10-04,Wednesday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2023-10-05,Thursday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2023-10-06,Friday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2023-10-07,Saturday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2023-10-08,Sunday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2023-10-09,Monday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2023-10-10,Tuesday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2023-10-11,Wednesday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2023-10-12,Thursday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2023-10-13,Friday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2023-10-14,Saturday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2023-10-15,Sunday,Microsoft Fabric Roadmap Published: Track Every Feature,Announcement,Milestone
+2023-10-16,Monday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2023-10-17,Tuesday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2023-10-18,Wednesday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2023-10-19,Thursday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2023-10-20,Friday,Delta Lake to Iceberg: OneLake Compatibility Preview,Feature Release,Milestone
+2023-10-21,Saturday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2023-10-22,Sunday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2023-10-23,Monday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2023-10-24,Tuesday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2023-10-25,Wednesday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2023-10-26,Thursday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2023-10-27,Friday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2023-10-28,Saturday,Power BI Composite Models with OneLake,Power BI,Educational
+2023-10-29,Sunday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2023-10-30,Monday,Workspace Administration: Roles and Permissions,Administration,Educational
+2023-10-31,Tuesday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2023-11-01,Wednesday,Microsoft Fabric November 2023 Feature Summary,Monthly Update,Milestone
+2023-11-02,Thursday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2023-11-03,Friday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2023-11-04,Saturday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2023-11-05,Sunday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2023-11-06,Monday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2023-11-07,Tuesday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2023-11-08,Wednesday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2023-11-09,Thursday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2023-11-10,Friday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2023-11-11,Saturday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2023-11-12,Sunday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2023-11-13,Monday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2023-11-14,Tuesday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2023-11-15,Wednesday,Microsoft Fabric is Generally Available: Ignite 2023 Announcements,Announcement,Milestone
+2023-11-16,Thursday,Fabric GA: What Changed from Preview to Production,Announcement,Milestone
+2023-11-17,Friday,Microsoft Purview Integration with Fabric: Governance at Scale,Feature Release,Milestone
+2023-11-18,Saturday,Fabric Capacity and SKU Guide: Choosing the Right Size,Announcement,Milestone
+2023-11-19,Sunday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2023-11-20,Monday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2023-11-21,Tuesday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2023-11-22,Wednesday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2023-11-23,Thursday,Snowflake Mirroring in Fabric,Integration,Educational
+2023-11-24,Friday,Spark Structured Streaming in Fabric,Advanced,Educational
+2023-11-25,Saturday,Custom Connectors in Data Factory,Advanced,Educational
+2023-11-26,Sunday,Fabric Workload Development Kit,Advanced,Educational
+2023-11-27,Monday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2023-11-28,Tuesday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2023-11-29,Wednesday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2023-11-30,Thursday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2023-12-01,Friday,Microsoft Fabric December 2023 Feature Summary,Monthly Update,Milestone
+2023-12-02,Saturday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2023-12-03,Sunday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2023-12-04,Monday,Top Fabric Community Resources for Developers,Community,Educational
+2023-12-05,Tuesday,Fabric User Groups: Connecting with Peers,Community,Educational
+2023-12-06,Wednesday,Contributing to Fabric Open Source Projects,Community,Educational
+2023-12-07,Thursday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2023-12-08,Friday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2023-12-09,Saturday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2023-12-10,Sunday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2023-12-11,Monday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2023-12-12,Tuesday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2023-12-13,Wednesday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2023-12-14,Thursday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2023-12-15,Friday,OneLake Shortcuts: Connecting to External Data Sources,Feature Release,Milestone
+2023-12-16,Saturday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2023-12-17,Sunday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2023-12-18,Monday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2023-12-19,Tuesday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2023-12-20,Wednesday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2023-12-21,Thursday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2023-12-22,Friday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2023-12-23,Saturday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2023-12-24,Sunday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2023-12-25,Monday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2023-12-26,Tuesday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2023-12-27,Wednesday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2023-12-28,Thursday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2023-12-29,Friday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2023-12-30,Saturday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2023-12-31,Sunday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2024-01-01,Monday,Microsoft Fabric January 2024 Feature Summary,Monthly Update,Milestone
+2024-01-02,Tuesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2024-01-03,Wednesday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2024-01-04,Thursday,Power BI Composite Models with OneLake,Power BI,Educational
+2024-01-05,Friday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2024-01-06,Saturday,Workspace Administration: Roles and Permissions,Administration,Educational
+2024-01-07,Sunday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2024-01-08,Monday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2024-01-09,Tuesday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2024-01-10,Wednesday,Outbound Access Protection and Firewall Preview in Fabric,Feature Release,Milestone
+2024-01-11,Thursday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2024-01-12,Friday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2024-01-13,Saturday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2024-01-14,Sunday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2024-01-15,Monday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2024-01-16,Tuesday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2024-01-17,Wednesday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2024-01-18,Thursday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2024-01-19,Friday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2024-01-20,Saturday,Cross-Fabric Notebook Connections and Environment Sharing,Feature Release,Milestone
+2024-01-21,Sunday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2024-01-22,Monday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2024-01-23,Tuesday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2024-01-24,Wednesday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2024-01-25,Thursday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2024-01-26,Friday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2024-01-27,Saturday,Snowflake Mirroring in Fabric,Integration,Educational
+2024-01-28,Sunday,Spark Structured Streaming in Fabric,Advanced,Educational
+2024-01-29,Monday,Custom Connectors in Data Factory,Advanced,Educational
+2024-01-30,Tuesday,Fabric Workload Development Kit,Advanced,Educational
+2024-01-31,Wednesday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2024-02-01,Thursday,Microsoft Fabric February 2024 Feature Summary,Monthly Update,Milestone
+2024-02-02,Friday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2024-02-03,Saturday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2024-02-04,Sunday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2024-02-05,Monday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2024-02-06,Tuesday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2024-02-07,Wednesday,Top Fabric Community Resources for Developers,Community,Educational
+2024-02-08,Thursday,Fabric User Groups: Connecting with Peers,Community,Educational
+2024-02-09,Friday,Contributing to Fabric Open Source Projects,Community,Educational
+2024-02-10,Saturday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2024-02-11,Sunday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2024-02-12,Monday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2024-02-13,Tuesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2024-02-14,Wednesday,AI Integration in Fabric: Copilot Previews Expand,Feature Release,Milestone
+2024-02-15,Thursday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2024-02-16,Friday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2024-02-17,Saturday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2024-02-18,Sunday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2024-02-19,Monday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2024-02-20,Tuesday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2024-02-21,Wednesday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2024-02-22,Thursday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2024-02-23,Friday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2024-02-24,Saturday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2024-02-25,Sunday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2024-02-26,Monday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2024-02-27,Tuesday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2024-02-28,Wednesday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2024-02-29,Thursday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2024-03-01,Friday,Microsoft Fabric March 2024 Feature Summary,Monthly Update,Milestone
+2024-03-02,Saturday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2024-03-03,Sunday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2024-03-04,Monday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2024-03-05,Tuesday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2024-03-06,Wednesday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2024-03-07,Thursday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2024-03-08,Friday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2024-03-09,Saturday,Power BI Composite Models with OneLake,Power BI,Educational
+2024-03-10,Sunday,OneLake File Explorer: Navigate Your Data Lake Like Windows,Feature Release,Milestone
+2024-03-11,Monday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2024-03-12,Tuesday,Workspace Administration: Roles and Permissions,Administration,Educational
+2024-03-13,Wednesday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2024-03-14,Thursday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2024-03-15,Friday,Autotune Query Tuning: Automated Performance Optimization,Feature Release,Milestone
+2024-03-16,Saturday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2024-03-17,Sunday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2024-03-18,Monday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2024-03-19,Tuesday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2024-03-20,Wednesday,Dataflow Gen2 Pipeline Enhancements,Feature Release,Milestone
+2024-03-21,Thursday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2024-03-22,Friday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2024-03-23,Saturday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2024-03-24,Sunday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2024-03-25,Monday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2024-03-26,Tuesday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2024-03-27,Wednesday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2024-03-28,Thursday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2024-03-29,Friday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2024-03-30,Saturday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2024-03-31,Sunday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2024-04-01,Monday,Microsoft Fabric April 2024 Feature Summary,Monthly Update,Milestone
+2024-04-02,Tuesday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2024-04-03,Wednesday,Snowflake Mirroring in Fabric,Integration,Educational
+2024-04-04,Thursday,Spark Structured Streaming in Fabric,Advanced,Educational
+2024-04-05,Friday,Custom Connectors in Data Factory,Advanced,Educational
+2024-04-06,Saturday,Fabric Workload Development Kit,Advanced,Educational
+2024-04-07,Sunday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2024-04-08,Monday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2024-04-09,Tuesday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2024-04-10,Wednesday,Managed Private Endpoints for Microsoft Fabric,Feature Release,Milestone
+2024-04-11,Thursday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2024-04-12,Friday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2024-04-13,Saturday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2024-04-14,Sunday,Top Fabric Community Resources for Developers,Community,Educational
+2024-04-15,Monday,Optimistic Job Admission for Fabric Spark,Feature Release,Milestone
+2024-04-16,Tuesday,Fabric User Groups: Connecting with Peers,Community,Educational
+2024-04-17,Wednesday,Contributing to Fabric Open Source Projects,Community,Educational
+2024-04-18,Thursday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2024-04-19,Friday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2024-04-20,Saturday,Google Cloud Storage and S3 Compatible Data Sources Preview,Feature Release,Milestone
+2024-04-21,Sunday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2024-04-22,Monday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2024-04-23,Tuesday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2024-04-24,Wednesday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2024-04-25,Thursday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2024-04-26,Friday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2024-04-27,Saturday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2024-04-28,Sunday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2024-04-29,Monday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2024-04-30,Tuesday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2024-05-01,Wednesday,Microsoft Fabric May 2024 Feature Summary,Monthly Update,Milestone
+2024-05-02,Thursday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2024-05-03,Friday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2024-05-04,Saturday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2024-05-05,Sunday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2024-05-06,Monday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2024-05-07,Tuesday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2024-05-08,Wednesday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2024-05-09,Thursday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2024-05-10,Friday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2024-05-11,Saturday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2024-05-12,Sunday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2024-05-13,Monday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2024-05-14,Tuesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2024-05-15,Wednesday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2024-05-16,Thursday,Power BI Composite Models with OneLake,Power BI,Educational
+2024-05-17,Friday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2024-05-18,Saturday,Workspace Administration: Roles and Permissions,Administration,Educational
+2024-05-19,Sunday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2024-05-20,Monday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2024-05-21,Tuesday,Microsoft Build 2024: Fabric AI and Copilot Announcements,Announcement,Milestone
+2024-05-22,Wednesday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2024-05-23,Thursday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2024-05-24,Friday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2024-05-25,Saturday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2024-05-26,Sunday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2024-05-27,Monday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2024-05-28,Tuesday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2024-05-29,Wednesday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2024-05-30,Thursday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2024-05-31,Friday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2024-06-01,Saturday,Microsoft Fabric June 2024 Feature Summary,Monthly Update,Milestone
+2024-06-02,Sunday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2024-06-03,Monday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2024-06-04,Tuesday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2024-06-05,Wednesday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2024-06-06,Thursday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2024-06-07,Friday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2024-06-08,Saturday,Snowflake Mirroring in Fabric,Integration,Educational
+2024-06-09,Sunday,Spark Structured Streaming in Fabric,Advanced,Educational
+2024-06-10,Monday,Download Large Semantic Models in Power BI,Feature Release,Milestone
+2024-06-11,Tuesday,Custom Connectors in Data Factory,Advanced,Educational
+2024-06-12,Wednesday,Fabric Workload Development Kit,Advanced,Educational
+2024-06-13,Thursday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2024-06-14,Friday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2024-06-15,Saturday,Enhanced Report Format (PBIR) Upgrade,Feature Release,Milestone
+2024-06-16,Sunday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2024-06-17,Monday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2024-06-18,Tuesday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2024-06-19,Wednesday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2024-06-20,Thursday,Top Fabric Community Resources for Developers,Community,Educational
+2024-06-21,Friday,Fabric User Groups: Connecting with Peers,Community,Educational
+2024-06-22,Saturday,Contributing to Fabric Open Source Projects,Community,Educational
+2024-06-23,Sunday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2024-06-24,Monday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2024-06-25,Tuesday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2024-06-26,Wednesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2024-06-27,Thursday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2024-06-28,Friday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2024-06-29,Saturday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2024-06-30,Sunday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2024-07-01,Monday,Microsoft Fabric July 2024 Feature Summary,Monthly Update,Milestone
+2024-07-02,Tuesday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2024-07-03,Wednesday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2024-07-04,Thursday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2024-07-05,Friday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2024-07-06,Saturday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2024-07-07,Sunday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2024-07-08,Monday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2024-07-09,Tuesday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2024-07-10,Wednesday,Git Integration: Branch Management in Fabric Workspaces,Feature Release,Milestone
+2024-07-11,Thursday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2024-07-12,Friday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2024-07-13,Saturday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2024-07-14,Sunday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2024-07-15,Monday,Data Warehouse Restore-in-Place via Fabric Editor,Feature Release,Milestone
+2024-07-16,Tuesday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2024-07-17,Wednesday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2024-07-18,Thursday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2024-07-19,Friday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2024-07-20,Saturday,Ultra-Low Refresh Dashboards: 1-Second and 10-Second Intervals,Feature Release,Milestone
+2024-07-21,Sunday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2024-07-22,Monday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2024-07-23,Tuesday,Power BI Composite Models with OneLake,Power BI,Educational
+2024-07-24,Wednesday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2024-07-25,Thursday,Workspace Administration: Roles and Permissions,Administration,Educational
+2024-07-26,Friday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2024-07-27,Saturday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2024-07-28,Sunday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2024-07-29,Monday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2024-07-30,Tuesday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2024-07-31,Wednesday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2024-08-01,Thursday,Microsoft Fabric August 2024 Feature Summary,Monthly Update,Milestone
+2024-08-02,Friday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2024-08-03,Saturday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2024-08-04,Sunday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2024-08-05,Monday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2024-08-06,Tuesday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2024-08-07,Wednesday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2024-08-08,Thursday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2024-08-09,Friday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2024-08-10,Saturday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2024-08-11,Sunday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2024-08-12,Monday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2024-08-13,Tuesday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2024-08-14,Wednesday,Snowflake Mirroring in Fabric,Integration,Educational
+2024-08-15,Thursday,Databricks and Snowflake Interoperability Improvements,Feature Release,Milestone
+2024-08-16,Friday,Spark Structured Streaming in Fabric,Advanced,Educational
+2024-08-17,Saturday,Custom Connectors in Data Factory,Advanced,Educational
+2024-08-18,Sunday,Fabric Workload Development Kit,Advanced,Educational
+2024-08-19,Monday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2024-08-20,Tuesday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2024-08-21,Wednesday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2024-08-22,Thursday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2024-08-23,Friday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2024-08-24,Saturday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2024-08-25,Sunday,Top Fabric Community Resources for Developers,Community,Educational
+2024-08-26,Monday,Fabric User Groups: Connecting with Peers,Community,Educational
+2024-08-27,Tuesday,Contributing to Fabric Open Source Projects,Community,Educational
+2024-08-28,Wednesday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2024-08-29,Thursday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2024-08-30,Friday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2024-08-31,Saturday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2024-09-01,Sunday,Microsoft Fabric September 2024 Feature Summary,Monthly Update,Milestone
+2024-09-02,Monday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2024-09-03,Tuesday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2024-09-04,Wednesday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2024-09-05,Thursday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2024-09-06,Friday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2024-09-07,Saturday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2024-09-08,Sunday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2024-09-09,Monday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2024-09-10,Tuesday,User Data Functions GA: Custom Code in Fabric,Feature Release,Milestone
+2024-09-11,Wednesday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2024-09-12,Thursday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2024-09-13,Friday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2024-09-14,Saturday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2024-09-15,Sunday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2024-09-16,Monday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2024-09-17,Tuesday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2024-09-18,Wednesday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2024-09-19,Thursday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2024-09-20,Friday,Python Notebooks IntelliSense Improvements,Feature Release,Milestone
+2024-09-21,Saturday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2024-09-22,Sunday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2024-09-23,Monday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2024-09-24,Tuesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2024-09-25,Wednesday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2024-09-26,Thursday,Power BI Composite Models with OneLake,Power BI,Educational
+2024-09-27,Friday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2024-09-28,Saturday,Workspace Administration: Roles and Permissions,Administration,Educational
+2024-09-29,Sunday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2024-09-30,Monday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2024-10-01,Tuesday,Microsoft Fabric October 2024 Feature Summary,Monthly Update,Milestone
+2024-10-02,Wednesday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2024-10-03,Thursday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2024-10-04,Friday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2024-10-05,Saturday,API for GraphQL with Service Principal Names,Feature Release,Milestone
+2024-10-06,Sunday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2024-10-07,Monday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2024-10-08,Tuesday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2024-10-09,Wednesday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2024-10-10,Thursday,"Lakehouse: Sorting, Filtering, and Searching Data",Feature Release,Milestone
+2024-10-11,Friday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2024-10-12,Saturday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2024-10-13,Sunday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2024-10-14,Monday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2024-10-15,Tuesday,DP-700 Fabric Data Engineer Certification Beta Launch,Announcement,Milestone
+2024-10-16,Wednesday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2024-10-17,Thursday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2024-10-18,Friday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2024-10-19,Saturday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2024-10-20,Sunday,Visual Calculations Preview in Power BI,Feature Release,Milestone
+2024-10-21,Monday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2024-10-22,Tuesday,Snowflake Mirroring in Fabric,Integration,Educational
+2024-10-23,Wednesday,Spark Structured Streaming in Fabric,Advanced,Educational
+2024-10-24,Thursday,Custom Connectors in Data Factory,Advanced,Educational
+2024-10-25,Friday,Dynamic Format Strings for Measures GA,Feature Release,Milestone
+2024-10-26,Saturday,Fabric Workload Development Kit,Advanced,Educational
+2024-10-27,Sunday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2024-10-28,Monday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2024-10-29,Tuesday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2024-10-30,Wednesday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2024-10-31,Thursday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2024-11-01,Friday,Microsoft Fabric November 2024 Feature Summary,Monthly Update,Milestone
+2024-11-02,Saturday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2024-11-03,Sunday,Top Fabric Community Resources for Developers,Community,Educational
+2024-11-04,Monday,Fabric User Groups: Connecting with Peers,Community,Educational
+2024-11-05,Tuesday,Contributing to Fabric Open Source Projects,Community,Educational
+2024-11-06,Wednesday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2024-11-07,Thursday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2024-11-08,Friday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2024-11-09,Saturday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2024-11-10,Sunday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2024-11-11,Monday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2024-11-12,Tuesday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2024-11-13,Wednesday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2024-11-14,Thursday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2024-11-15,Friday,SQL Database in Microsoft Fabric: Ignite 2024 Announcement,Announcement,Milestone
+2024-11-16,Saturday,Database Mirroring: Simplifying SQL Integration,Feature Release,Milestone
+2024-11-17,Sunday,FedRAMP Certification for Microsoft Fabric,Announcement,Milestone
+2024-11-18,Monday,Copilot in Power BI Mobile Apps Preview,Feature Release,Milestone
+2024-11-19,Tuesday,Set Alert with Activator Now Generally Available,Feature Release,Milestone
+2024-11-20,Wednesday,Metric Sets Preview: Advanced Metric Management,Feature Release,Milestone
+2024-11-21,Thursday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2024-11-22,Friday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2024-11-23,Saturday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2024-11-24,Sunday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2024-11-25,Monday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2024-11-26,Tuesday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2024-11-27,Wednesday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2024-11-28,Thursday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2024-11-29,Friday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2024-11-30,Saturday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2024-12-01,Sunday,Microsoft Fabric December 2024 Feature Summary,Monthly Update,Milestone
+2024-12-02,Monday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2024-12-03,Tuesday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2024-12-04,Wednesday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2024-12-05,Thursday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2024-12-06,Friday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2024-12-07,Saturday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2024-12-08,Sunday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2024-12-09,Monday,Power BI Composite Models with OneLake,Power BI,Educational
+2024-12-10,Tuesday,SQL Database Series: Security Deep Dive,Feature Release,Milestone
+2024-12-11,Wednesday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2024-12-12,Thursday,Workspace Administration: Roles and Permissions,Administration,Educational
+2024-12-13,Friday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2024-12-14,Saturday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2024-12-15,Sunday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2024-12-16,Monday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2024-12-17,Tuesday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2024-12-18,Wednesday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2024-12-19,Thursday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2024-12-20,Friday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2024-12-21,Saturday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2024-12-22,Sunday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2024-12-23,Monday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2024-12-24,Tuesday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2024-12-25,Wednesday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2024-12-26,Thursday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2024-12-27,Friday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2024-12-28,Saturday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2024-12-29,Sunday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2024-12-30,Monday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2024-12-31,Tuesday,Snowflake Mirroring in Fabric,Integration,Educational
+2025-01-01,Wednesday,Microsoft Fabric January 2025 Feature Summary,Monthly Update,Milestone
+2025-01-02,Thursday,Spark Structured Streaming in Fabric,Advanced,Educational
+2025-01-03,Friday,Custom Connectors in Data Factory,Advanced,Educational
+2025-01-04,Saturday,Fabric Workload Development Kit,Advanced,Educational
+2025-01-05,Sunday,Python Notebook Native Support Preview,Feature Release,Milestone
+2025-01-06,Monday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2025-01-07,Tuesday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2025-01-08,Wednesday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2025-01-09,Thursday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2025-01-10,Friday,CI/CD for Dataflows Generally Available,Feature Release,Milestone
+2025-01-11,Saturday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2025-01-12,Sunday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2025-01-13,Monday,Top Fabric Community Resources for Developers,Community,Educational
+2025-01-14,Tuesday,Fabric User Groups: Connecting with Peers,Community,Educational
+2025-01-15,Wednesday,Mirroring CI/CD Support Preview,Feature Release,Milestone
+2025-01-16,Thursday,Contributing to Fabric Open Source Projects,Community,Educational
+2025-01-17,Friday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2025-01-18,Saturday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2025-01-19,Sunday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2025-01-20,Monday,Semantic Model Version History Preview,Feature Release,Milestone
+2025-01-21,Tuesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2025-01-22,Wednesday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2025-01-23,Thursday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2025-01-24,Friday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2025-01-25,Saturday,TMDL Scripting Preview: Tabular Model Definition Language,Feature Release,Milestone
+2025-01-26,Sunday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2025-01-27,Monday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2025-01-28,Tuesday,FabCon 2025 Announced: March 31 - April 2 in Las Vegas,Announcement,Milestone
+2025-01-29,Wednesday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2025-01-30,Thursday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2025-01-31,Friday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2025-02-01,Saturday,Microsoft Fabric February 2025 Feature Summary,Monthly Update,Milestone
+2025-02-02,Sunday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2025-02-03,Monday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2025-02-04,Tuesday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2025-02-05,Wednesday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2025-02-06,Thursday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2025-02-07,Friday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2025-02-08,Saturday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2025-02-09,Sunday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2025-02-10,Monday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2025-02-11,Tuesday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2025-02-12,Wednesday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2025-02-13,Thursday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2025-02-14,Friday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2025-02-15,Saturday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2025-02-16,Sunday,Power BI Composite Models with OneLake,Power BI,Educational
+2025-02-17,Monday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2025-02-18,Tuesday,Workspace Administration: Roles and Permissions,Administration,Educational
+2025-02-19,Wednesday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2025-02-20,Thursday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2025-02-21,Friday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2025-02-22,Saturday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2025-02-23,Sunday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2025-02-24,Monday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2025-02-25,Tuesday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2025-02-26,Wednesday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2025-02-27,Thursday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2025-02-28,Friday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2025-03-01,Saturday,Microsoft Fabric March 2025 Feature Summary,Monthly Update,Milestone
+2025-03-02,Sunday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2025-03-03,Monday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2025-03-04,Tuesday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2025-03-05,Wednesday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2025-03-06,Thursday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2025-03-07,Friday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2025-03-08,Saturday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2025-03-09,Sunday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2025-03-10,Monday,Snowflake Mirroring in Fabric,Integration,Educational
+2025-03-11,Tuesday,Spark Structured Streaming in Fabric,Advanced,Educational
+2025-03-12,Wednesday,Custom Connectors in Data Factory,Advanced,Educational
+2025-03-13,Thursday,Fabric Workload Development Kit,Advanced,Educational
+2025-03-14,Friday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2025-03-15,Saturday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2025-03-16,Sunday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2025-03-17,Monday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2025-03-18,Tuesday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2025-03-19,Wednesday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2025-03-20,Thursday,Top Fabric Community Resources for Developers,Community,Educational
+2025-03-21,Friday,Fabric User Groups: Connecting with Peers,Community,Educational
+2025-03-22,Saturday,Contributing to Fabric Open Source Projects,Community,Educational
+2025-03-23,Sunday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2025-03-24,Monday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2025-03-25,Tuesday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2025-03-26,Wednesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2025-03-27,Thursday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2025-03-28,Friday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2025-03-29,Saturday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2025-03-30,Sunday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2025-03-31,Monday,FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs,Announcement,Milestone
+2025-04-01,Tuesday,FabCon 2025 Day 2: OneLake Security Unified Access Control,Announcement,Milestone
+2025-04-02,Wednesday,FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration,Announcement,Milestone
+2025-04-03,Thursday,FabCon 2025 Recap: Azure Key Vault in Data Factory,Feature Release,Milestone
+2025-04-04,Friday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2025-04-05,Saturday,Migration Assistant for Fabric Data Warehouse Preview,Feature Release,Milestone
+2025-04-06,Sunday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2025-04-07,Monday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2025-04-08,Tuesday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2025-04-09,Wednesday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2025-04-10,Thursday,Power BI DataViz World Championship Winners,Announcement,Milestone
+2025-04-11,Friday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2025-04-12,Saturday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2025-04-13,Sunday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2025-04-14,Monday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2025-04-15,Tuesday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2025-04-16,Wednesday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2025-04-17,Thursday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2025-04-18,Friday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2025-04-19,Saturday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2025-04-20,Sunday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2025-04-21,Monday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2025-04-22,Tuesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2025-04-23,Wednesday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2025-04-24,Thursday,Power BI Composite Models with OneLake,Power BI,Educational
+2025-04-25,Friday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2025-04-26,Saturday,Workspace Administration: Roles and Permissions,Administration,Educational
+2025-04-27,Sunday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2025-04-28,Monday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2025-04-29,Tuesday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2025-04-30,Wednesday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2025-05-01,Thursday,Microsoft Fabric May 2025 Feature Summary,Monthly Update,Milestone
+2025-05-02,Friday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2025-05-03,Saturday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2025-05-04,Sunday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2025-05-05,Monday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2025-05-06,Tuesday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2025-05-07,Wednesday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2025-05-08,Thursday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2025-05-09,Friday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2025-05-10,Saturday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2025-05-11,Sunday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2025-05-12,Monday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2025-05-13,Tuesday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2025-05-14,Wednesday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2025-05-15,Thursday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2025-05-16,Friday,Snowflake Mirroring in Fabric,Integration,Educational
+2025-05-17,Saturday,Spark Structured Streaming in Fabric,Advanced,Educational
+2025-05-18,Sunday,Custom Connectors in Data Factory,Advanced,Educational
+2025-05-19,Monday,Build 2025: Fabric Roadmap Tool Introduction,Announcement,Milestone
+2025-05-20,Tuesday,Build 2025: Translytical Workflows in Power BI,Announcement,Milestone
+2025-05-21,Wednesday,Build 2025: Cosmos DB Integration Private Preview,Announcement,Milestone
+2025-05-22,Thursday,Fabric Workload Development Kit,Advanced,Educational
+2025-05-23,Friday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2025-05-24,Saturday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2025-05-25,Sunday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2025-05-26,Monday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2025-05-27,Tuesday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2025-05-28,Wednesday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2025-05-29,Thursday,Top Fabric Community Resources for Developers,Community,Educational
+2025-05-30,Friday,Fabric User Groups: Connecting with Peers,Community,Educational
+2025-05-31,Saturday,Contributing to Fabric Open Source Projects,Community,Educational
+2025-06-01,Sunday,Microsoft Fabric June 2025 Feature Summary,Monthly Update,Milestone
+2025-06-02,Monday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2025-06-03,Tuesday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2025-06-04,Wednesday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2025-06-05,Thursday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2025-06-06,Friday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2025-06-07,Saturday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2025-06-08,Sunday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2025-06-09,Monday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2025-06-10,Tuesday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2025-06-11,Wednesday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2025-06-12,Thursday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2025-06-13,Friday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2025-06-14,Saturday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2025-06-15,Sunday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2025-06-16,Monday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2025-06-17,Tuesday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2025-06-18,Wednesday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2025-06-19,Thursday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2025-06-20,Friday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2025-06-21,Saturday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2025-06-22,Sunday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2025-06-23,Monday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2025-06-24,Tuesday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2025-06-25,Wednesday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2025-06-26,Thursday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2025-06-27,Friday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2025-06-28,Saturday,Power BI Composite Models with OneLake,Power BI,Educational
+2025-06-29,Sunday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2025-06-30,Monday,Workspace Administration: Roles and Permissions,Administration,Educational
+2025-07-01,Tuesday,Microsoft Fabric July 2025 Feature Summary,Monthly Update,Milestone
+2025-07-02,Wednesday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2025-07-03,Thursday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2025-07-04,Friday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2025-07-05,Saturday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2025-07-06,Sunday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2025-07-07,Monday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2025-07-08,Tuesday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2025-07-09,Wednesday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2025-07-10,Thursday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2025-07-11,Friday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2025-07-12,Saturday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2025-07-13,Sunday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2025-07-14,Monday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2025-07-15,Tuesday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2025-07-16,Wednesday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2025-07-17,Thursday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2025-07-18,Friday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2025-07-19,Saturday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2025-07-20,Sunday,Snowflake Mirroring in Fabric,Integration,Educational
+2025-07-21,Monday,Spark Structured Streaming in Fabric,Advanced,Educational
+2025-07-22,Tuesday,Custom Connectors in Data Factory,Advanced,Educational
+2025-07-23,Wednesday,Fabric Workload Development Kit,Advanced,Educational
+2025-07-24,Thursday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2025-07-25,Friday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2025-07-26,Saturday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2025-07-27,Sunday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2025-07-28,Monday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2025-07-29,Tuesday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2025-07-30,Wednesday,Top Fabric Community Resources for Developers,Community,Educational
+2025-07-31,Thursday,Fabric User Groups: Connecting with Peers,Community,Educational
+2025-08-01,Friday,Microsoft Fabric August 2025 Feature Summary,Monthly Update,Milestone
+2025-08-02,Saturday,Contributing to Fabric Open Source Projects,Community,Educational
+2025-08-03,Sunday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2025-08-04,Monday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2025-08-05,Tuesday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2025-08-06,Wednesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2025-08-07,Thursday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2025-08-08,Friday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2025-08-09,Saturday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2025-08-10,Sunday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2025-08-11,Monday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2025-08-12,Tuesday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2025-08-13,Wednesday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2025-08-14,Thursday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2025-08-15,Friday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2025-08-16,Saturday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2025-08-17,Sunday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2025-08-18,Monday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2025-08-19,Tuesday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2025-08-20,Wednesday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2025-08-21,Thursday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2025-08-22,Friday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2025-08-23,Saturday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2025-08-24,Sunday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2025-08-25,Monday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2025-08-26,Tuesday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2025-08-27,Wednesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2025-08-28,Thursday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2025-08-29,Friday,Power BI Composite Models with OneLake,Power BI,Educational
+2025-08-30,Saturday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2025-08-31,Sunday,Workspace Administration: Roles and Permissions,Administration,Educational
+2025-09-01,Monday,Microsoft Fabric September 2025 Feature Summary,Monthly Update,Milestone
+2025-09-02,Tuesday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2025-09-03,Wednesday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2025-09-04,Thursday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2025-09-05,Friday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2025-09-06,Saturday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2025-09-07,Sunday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2025-09-08,Monday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2025-09-09,Tuesday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2025-09-10,Wednesday,Autoscale Spark Billing GA,Feature Release,Milestone
+2025-09-11,Thursday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2025-09-12,Friday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2025-09-13,Saturday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2025-09-14,Sunday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2025-09-15,Monday,High-Concurrency Notebooks GA,Feature Release,Milestone
+2025-09-16,Tuesday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2025-09-17,Wednesday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2025-09-18,Thursday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2025-09-19,Friday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2025-09-20,Saturday,Parameterized Connections in Data Factory,Feature Release,Milestone
+2025-09-21,Sunday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2025-09-22,Monday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2025-09-23,Tuesday,Snowflake Mirroring in Fabric,Integration,Educational
+2025-09-24,Wednesday,Spark Structured Streaming in Fabric,Advanced,Educational
+2025-09-25,Thursday,Custom Connectors in Data Factory,Advanced,Educational
+2025-09-26,Friday,Fabric Workload Development Kit,Advanced,Educational
+2025-09-27,Saturday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2025-09-28,Sunday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2025-09-29,Monday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2025-09-30,Tuesday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2025-10-01,Wednesday,Microsoft Fabric October 2025 Feature Summary,Monthly Update,Milestone
+2025-10-02,Thursday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2025-10-03,Friday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2025-10-04,Saturday,Top Fabric Community Resources for Developers,Community,Educational
+2025-10-05,Sunday,Fabric User Groups: Connecting with Peers,Community,Educational
+2025-10-06,Monday,Contributing to Fabric Open Source Projects,Community,Educational
+2025-10-07,Tuesday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2025-10-08,Wednesday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2025-10-09,Thursday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2025-10-10,Friday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2025-10-11,Saturday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2025-10-12,Sunday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2025-10-13,Monday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2025-10-14,Tuesday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2025-10-15,Wednesday,Fabric CLI Open Source Release,Feature Release,Milestone
+2025-10-16,Thursday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2025-10-17,Friday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2025-10-18,Saturday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2025-10-19,Sunday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2025-10-20,Monday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2025-10-21,Tuesday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2025-10-22,Wednesday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2025-10-23,Thursday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2025-10-24,Friday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2025-10-25,Saturday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2025-10-26,Sunday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2025-10-27,Monday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2025-10-28,Tuesday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2025-10-29,Wednesday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2025-10-30,Thursday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2025-10-31,Friday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2025-11-01,Saturday,Microsoft Fabric November 2025 Feature Summary,Monthly Update,Milestone
+2025-11-02,Sunday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2025-11-03,Monday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2025-11-04,Tuesday,Power BI Composite Models with OneLake,Power BI,Educational
+2025-11-05,Wednesday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2025-11-06,Thursday,Workspace Administration: Roles and Permissions,Administration,Educational
+2025-11-07,Friday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2025-11-08,Saturday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2025-11-09,Sunday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2025-11-10,Monday,SQL Database in Fabric GA,Feature Release,Milestone
+2025-11-11,Tuesday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2025-11-12,Wednesday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2025-11-13,Thursday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2025-11-14,Friday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2025-11-15,Saturday,Cosmos DB in Fabric GA,Feature Release,Milestone
+2025-11-16,Sunday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2025-11-17,Monday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2025-11-18,Tuesday,Ignite 2025: Major AI Agent Announcements,Announcement,Milestone
+2025-11-19,Wednesday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2025-11-20,Thursday,HTTP and MongoDB CDC Connectors,Feature Release,Milestone
+2025-11-21,Friday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2025-11-22,Saturday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2025-11-23,Sunday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2025-11-24,Monday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2025-11-25,Tuesday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2025-11-26,Wednesday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2025-11-27,Thursday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2025-11-28,Friday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2025-11-29,Saturday,Snowflake Mirroring in Fabric,Integration,Educational
+2025-11-30,Sunday,Spark Structured Streaming in Fabric,Advanced,Educational
+2025-12-01,Monday,Microsoft Fabric December 2025 Feature Summary,Monthly Update,Milestone
+2025-12-02,Tuesday,Custom Connectors in Data Factory,Advanced,Educational
+2025-12-03,Wednesday,Fabric Workload Development Kit,Advanced,Educational
+2025-12-04,Thursday,Tutorial: End-to-End Sales Analytics in Fabric,Tutorial,Educational
+2025-12-05,Friday,Tutorial: Real-Time IoT Dashboard in Fabric,Tutorial,Educational
+2025-12-06,Saturday,Tutorial: Customer 360 with Fabric Data Science,Tutorial,Educational
+2025-12-07,Sunday,DP-600 Exam Guide: Fabric Analytics Engineer,Certification,Educational
+2025-12-08,Monday,DP-700 Exam Guide: Fabric Data Engineer,Certification,Educational
+2025-12-09,Tuesday,Fabric Certification Study Plan: 30-Day Guide,Certification,Educational
+2025-12-10,Wednesday,Top Fabric Community Resources for Developers,Community,Educational
+2025-12-11,Thursday,Fabric User Groups: Connecting with Peers,Community,Educational
+2025-12-12,Friday,Contributing to Fabric Open Source Projects,Community,Educational
+2025-12-13,Saturday,Troubleshooting Spark Job Failures in Fabric,Troubleshooting,Educational
+2025-12-14,Sunday,Debugging Pipeline Errors in Data Factory,Troubleshooting,Educational
+2025-12-15,Monday,Performance Diagnostics for Slow Queries,Troubleshooting,Educational
+2025-12-16,Tuesday,Getting Started with OneLake: Your First Data Lake,OneLake,Educational
+2025-12-17,Wednesday,"OneLake Shortcuts Deep Dive: ADLS, S3, and GCS",OneLake,Educational
+2025-12-18,Thursday,OneLake Security Best Practices for Enterprise,OneLake,Educational
+2025-12-19,Friday,Building Your First Lakehouse in Microsoft Fabric,Lakehouse,Educational
+2025-12-20,Saturday,Delta Tables vs Files: When to Use Each in Lakehouse,Lakehouse,Educational
+2025-12-21,Sunday,Lakehouse Performance Tuning: V-Order and Optimization,Lakehouse,Educational
+2025-12-22,Monday,Apache Spark in Fabric: Architecture Overview,Data Engineering,Educational
+2025-12-23,Tuesday,PySpark Best Practices for Fabric Notebooks,Data Engineering,Educational
+2025-12-24,Wednesday,Notebook Development Patterns: Modular Code Design,Data Engineering,Educational
+2025-12-25,Thursday,Data Factory Pipelines: Copy Activity Mastery,Data Factory,Educational
+2025-12-26,Friday,Dataflows Gen2: Power Query at Scale,Data Factory,Educational
+2025-12-27,Saturday,Pipeline Orchestration: Activities and Triggers,Data Factory,Educational
+2025-12-28,Sunday,Fabric Data Warehouse: T-SQL for Analytics,Data Warehouse,Educational
+2025-12-29,Monday,Warehouse Performance: Distribution and Indexing,Data Warehouse,Educational
+2025-12-30,Tuesday,Cross-Database Queries in Fabric Warehouse,Data Warehouse,Educational
+2025-12-31,Wednesday,Machine Learning in Fabric: Experiments and Models,Data Science,Educational
+2026-01-01,Thursday,Microsoft Fabric January 2026 Feature Summary,Monthly Update,Milestone
+2026-01-02,Friday,MLflow Integration: Tracking Experiments in Fabric,Data Science,Educational
+2026-01-03,Saturday,AutoML in Fabric: No-Code Model Training,Data Science,Educational
+2026-01-04,Sunday,Eventstreams: Real-Time Data Ingestion in Fabric,Real-Time Intelligence,Educational
+2026-01-05,Monday,KQL Database: Querying Streaming Data,Real-Time Intelligence,Educational
+2026-01-06,Tuesday,Data Activator: Automated Alerts and Actions,Real-Time Intelligence,Educational
+2026-01-07,Wednesday,Direct Lake Mode: The Best of Import and DirectQuery,Power BI,Educational
+2026-01-08,Thursday,Semantic Models in Fabric: Design Patterns,Power BI,Educational
+2026-01-09,Friday,Power BI Composite Models with OneLake,Power BI,Educational
+2026-01-10,Saturday,Fabric Capacity Management: CUs and Throttling,Administration,Educational
+2026-01-11,Sunday,Workspace Administration: Roles and Permissions,Administration,Educational
+2026-01-12,Monday,Monitoring Fabric: Capacity Metrics App,Administration,Educational
+2026-01-13,Tuesday,Git Integration in Fabric: Version Control Basics,DevOps,Educational
+2026-01-14,Wednesday,CI/CD Pipelines for Fabric: Deployment Automation,DevOps,Educational
+2026-01-15,Thursday,Cross-Tenant DevOps Support,Feature Release,Milestone
+2026-01-16,Friday,Fabric REST APIs: Automating Administration,DevOps,Educational
+2026-01-17,Saturday,Copilot in Power BI: Natural Language Analytics,AI/Copilot,Educational
+2026-01-18,Sunday,AI Skills in Fabric: Building Custom Agents,AI/Copilot,Educational
+2026-01-19,Monday,Azure OpenAI Integration with Fabric Data,AI/Copilot,Educational
+2026-01-20,Tuesday,Migrating from Azure Synapse to Fabric,Migration,Educational
+2026-01-21,Wednesday,Power BI to Fabric: Upgrade Path Guide,Migration,Educational
+2026-01-22,Thursday,Azure Data Factory to Fabric Data Factory Migration,Migration,Educational
+2026-01-23,Friday,Row-Level Security in Fabric Semantic Models,Security,Educational
+2026-01-24,Saturday,Microsoft Purview with Fabric: Data Governance,Governance,Educational
+2026-01-25,Sunday,Sensitivity Labels in Fabric: Information Protection,Security,Educational
+2026-01-26,Monday,"Fabric Medallion Architecture: Bronze, Silver, Gold",Best Practices,Educational
+2026-01-27,Tuesday,Cost Optimization in Fabric: Capacity Planning,Best Practices,Educational
+2026-01-28,Wednesday,Multi-Tenant Fabric Architectures,Best Practices,Educational
+2026-01-29,Thursday,Azure Data Lake Storage Gen2 with Fabric,Integration,Educational
+2026-01-30,Friday,Databricks Unity Catalog and Fabric Shortcuts,Integration,Educational
+2026-01-31,Saturday,Snowflake Mirroring in Fabric,Integration,Educational
+2026-02-01,Sunday,Spark Structured Streaming in Fabric,Advanced,Educational

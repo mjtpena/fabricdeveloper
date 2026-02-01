@@ -1,0 +1,4 @@
+Python Support in KQL: Running Python in Real-Time Analytics
+2023-08-20
+Feature Release
+Milestone

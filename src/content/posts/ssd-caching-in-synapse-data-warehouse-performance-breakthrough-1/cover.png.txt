@@ -1,0 +1,4 @@
+SSD Caching in Synapse Data Warehouse: Performance Breakthrough
+2023-08-15
+Feature Release
+Milestone

@@ -1,0 +1,4 @@
+KQL Database: Querying Streaming Data
+2023-08-19
+Real-Time Intelligence
+Educational

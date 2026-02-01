@@ -1,0 +1,4 @@
+Fabric CLI Open Source Release
+2025-10-15
+Feature Release
+Milestone

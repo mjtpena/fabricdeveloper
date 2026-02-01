@@ -1,0 +1,4 @@
+Azure Data Lake Storage Gen2 with Fabric
+2026-01-29
+Integration
+Educational

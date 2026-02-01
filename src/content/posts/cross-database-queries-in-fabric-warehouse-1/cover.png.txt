@@ -1,0 +1,4 @@
+Cross-Database Queries in Fabric Warehouse
+2023-06-10
+Data Warehouse
+Educational

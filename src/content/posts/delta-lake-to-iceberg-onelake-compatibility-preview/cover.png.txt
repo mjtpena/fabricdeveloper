@@ -1,0 +1,1 @@
+Cover image placeholder for: Delta Lake to Iceberg: OneLake Compatibility Preview

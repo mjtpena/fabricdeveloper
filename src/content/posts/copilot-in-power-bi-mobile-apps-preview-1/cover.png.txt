@@ -1,0 +1,4 @@
+Copilot in Power BI Mobile Apps Preview
+2024-11-18
+Feature Release
+Milestone

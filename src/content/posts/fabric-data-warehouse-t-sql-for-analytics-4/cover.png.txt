@@ -1,0 +1,4 @@
+Fabric Data Warehouse: T-SQL for Analytics
+2023-12-23
+Data Warehouse
+Educational

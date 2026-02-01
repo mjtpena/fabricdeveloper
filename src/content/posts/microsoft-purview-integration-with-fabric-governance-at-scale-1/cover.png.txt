@@ -1,0 +1,4 @@
+Microsoft Purview Integration with Fabric: Governance at Scale
+2023-11-17
+Feature Release
+Milestone

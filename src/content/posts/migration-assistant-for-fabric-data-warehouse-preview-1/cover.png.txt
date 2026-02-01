@@ -1,0 +1,4 @@
+Migration Assistant for Fabric Data Warehouse Preview
+2025-04-05
+Feature Release
+Milestone

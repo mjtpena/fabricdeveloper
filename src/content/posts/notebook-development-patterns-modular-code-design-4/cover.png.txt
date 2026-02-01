@@ -1,0 +1,4 @@
+Notebook Development Patterns: Modular Code Design
+2023-12-19
+Data Engineering
+Educational

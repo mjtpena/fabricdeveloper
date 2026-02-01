@@ -1,0 +1,1 @@
+Cover image placeholder for: HTTP and MongoDB CDC Connectors

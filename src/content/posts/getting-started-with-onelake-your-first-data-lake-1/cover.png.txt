@@ -1,0 +1,4 @@
+Getting Started with OneLake: Your First Data Lake
+2023-05-26
+OneLake
+Educational

@@ -1,0 +1,4 @@
+Row-Level Security in Fabric Semantic Models
+2023-09-07
+Security
+Educational

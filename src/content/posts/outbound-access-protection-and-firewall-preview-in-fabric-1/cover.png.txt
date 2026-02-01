@@ -1,0 +1,4 @@
+Outbound Access Protection and Firewall Preview in Fabric
+2024-01-10
+Feature Release
+Milestone

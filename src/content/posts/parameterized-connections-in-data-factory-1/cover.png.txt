@@ -1,0 +1,4 @@
+Parameterized Connections in Data Factory
+2025-09-20
+Feature Release
+Milestone

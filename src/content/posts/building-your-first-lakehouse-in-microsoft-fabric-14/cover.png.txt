@@ -1,0 +1,4 @@
+Building Your First Lakehouse in Microsoft Fabric
+2025-10-13
+Lakehouse
+Educational

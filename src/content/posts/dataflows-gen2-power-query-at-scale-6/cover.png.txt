@@ -1,0 +1,4 @@
+Dataflows Gen2: Power Query at Scale
+2024-05-03
+Data Factory
+Educational

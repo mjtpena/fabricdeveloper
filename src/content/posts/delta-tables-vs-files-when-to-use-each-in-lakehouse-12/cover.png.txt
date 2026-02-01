@@ -1,0 +1,4 @@
+Delta Tables vs Files: When to Use Each in Lakehouse
+2025-06-09
+Lakehouse
+Educational

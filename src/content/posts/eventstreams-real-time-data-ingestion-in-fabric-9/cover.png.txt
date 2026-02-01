@@ -1,0 +1,4 @@
+Eventstreams: Real-Time Data Ingestion in Fabric
+2024-12-04
+Real-Time Intelligence
+Educational

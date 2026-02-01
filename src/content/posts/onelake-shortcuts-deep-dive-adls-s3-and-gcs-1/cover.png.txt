@@ -1,0 +1,4 @@
+OneLake Shortcuts Deep Dive: ADLS, S3, and GCS
+2023-05-27
+OneLake
+Educational

@@ -1,0 +1,4 @@
+Real-Time Analytics in Fabric: KQL Database First Look
+2023-07-10
+Feature Release
+Milestone
