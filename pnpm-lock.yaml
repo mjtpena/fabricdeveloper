@@ -28,8 +28,8 @@ importers:
         specifier: ^5.1.0
         version: 5.1.0(astro@4.15.0(@types/node@22.5.4)(lightningcss@1.26.0)(rollup@2.79.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.6)(typescript@5.5.4))(tailwindcss@3.4.10)
       '@fontsource-variable/jetbrains-mono':
-        specifier: ^5.0.22
-        version: 5.0.22
+        specifier: ^5.2.0
+        version: 5.2.0
       '@fontsource/roboto':
         specifier: ^5.0.14
         version: 5.0.14
@@ -1312,7 +1312,7 @@ packages:
     resolution: {integrity: sha512-X8R8Oj771YRl/w+c1HqAC1szL8zWQRwFvgDwT129k9ACdBoud/+/rX9V0qiMl6LWUdP9voC2nDVZYPMQQsb6eA==}
 
   '@fontsource-variable/jetbrains-mono@5.2.0':
-    resolution: {integrity: sha512-2LZQFb37H9iUY92qrhqjvrrkBPROdmBy5MMDgQX+FGeHdVE2WwvGt4lOpxOAy0L/bwE2Y0UCe/eb/tOs1kaTYQ==}
+    resolution: {integrity: sha512-lADaBQjb74/qSw2y4skhPhuz2OJvAdsrO5EkRnRTjkIBNwOryI4bskaDtDRVOCYggvcYAzGgEgG73DFX8LrgZg==}
 
   '@fontsource/roboto@5.0.14':
     resolution: {integrity: sha512-zHAxlTTm9RuRn9/StwclFJChf3z9+fBrOxC3fw71htjHP1BgXNISwRjdJtAKAmMe5S2BzgpnjkQR93P9EZYI/Q==}
@@ -1345,6 +1345,12 @@ packages:
 
   '@graphql-codegen/plugin-helpers@5.0.4':
     resolution: {integrity: sha512-MOIuHFNWUnFnqVmiXtrI+4UziMTYrcquljaI5f/T/Bc7oO7sXcfkAvgkNWEEi9xWreYwvuer3VHCuPI/lAFWbw==}
+    peerDependencies:
+      graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
+
+  '@graphql-codegen/plugin-helpers@6.1.0':
+    resolution: {integrity: sha512-JJypehWTcty9kxKiqH7TQOetkGdOYjY78RHlI+23qB59cV2wxjFFVf8l7kmuXS4cpGVUNfIjFhVr7A1W7JMtdA==}
+    engines: {node: '>=16'}
     peerDependencies:
       graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
 
@@ -9659,6 +9665,16 @@ snapshots:
       lodash: 4.17.21
       tslib: 2.6.2
 
+  '@graphql-codegen/plugin-helpers@6.1.0(graphql@15.8.0)':
+    dependencies:
+      '@graphql-tools/utils': 10.5.4(graphql@15.8.0)
+      change-case-all: 1.0.15
+      common-tags: 1.8.2
+      graphql: 15.8.0
+      import-from: 4.0.0
+      lodash: 4.17.21
+      tslib: 2.6.2
+
   '@graphql-codegen/schema-ast@4.1.0(graphql@15.8.0)':
     dependencies:
       '@graphql-codegen/plugin-helpers': 5.0.4(graphql@15.8.0)
@@ -11063,7 +11079,7 @@ snapshots:
   '@tinacms/cli@1.6.2(@codemirror/language@6.0.0)(@types/node@22.5.4)(@types/react@18.3.5)(abstract-level@1.0.4)(immer@10.1.1)(lightningcss@1.26.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(rollup@2.79.1)(sass@1.77.8)(scheduler@0.23.2)(stylus@0.63.0)(terser@5.31.6)':
     dependencies:
       '@graphql-codegen/core': 2.6.8(graphql@15.8.0)
-      '@graphql-codegen/plugin-helpers': 5.0.4(graphql@15.8.0)
+      '@graphql-codegen/plugin-helpers': 6.1.0(graphql@15.8.0)
       '@graphql-codegen/typescript': 4.0.9(graphql@15.8.0)
       '@graphql-codegen/typescript-operations': 4.2.3(graphql@15.8.0)
       '@graphql-codegen/visitor-plugin-common': 4.1.2(graphql@15.8.0)
@@ -12355,7 +12371,7 @@ snapshots:
       unist-util-visit: 5.0.0
       vfile: 6.0.3
       vite: 5.4.2(@types/node@22.5.4)(lightningcss@1.25.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)
-      vitefu: 0.2.5(vite@5.4.2(@types/node@22.5.4)(lightningcss@1.26.0)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.6))
+      vitefu: 0.2.5(vite@5.4.2(@types/node@22.5.4)(lightningcss@1.25.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3))
       which-pm: 3.0.0
       xxhash-wasm: 1.0.2
       yargs-parser: 21.1.1
@@ -18064,6 +18080,10 @@ snapshots:
       sass: 1.77.8
       stylus: 0.63.0
       terser: 5.31.6
+
+  vitefu@0.2.5(vite@5.4.2(@types/node@22.5.4)(lightningcss@1.25.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)):
+    optionalDependencies:
+      vite: 5.4.2(@types/node@22.5.4)(lightningcss@1.25.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)
 
   vitefu@0.2.5(vite@5.4.2(@types/node@22.5.4)(lightningcss@1.26.0)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.6)):
     optionalDependencies:
