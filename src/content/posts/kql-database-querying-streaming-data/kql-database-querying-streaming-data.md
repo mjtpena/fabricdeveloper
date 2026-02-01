@@ -1,15 +1,14 @@
 ---
-title: KQL Database: Querying Streaming Data
-published: 2026-01-05T00:00:00.000Z
-description: >-
-  Implement real-time analytics and streaming in Fabric
-tags:
-  - Fabric
-  - Real-Time Intelligence
-  - KQL
 category: Fabric
-image: "./cover.png"
+description: Implement real-time analytics and streaming in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-05 00:00:00
+tags:
+- Fabric
+- Real-Time Intelligence
+- KQL
+title: 'KQL Database: Querying Streaming Data'
 ---
 
 # KQL Database: Querying Streaming Data

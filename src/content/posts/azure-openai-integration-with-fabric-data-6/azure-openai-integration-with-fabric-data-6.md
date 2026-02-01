@@ -1,17 +1,15 @@
 ---
-title: Azure OpenAI Integration with Fabric Data
-
-published: 2024-05-26T14:00:00.000Z
-description: >-
-  AI/Copilot in Microsoft Fabric: comprehensive guide to azure openai integration with fabric data
-
-tags:
-  - Fabric
-  - GenAI
-  - Copilot
 category: Fabric
-image: "./cover.png"
+description: 'AI/Copilot in Microsoft Fabric: comprehensive guide to azure openai
+  integration with fabric data'
 draft: false
+image: ./cover.png
+published: 2024-05-26 14:00:00
+tags:
+- Fabric
+- GenAI
+- Copilot
+title: Azure OpenAI Integration with Fabric Data
 ---
 
 # Azure OpenAI Integration with Fabric Data

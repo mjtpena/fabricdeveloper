@@ -1,16 +1,14 @@
 ---
-title: OneLake: The OneDrive for Data - What Fabric Developers Need to Know
-
-published: 2023-05-24T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to onelake: the onedrive for data - what fabric developers need to know
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to onelake: the
+  onedrive for data - what fabric developers need to know'
 draft: false
+image: ./cover.png
+published: 2023-05-24 14:00:00
+tags:
+- Fabric
+- News
+title: 'OneLake: The OneDrive for Data - What Fabric Developers Need to Know'
 ---
 
 # OneLake: The OneDrive for Data - What Fabric Developers Need to Know

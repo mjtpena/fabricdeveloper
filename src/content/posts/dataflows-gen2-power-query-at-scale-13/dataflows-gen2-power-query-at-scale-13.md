@@ -1,17 +1,15 @@
 ---
-title: Dataflows Gen2: Power Query at Scale
-
-published: 2025-08-16T14:00:00.000Z
-description: >-
-  Data Factory in Microsoft Fabric: comprehensive guide to dataflows gen2: power query at scale
-
-tags:
-  - Fabric
-  - Data Factory
-  - ETL
 category: Fabric
-image: "./cover.png"
+description: 'Data Factory in Microsoft Fabric: comprehensive guide to dataflows gen2:
+  power query at scale'
 draft: false
+image: ./cover.png
+published: 2025-08-16 14:00:00
+tags:
+- Fabric
+- Data Factory
+- ETL
+title: 'Dataflows Gen2: Power Query at Scale'
 ---
 
 # Dataflows Gen2: Power Query at Scale

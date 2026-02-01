@@ -1,14 +1,13 @@
 ---
-title: Debugging Pipeline Errors in Data Factory
-published: 2025-12-14T00:00:00.000Z
-description: >-
-  Solve common issues and errors in Fabric
-tags:
-  - Fabric
-  - Troubleshooting
 category: Fabric
-image: "./cover.png"
+description: Solve common issues and errors in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-14 00:00:00
+tags:
+- Fabric
+- Troubleshooting
+title: Debugging Pipeline Errors in Data Factory
 ---
 
 # Debugging Pipeline Errors in Data Factory

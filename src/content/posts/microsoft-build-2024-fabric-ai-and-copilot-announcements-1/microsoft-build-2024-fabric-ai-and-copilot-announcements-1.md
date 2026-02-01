@@ -1,16 +1,14 @@
 ---
-title: Microsoft Build 2024: Fabric AI and Copilot Announcements
-
-published: 2024-05-21T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to microsoft build 2024: fabric ai and copilot announcements
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to microsoft build
+  2024: fabric ai and copilot announcements'
 draft: false
+image: ./cover.png
+published: 2024-05-21 14:00:00
+tags:
+- Fabric
+- News
+title: 'Microsoft Build 2024: Fabric AI and Copilot Announcements'
 ---
 
 # Microsoft Build 2024: Fabric AI and Copilot Announcements

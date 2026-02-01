@@ -1,14 +1,13 @@
 ---
-title: Ultra-Low Refresh Dashboards: 1-Second and 10-Second Intervals
-published: 2024-07-20T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-07-20 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'Ultra-Low Refresh Dashboards: 1-Second and 10-Second Intervals'
 ---
 
 # Ultra-Low Refresh Dashboards: 1-Second and 10-Second Intervals

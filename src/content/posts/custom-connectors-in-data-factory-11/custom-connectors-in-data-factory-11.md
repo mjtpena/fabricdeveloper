@@ -1,16 +1,14 @@
 ---
-title: Custom Connectors in Data Factory
-
-published: 2025-05-18T14:00:00.000Z
-description: >-
-  Advanced in Microsoft Fabric: comprehensive guide to custom connectors in data factory
-
-tags:
-  - Fabric
-  - Advanced
 category: Fabric
-image: "./cover.png"
+description: 'Advanced in Microsoft Fabric: comprehensive guide to custom connectors
+  in data factory'
 draft: false
+image: ./cover.png
+published: 2025-05-18 14:00:00
+tags:
+- Fabric
+- Advanced
+title: Custom Connectors in Data Factory
 ---
 
 # Custom Connectors in Data Factory

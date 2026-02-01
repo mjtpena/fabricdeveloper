@@ -1,16 +1,14 @@
 ---
-title: Monitoring Fabric: Capacity Metrics App
-
-published: 2025-09-02T14:00:00.000Z
-description: >-
-  Administration in Microsoft Fabric: comprehensive guide to monitoring fabric: capacity metrics app
-
-tags:
-  - Fabric
-  - Administration
 category: Fabric
-image: "./cover.png"
+description: 'Administration in Microsoft Fabric: comprehensive guide to monitoring
+  fabric: capacity metrics app'
 draft: false
+image: ./cover.png
+published: 2025-09-02 14:00:00
+tags:
+- Fabric
+- Administration
+title: 'Monitoring Fabric: Capacity Metrics App'
 ---
 
 # Monitoring Fabric: Capacity Metrics App

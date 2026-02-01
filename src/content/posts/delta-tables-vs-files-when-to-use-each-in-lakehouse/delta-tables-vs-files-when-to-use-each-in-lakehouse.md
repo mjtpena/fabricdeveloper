@@ -1,15 +1,14 @@
 ---
-title: Delta Tables vs Files: When to Use Each in Lakehouse
-published: 2025-12-20T00:00:00.000Z
-description: >-
-  Explore Lakehouse design and Delta Lake fundamentals in Fabric
-tags:
-  - Fabric
-  - Lakehouse
-  - Delta Lake
 category: Fabric
-image: "./cover.png"
+description: Explore Lakehouse design and Delta Lake fundamentals in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-20 00:00:00
+tags:
+- Fabric
+- Lakehouse
+- Delta Lake
+title: 'Delta Tables vs Files: When to Use Each in Lakehouse'
 ---
 
 # Delta Tables vs Files: When to Use Each in Lakehouse

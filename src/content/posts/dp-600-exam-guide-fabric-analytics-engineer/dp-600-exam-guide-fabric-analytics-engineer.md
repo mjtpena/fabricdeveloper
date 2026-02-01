@@ -1,15 +1,14 @@
 ---
-title: DP-600 Exam Guide: Fabric Analytics Engineer
-published: 2025-12-07T00:00:00.000Z
-description: >-
-  Prepare for Fabric certification exams
-tags:
-  - Fabric
-  - Certification
-  - DP-700
 category: Fabric
-image: "./cover.png"
+description: Prepare for Fabric certification exams
 draft: false
+image: ./cover.png
+published: 2025-12-07 00:00:00
+tags:
+- Fabric
+- Certification
+- DP-700
+title: 'DP-600 Exam Guide: Fabric Analytics Engineer'
 ---
 
 # DP-600 Exam Guide: Fabric Analytics Engineer

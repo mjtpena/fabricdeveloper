@@ -1,15 +1,14 @@
 ---
-title: PySpark Best Practices for Fabric Notebooks
-published: 2025-12-23T00:00:00.000Z
-description: >-
-  Learn Apache Spark and data engineering best practices in Fabric
-tags:
-  - Fabric
-  - Data Engineering
-  - Spark
 category: Fabric
-image: "./cover.png"
+description: Learn Apache Spark and data engineering best practices in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-23 00:00:00
+tags:
+- Fabric
+- Data Engineering
+- Spark
+title: PySpark Best Practices for Fabric Notebooks
 ---
 
 # PySpark Best Practices for Fabric Notebooks

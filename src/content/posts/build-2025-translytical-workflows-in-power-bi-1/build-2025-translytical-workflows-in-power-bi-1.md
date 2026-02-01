@@ -1,16 +1,14 @@
 ---
-title: Build 2025: Translytical Workflows in Power BI
-
-published: 2025-05-20T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to build 2025: translytical workflows in power bi
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to build 2025:
+  translytical workflows in power bi'
 draft: false
+image: ./cover.png
+published: 2025-05-20 14:00:00
+tags:
+- Fabric
+- News
+title: 'Build 2025: Translytical Workflows in Power BI'
 ---
 
 # Build 2025: Translytical Workflows in Power BI

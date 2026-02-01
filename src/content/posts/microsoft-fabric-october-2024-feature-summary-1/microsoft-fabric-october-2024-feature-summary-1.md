@@ -1,16 +1,14 @@
 ---
-title: Microsoft Fabric October 2024 Feature Summary
-
-published: 2024-10-01T14:00:00.000Z
-description: >-
-  Monthly Update in Microsoft Fabric: comprehensive guide to microsoft fabric october 2024 feature summary
-
-tags:
-  - Fabric
-  - Updates
 category: Fabric
-image: "./cover.png"
+description: 'Monthly Update in Microsoft Fabric: comprehensive guide to microsoft
+  fabric october 2024 feature summary'
 draft: false
+image: ./cover.png
+published: 2024-10-01 14:00:00
+tags:
+- Fabric
+- Updates
+title: Microsoft Fabric October 2024 Feature Summary
 ---
 
 # Microsoft Fabric October 2024 Feature Summary

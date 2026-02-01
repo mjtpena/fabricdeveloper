@@ -1,15 +1,14 @@
 ---
-title: Fabric REST APIs: Automating Administration
-published: 2026-01-16T00:00:00.000Z
-description: >-
-  Implement CI/CD and automation for Fabric deployments
-tags:
-  - Fabric
-  - DevOps
-  - CI/CD
 category: Fabric
-image: "./cover.png"
+description: Implement CI/CD and automation for Fabric deployments
 draft: false
+image: ./cover.png
+published: 2026-01-16 00:00:00
+tags:
+- Fabric
+- DevOps
+- CI-CD
+title: 'Fabric REST APIs: Automating Administration'
 ---
 
 # Fabric REST APIs: Automating Administration

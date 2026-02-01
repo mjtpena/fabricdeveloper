@@ -1,17 +1,15 @@
 ---
-title: Copilot in Power BI: Natural Language Analytics
-
-published: 2025-02-23T14:00:00.000Z
-description: >-
-  AI/Copilot in Microsoft Fabric: comprehensive guide to copilot in power bi: natural language analytics
-
-tags:
-  - Fabric
-  - GenAI
-  - Copilot
 category: Fabric
-image: "./cover.png"
+description: 'AI/Copilot in Microsoft Fabric: comprehensive guide to copilot in power
+  bi: natural language analytics'
 draft: false
+image: ./cover.png
+published: 2025-02-23 14:00:00
+tags:
+- Fabric
+- GenAI
+- Copilot
+title: 'Copilot in Power BI: Natural Language Analytics'
 ---
 
 # Copilot in Power BI: Natural Language Analytics

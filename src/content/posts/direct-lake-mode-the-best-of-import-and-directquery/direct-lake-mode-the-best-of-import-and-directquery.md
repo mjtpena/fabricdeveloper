@@ -1,15 +1,14 @@
 ---
-title: Direct Lake Mode: The Best of Import and DirectQuery
-published: 2026-01-07T00:00:00.000Z
-description: >-
-  Create impactful reports and dashboards with Power BI in Fabric
-tags:
-  - Fabric
-  - Power BI
-  - Analytics
 category: Fabric
-image: "./cover.png"
+description: Create impactful reports and dashboards with Power BI in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-07 00:00:00
+tags:
+- Fabric
+- Power BI
+- Analytics
+title: 'Direct Lake Mode: The Best of Import and DirectQuery'
 ---
 
 # Direct Lake Mode: The Best of Import and DirectQuery

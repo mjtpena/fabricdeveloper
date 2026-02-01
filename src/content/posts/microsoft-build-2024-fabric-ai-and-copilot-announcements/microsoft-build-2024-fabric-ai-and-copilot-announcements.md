@@ -1,15 +1,14 @@
 ---
-title: Microsoft Build 2024: Fabric AI and Copilot Announcements
-published: 2024-05-21T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-05-21 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'Microsoft Build 2024: Fabric AI and Copilot Announcements'
 ---
 
 # Microsoft Build 2024: Fabric AI and Copilot Announcements

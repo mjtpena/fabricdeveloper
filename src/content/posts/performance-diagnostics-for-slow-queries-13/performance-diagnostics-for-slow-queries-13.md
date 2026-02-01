@@ -1,16 +1,14 @@
 ---
-title: Performance Diagnostics for Slow Queries
-
-published: 2025-10-09T14:00:00.000Z
-description: >-
-  Troubleshooting in Microsoft Fabric: comprehensive guide to performance diagnostics for slow queries
-
-tags:
-  - Fabric
-  - Troubleshooting
 category: Fabric
-image: "./cover.png"
+description: 'Troubleshooting in Microsoft Fabric: comprehensive guide to performance
+  diagnostics for slow queries'
 draft: false
+image: ./cover.png
+published: 2025-10-09 14:00:00
+tags:
+- Fabric
+- Troubleshooting
+title: Performance Diagnostics for Slow Queries
 ---
 
 # Performance Diagnostics for Slow Queries

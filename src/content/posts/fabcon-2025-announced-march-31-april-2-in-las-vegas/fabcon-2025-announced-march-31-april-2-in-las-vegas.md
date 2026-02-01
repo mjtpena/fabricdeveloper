@@ -1,15 +1,14 @@
 ---
-title: FabCon 2025 Announced: March 31 - April 2 in Las Vegas
-published: 2025-01-28T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-01-28 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'FabCon 2025 Announced: March 31 - April 2 in Las Vegas'
 ---
 
 # FabCon 2025 Announced: March 31 - April 2 in Las Vegas

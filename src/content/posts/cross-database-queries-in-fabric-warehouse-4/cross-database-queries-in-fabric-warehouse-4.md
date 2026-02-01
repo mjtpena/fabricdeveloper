@@ -1,17 +1,15 @@
 ---
-title: Cross-Database Queries in Fabric Warehouse
-
-published: 2023-12-25T14:00:00.000Z
-description: >-
-  Data Warehouse in Microsoft Fabric: comprehensive guide to cross-database queries in fabric warehouse
-
-tags:
-  - Fabric
-  - Data Warehouse
-  - T-SQL
 category: Fabric
-image: "./cover.png"
+description: 'Data Warehouse in Microsoft Fabric: comprehensive guide to cross-database
+  queries in fabric warehouse'
 draft: false
+image: ./cover.png
+published: 2023-12-25 14:00:00
+tags:
+- Fabric
+- Data Warehouse
+- T-SQL
+title: Cross-Database Queries in Fabric Warehouse
 ---
 
 # Cross-Database Queries in Fabric Warehouse

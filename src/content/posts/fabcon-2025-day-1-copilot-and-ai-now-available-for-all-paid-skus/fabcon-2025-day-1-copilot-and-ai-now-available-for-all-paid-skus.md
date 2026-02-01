@@ -1,15 +1,14 @@
 ---
-title: FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs
-published: 2025-03-31T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-03-31 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs'
 ---
 
 # FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs

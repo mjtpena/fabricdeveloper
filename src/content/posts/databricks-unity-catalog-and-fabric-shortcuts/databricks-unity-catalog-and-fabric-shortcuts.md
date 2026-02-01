@@ -1,14 +1,13 @@
 ---
-title: Databricks Unity Catalog and Fabric Shortcuts
-published: 2026-01-30T00:00:00.000Z
-description: >-
-  Connect external data sources and systems to Fabric
-tags:
-  - Fabric
-  - Integration
 category: Fabric
-image: "./cover.png"
+description: Connect external data sources and systems to Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-30 00:00:00
+tags:
+- Fabric
+- Integration
+title: Databricks Unity Catalog and Fabric Shortcuts
 ---
 
 # Databricks Unity Catalog and Fabric Shortcuts

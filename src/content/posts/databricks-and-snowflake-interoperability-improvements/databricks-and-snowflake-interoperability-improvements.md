@@ -1,14 +1,13 @@
 ---
-title: Databricks and Snowflake Interoperability Improvements
-published: 2024-08-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-08-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: Databricks and Snowflake Interoperability Improvements
 ---
 
 # Databricks and Snowflake Interoperability Improvements

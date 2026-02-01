@@ -1,17 +1,15 @@
 ---
-title: KQL Database: Querying Streaming Data
-
-published: 2023-08-19T14:00:00.000Z
-description: >-
-  Real-Time Intelligence in Microsoft Fabric: comprehensive guide to kql database: querying streaming data
-
-tags:
-  - Fabric
-  - Real-Time
-  - KQL
 category: Fabric
-image: "./cover.png"
+description: 'Real-Time Intelligence in Microsoft Fabric: comprehensive guide to kql
+  database: querying streaming data'
 draft: false
+image: ./cover.png
+published: 2023-08-19 14:00:00
+tags:
+- Fabric
+- Real-Time
+- KQL
+title: 'KQL Database: Querying Streaming Data'
 ---
 
 # KQL Database: Querying Streaming Data

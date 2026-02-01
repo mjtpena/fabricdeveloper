@@ -1,16 +1,14 @@
 ---
-title: Fabric Public Preview: Getting Started with Your First Lakehouse
-
-published: 2023-05-25T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabric public preview: getting started with your first lakehouse
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabric public
+  preview: getting started with your first lakehouse'
 draft: false
+image: ./cover.png
+published: 2023-05-25 14:00:00
+tags:
+- Fabric
+- News
+title: 'Fabric Public Preview: Getting Started with Your First Lakehouse'
 ---
 
 # Fabric Public Preview: Getting Started with Your First Lakehouse

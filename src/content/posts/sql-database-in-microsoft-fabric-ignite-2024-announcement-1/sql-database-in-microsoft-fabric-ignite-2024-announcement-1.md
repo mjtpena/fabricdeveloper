@@ -1,16 +1,14 @@
 ---
-title: SQL Database in Microsoft Fabric: Ignite 2024 Announcement
-
-published: 2024-11-15T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to sql database in microsoft fabric: ignite 2024 announcement
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to sql database
+  in microsoft fabric: ignite 2024 announcement'
 draft: false
+image: ./cover.png
+published: 2024-11-15 14:00:00
+tags:
+- Fabric
+- News
+title: 'SQL Database in Microsoft Fabric: Ignite 2024 Announcement'
 ---
 
 # SQL Database in Microsoft Fabric: Ignite 2024 Announcement

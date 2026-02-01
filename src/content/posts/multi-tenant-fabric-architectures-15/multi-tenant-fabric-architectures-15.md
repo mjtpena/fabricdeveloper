@@ -1,16 +1,14 @@
 ---
-title: Multi-Tenant Fabric Architectures
-
-published: 2026-01-28T14:00:00.000Z
-description: >-
-  Best Practices in Microsoft Fabric: comprehensive guide to multi-tenant fabric architectures
-
-tags:
-  - Fabric
-  - Best Practices
 category: Fabric
-image: "./cover.png"
+description: 'Best Practices in Microsoft Fabric: comprehensive guide to multi-tenant
+  fabric architectures'
 draft: false
+image: ./cover.png
+published: 2026-01-28 14:00:00
+tags:
+- Fabric
+- Best Practices
+title: Multi-Tenant Fabric Architectures
 ---
 
 # Multi-Tenant Fabric Architectures

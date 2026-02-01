@@ -1,17 +1,15 @@
 ---
-title: Data Factory Pipelines: Copy Activity Mastery
-
-published: 2023-06-05T14:00:00.000Z
-description: >-
-  Data Factory in Microsoft Fabric: comprehensive guide to data factory pipelines: copy activity mastery
-
-tags:
-  - Fabric
-  - Data Factory
-  - ETL
 category: Fabric
-image: "./cover.png"
+description: 'Data Factory in Microsoft Fabric: comprehensive guide to data factory
+  pipelines: copy activity mastery'
 draft: false
+image: ./cover.png
+published: 2023-06-05 14:00:00
+tags:
+- Fabric
+- Data Factory
+- ETL
+title: 'Data Factory Pipelines: Copy Activity Mastery'
 ---
 
 # Data Factory Pipelines: Copy Activity Mastery

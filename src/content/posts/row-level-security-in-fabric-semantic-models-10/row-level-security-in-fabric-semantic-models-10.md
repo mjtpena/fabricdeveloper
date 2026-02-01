@@ -1,16 +1,14 @@
 ---
-title: Row-Level Security in Fabric Semantic Models
-
-published: 2025-03-02T14:00:00.000Z
-description: >-
-  Security in Microsoft Fabric: comprehensive guide to row-level security in fabric semantic models
-
-tags:
-  - Fabric
-  - Security
 category: Fabric
-image: "./cover.png"
+description: 'Security in Microsoft Fabric: comprehensive guide to row-level security
+  in fabric semantic models'
 draft: false
+image: ./cover.png
+published: 2025-03-02 14:00:00
+tags:
+- Fabric
+- Security
+title: Row-Level Security in Fabric Semantic Models
 ---
 
 # Row-Level Security in Fabric Semantic Models

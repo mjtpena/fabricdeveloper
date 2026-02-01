@@ -1,16 +1,14 @@
 ---
-title: Microsoft Fabric Announced at Build 2023: A New Era of Unified Analytics
-
-published: 2023-05-23T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to microsoft fabric announced at build 2023: a new era of unified analytics
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to microsoft fabric
+  announced at build 2023: a new era of unified analytics'
 draft: false
+image: ./cover.png
+published: 2023-05-23 14:00:00
+tags:
+- Fabric
+- News
+title: 'Microsoft Fabric Announced at Build 2023: A New Era of Unified Analytics'
 ---
 
 # Microsoft Fabric Announced at Build 2023: A New Era of Unified Analytics

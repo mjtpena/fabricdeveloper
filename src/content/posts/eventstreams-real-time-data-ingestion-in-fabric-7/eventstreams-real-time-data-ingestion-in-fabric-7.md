@@ -1,17 +1,15 @@
 ---
-title: Eventstreams: Real-Time Data Ingestion in Fabric
-
-published: 2024-07-17T14:00:00.000Z
-description: >-
-  Real-Time Intelligence in Microsoft Fabric: comprehensive guide to eventstreams: real-time data ingestion in fabric
-
-tags:
-  - Fabric
-  - Real-Time
-  - KQL
 category: Fabric
-image: "./cover.png"
+description: 'Real-Time Intelligence in Microsoft Fabric: comprehensive guide to eventstreams:
+  real-time data ingestion in fabric'
 draft: false
+image: ./cover.png
+published: 2024-07-17 14:00:00
+tags:
+- Fabric
+- Real-Time
+- KQL
+title: 'Eventstreams: Real-Time Data Ingestion in Fabric'
 ---
 
 # Eventstreams: Real-Time Data Ingestion in Fabric

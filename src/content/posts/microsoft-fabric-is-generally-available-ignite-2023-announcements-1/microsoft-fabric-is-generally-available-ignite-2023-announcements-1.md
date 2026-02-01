@@ -1,16 +1,14 @@
 ---
-title: Microsoft Fabric is Generally Available: Ignite 2023 Announcements
-
-published: 2023-11-15T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to microsoft fabric is generally available: ignite 2023 announcements
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to microsoft fabric
+  is generally available: ignite 2023 announcements'
 draft: false
+image: ./cover.png
+published: 2023-11-15 14:00:00
+tags:
+- Fabric
+- News
+title: 'Microsoft Fabric is Generally Available: Ignite 2023 Announcements'
 ---
 
 # Microsoft Fabric is Generally Available: Ignite 2023 Announcements

@@ -1,16 +1,14 @@
 ---
-title: Microsoft Fabric Roadmap Published: Track Every Feature
-
-published: 2023-10-15T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to microsoft fabric roadmap published: track every feature
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to microsoft fabric
+  roadmap published: track every feature'
 draft: false
+image: ./cover.png
+published: 2023-10-15 14:00:00
+tags:
+- Fabric
+- News
+title: 'Microsoft Fabric Roadmap Published: Track Every Feature'
 ---
 
 # Microsoft Fabric Roadmap Published: Track Every Feature

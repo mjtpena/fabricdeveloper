@@ -1,16 +1,14 @@
 ---
-title: Autotune Query Tuning: Automated Performance Optimization
-
-published: 2024-03-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to autotune query tuning: automated performance optimization
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to autotune
+  query tuning: automated performance optimization'
 draft: false
+image: ./cover.png
+published: 2024-03-15 14:00:00
+tags:
+- Fabric
+- Features
+title: 'Autotune Query Tuning: Automated Performance Optimization'
 ---
 
 # Autotune Query Tuning: Automated Performance Optimization

@@ -1,17 +1,15 @@
 ---
-title: Power BI Composite Models with OneLake
-
-published: 2025-06-28T14:00:00.000Z
-description: >-
-  Power BI in Microsoft Fabric: comprehensive guide to power bi composite models with onelake
-
-tags:
-  - Fabric
-  - Power BI
-  - BI
 category: Fabric
-image: "./cover.png"
+description: 'Power BI in Microsoft Fabric: comprehensive guide to power bi composite
+  models with onelake'
 draft: false
+image: ./cover.png
+published: 2025-06-28 14:00:00
+tags:
+- Fabric
+- Power BI
+- BI
+title: Power BI Composite Models with OneLake
 ---
 
 # Power BI Composite Models with OneLake

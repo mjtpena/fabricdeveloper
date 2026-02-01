@@ -1,16 +1,14 @@
 ---
-title: Workspace Administration: Roles and Permissions
-
-published: 2024-07-25T14:00:00.000Z
-description: >-
-  Administration in Microsoft Fabric: comprehensive guide to workspace administration: roles and permissions
-
-tags:
-  - Fabric
-  - Administration
 category: Fabric
-image: "./cover.png"
+description: 'Administration in Microsoft Fabric: comprehensive guide to workspace
+  administration: roles and permissions'
 draft: false
+image: ./cover.png
+published: 2024-07-25 14:00:00
+tags:
+- Fabric
+- Administration
+title: 'Workspace Administration: Roles and Permissions'
 ---
 
 # Workspace Administration: Roles and Permissions

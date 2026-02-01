@@ -1,17 +1,15 @@
 ---
-title: OneLake Shortcuts Deep Dive: ADLS, S3, and GCS
-
-published: 2025-12-17T14:00:00.000Z
-description: >-
-  OneLake in Microsoft Fabric: comprehensive guide to onelake shortcuts deep dive: adls, s3, and gcs
-
-tags:
-  - Fabric
-  - OneLake
-  - Data Lake
 category: Fabric
-image: "./cover.png"
+description: 'OneLake in Microsoft Fabric: comprehensive guide to onelake shortcuts
+  deep dive: adls, s3, and gcs'
 draft: false
+image: ./cover.png
+published: 2025-12-17 14:00:00
+tags:
+- Fabric
+- OneLake
+- Data Lake
+title: 'OneLake Shortcuts Deep Dive: ADLS, S3, and GCS'
 ---
 
 # OneLake Shortcuts Deep Dive: ADLS, S3, and GCS

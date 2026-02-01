@@ -1,16 +1,14 @@
 ---
-title: CI/CD for Dataflows Generally Available
-
-published: 2025-01-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to ci/cd for dataflows generally available
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to ci/cd for
+  dataflows generally available'
 draft: false
+image: ./cover.png
+published: 2025-01-10 14:00:00
+tags:
+- Fabric
+- Features
+title: CI/CD for Dataflows Generally Available
 ---
 
 # CI/CD for Dataflows Generally Available

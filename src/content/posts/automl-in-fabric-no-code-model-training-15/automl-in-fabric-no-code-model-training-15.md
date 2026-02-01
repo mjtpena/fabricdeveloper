@@ -1,17 +1,15 @@
 ---
-title: AutoML in Fabric: No-Code Model Training
-
-published: 2026-01-03T14:00:00.000Z
-description: >-
-  Data Science in Microsoft Fabric: comprehensive guide to automl in fabric: no-code model training
-
-tags:
-  - Fabric
-  - Data Science
-  - ML
 category: Fabric
-image: "./cover.png"
+description: 'Data Science in Microsoft Fabric: comprehensive guide to automl in fabric:
+  no-code model training'
 draft: false
+image: ./cover.png
+published: 2026-01-03 14:00:00
+tags:
+- Fabric
+- Data Science
+- ML
+title: 'AutoML in Fabric: No-Code Model Training'
 ---
 
 # AutoML in Fabric: No-Code Model Training

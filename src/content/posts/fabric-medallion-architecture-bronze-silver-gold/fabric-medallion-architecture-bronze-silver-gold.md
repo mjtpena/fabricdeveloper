@@ -1,14 +1,13 @@
 ---
-title: Fabric Medallion Architecture: Bronze, Silver, Gold
-published: 2026-01-26T00:00:00.000Z
-description: >-
-  Follow proven patterns and recommendations for Fabric
-tags:
-  - Fabric
-  - Best Practices
 category: Fabric
-image: "./cover.png"
+description: Follow proven patterns and recommendations for Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-26 00:00:00
+tags:
+- Fabric
+- Best Practices
+title: 'Fabric Medallion Architecture: Bronze, Silver, Gold'
 ---
 
 # Fabric Medallion Architecture: Bronze, Silver, Gold

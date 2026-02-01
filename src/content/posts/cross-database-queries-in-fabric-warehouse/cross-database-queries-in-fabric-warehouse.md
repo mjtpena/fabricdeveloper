@@ -1,15 +1,14 @@
 ---
-title: Cross-Database Queries in Fabric Warehouse
-published: 2025-12-30T00:00:00.000Z
-description: >-
-  Build enterprise-grade analytics using T-SQL in Fabric
-tags:
-  - Fabric
-  - Data Warehouse
-  - T-SQL
 category: Fabric
-image: "./cover.png"
+description: Build enterprise-grade analytics using T-SQL in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-30 00:00:00
+tags:
+- Fabric
+- Data Warehouse
+- T-SQL
+title: Cross-Database Queries in Fabric Warehouse
 ---
 
 # Cross-Database Queries in Fabric Warehouse

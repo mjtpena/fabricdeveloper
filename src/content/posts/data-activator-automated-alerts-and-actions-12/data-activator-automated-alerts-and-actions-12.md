@@ -1,17 +1,15 @@
 ---
-title: Data Activator: Automated Alerts and Actions
-
-published: 2025-06-25T14:00:00.000Z
-description: >-
-  Real-Time Intelligence in Microsoft Fabric: comprehensive guide to data activator: automated alerts and actions
-
-tags:
-  - Fabric
-  - Real-Time
-  - KQL
 category: Fabric
-image: "./cover.png"
+description: 'Real-Time Intelligence in Microsoft Fabric: comprehensive guide to data
+  activator: automated alerts and actions'
 draft: false
+image: ./cover.png
+published: 2025-06-25 14:00:00
+tags:
+- Fabric
+- Real-Time
+- KQL
+title: 'Data Activator: Automated Alerts and Actions'
 ---
 
 # Data Activator: Automated Alerts and Actions

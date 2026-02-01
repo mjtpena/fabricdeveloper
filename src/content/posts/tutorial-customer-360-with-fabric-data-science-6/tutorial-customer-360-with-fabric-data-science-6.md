@@ -1,16 +1,14 @@
 ---
-title: Tutorial: Customer 360 with Fabric Data Science
-
-published: 2024-06-16T14:00:00.000Z
-description: >-
-  Tutorial in Microsoft Fabric: comprehensive guide to tutorial: customer 360 with fabric data science
-
-tags:
-  - Fabric
-  - Tutorial
 category: Fabric
-image: "./cover.png"
+description: 'Tutorial in Microsoft Fabric: comprehensive guide to tutorial: customer
+  360 with fabric data science'
 draft: false
+image: ./cover.png
+published: 2024-06-16 14:00:00
+tags:
+- Fabric
+- Tutorial
+title: 'Tutorial: Customer 360 with Fabric Data Science'
 ---
 
 # Tutorial: Customer 360 with Fabric Data Science

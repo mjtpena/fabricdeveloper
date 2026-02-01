@@ -1,15 +1,14 @@
 ---
-title: Copilot in Power BI: Natural Language Analytics
-published: 2026-01-17T00:00:00.000Z
-description: >-
-  Leverage AI and Copilot features in Fabric
-tags:
-  - Fabric
-  - AI
-  - Copilot
 category: Fabric
-image: "./cover.png"
+description: Leverage AI and Copilot features in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-17 00:00:00
+tags:
+- Fabric
+- AI
+- Copilot
+title: 'Copilot in Power BI: Natural Language Analytics'
 ---
 
 # Copilot in Power BI: Natural Language Analytics

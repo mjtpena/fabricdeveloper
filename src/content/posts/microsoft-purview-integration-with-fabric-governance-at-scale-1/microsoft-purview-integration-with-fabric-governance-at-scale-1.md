@@ -1,16 +1,14 @@
 ---
-title: Microsoft Purview Integration with Fabric: Governance at Scale
-
-published: 2023-11-17T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to microsoft purview integration with fabric: governance at scale
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to microsoft
+  purview integration with fabric: governance at scale'
 draft: false
+image: ./cover.png
+published: 2023-11-17 14:00:00
+tags:
+- Fabric
+- Features
+title: 'Microsoft Purview Integration with Fabric: Governance at Scale'
 ---
 
 # Microsoft Purview Integration with Fabric: Governance at Scale

@@ -1,16 +1,14 @@
 ---
-title: SQL Database in Fabric GA
-
-published: 2025-11-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to sql database in fabric ga
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to sql database
+  in fabric ga'
 draft: false
+image: ./cover.png
+published: 2025-11-10 14:00:00
+tags:
+- Fabric
+- Features
+title: SQL Database in Fabric GA
 ---
 
 # SQL Database in Fabric GA

@@ -1,16 +1,14 @@
 ---
-title: Power BI to Fabric: Upgrade Path Guide
-
-published: 2024-01-16T14:00:00.000Z
-description: >-
-  Migration in Microsoft Fabric: comprehensive guide to power bi to fabric: upgrade path guide
-
-tags:
-  - Fabric
-  - Migration
 category: Fabric
-image: "./cover.png"
+description: 'Migration in Microsoft Fabric: comprehensive guide to power bi to fabric:
+  upgrade path guide'
 draft: false
+image: ./cover.png
+published: 2024-01-16 14:00:00
+tags:
+- Fabric
+- Migration
+title: 'Power BI to Fabric: Upgrade Path Guide'
 ---
 
 # Power BI to Fabric: Upgrade Path Guide

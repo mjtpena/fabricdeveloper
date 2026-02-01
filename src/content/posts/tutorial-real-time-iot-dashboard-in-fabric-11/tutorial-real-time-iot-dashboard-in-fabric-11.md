@@ -1,16 +1,14 @@
 ---
-title: Tutorial: Real-Time IoT Dashboard in Fabric
-
-published: 2025-05-24T14:00:00.000Z
-description: >-
-  Tutorial in Microsoft Fabric: comprehensive guide to tutorial: real-time iot dashboard in fabric
-
-tags:
-  - Fabric
-  - Tutorial
 category: Fabric
-image: "./cover.png"
+description: 'Tutorial in Microsoft Fabric: comprehensive guide to tutorial: real-time
+  iot dashboard in fabric'
 draft: false
+image: ./cover.png
+published: 2025-05-24 14:00:00
+tags:
+- Fabric
+- Tutorial
+title: 'Tutorial: Real-Time IoT Dashboard in Fabric'
 ---
 
 # Tutorial: Real-Time IoT Dashboard in Fabric

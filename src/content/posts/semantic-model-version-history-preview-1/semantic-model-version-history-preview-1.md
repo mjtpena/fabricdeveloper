@@ -1,16 +1,14 @@
 ---
-title: Semantic Model Version History Preview
-
-published: 2025-01-20T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to semantic model version history preview
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to semantic
+  model version history preview'
 draft: false
+image: ./cover.png
+published: 2025-01-20 14:00:00
+tags:
+- Fabric
+- Features
+title: Semantic Model Version History Preview
 ---
 
 # Semantic Model Version History Preview

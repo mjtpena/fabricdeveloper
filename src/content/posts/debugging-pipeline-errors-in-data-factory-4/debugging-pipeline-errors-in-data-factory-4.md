@@ -1,16 +1,14 @@
 ---
-title: Debugging Pipeline Errors in Data Factory
-
-published: 2024-02-11T14:00:00.000Z
-description: >-
-  Troubleshooting in Microsoft Fabric: comprehensive guide to debugging pipeline errors in data factory
-
-tags:
-  - Fabric
-  - Troubleshooting
 category: Fabric
-image: "./cover.png"
+description: 'Troubleshooting in Microsoft Fabric: comprehensive guide to debugging
+  pipeline errors in data factory'
 draft: false
+image: ./cover.png
+published: 2024-02-11 14:00:00
+tags:
+- Fabric
+- Troubleshooting
+title: Debugging Pipeline Errors in Data Factory
 ---
 
 # Debugging Pipeline Errors in Data Factory

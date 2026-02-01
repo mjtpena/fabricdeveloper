@@ -1,14 +1,13 @@
 ---
-title: Spark Structured Streaming in Fabric
-published: 2026-02-01T00:00:00.000Z
-description: >-
-  Advanced patterns and enterprise-scale solutions in Fabric
-tags:
-  - Fabric
-  - Advanced
 category: Fabric
-image: "./cover.png"
+description: Advanced patterns and enterprise-scale solutions in Fabric
 draft: false
+image: ./cover.png
+published: 2026-02-01 00:00:00
+tags:
+- Fabric
+- Advanced
+title: Spark Structured Streaming in Fabric
 ---
 
 # Spark Structured Streaming in Fabric

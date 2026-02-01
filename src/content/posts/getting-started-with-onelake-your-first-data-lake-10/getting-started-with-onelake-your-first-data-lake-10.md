@@ -1,17 +1,15 @@
 ---
-title: Getting Started with OneLake: Your First Data Lake
-
-published: 2025-01-21T14:00:00.000Z
-description: >-
-  OneLake in Microsoft Fabric: comprehensive guide to getting started with onelake: your first data lake
-
-tags:
-  - Fabric
-  - OneLake
-  - Data Lake
 category: Fabric
-image: "./cover.png"
+description: 'OneLake in Microsoft Fabric: comprehensive guide to getting started
+  with onelake: your first data lake'
 draft: false
+image: ./cover.png
+published: 2025-01-21 14:00:00
+tags:
+- Fabric
+- OneLake
+- Data Lake
+title: 'Getting Started with OneLake: Your First Data Lake'
 ---
 
 # Getting Started with OneLake: Your First Data Lake

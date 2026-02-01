@@ -1,15 +1,14 @@
 ---
-title: OneLake Security Best Practices for Enterprise
-published: 2025-12-18T00:00:00.000Z
-description: >-
-  Master unified data lake architecture in Microsoft Fabric
-tags:
-  - Fabric
-  - OneLake
-  - Data Lake
 category: Fabric
-image: "./cover.png"
+description: Master unified data lake architecture in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-18 00:00:00
+tags:
+- Fabric
+- OneLake
+- Data Lake
+title: OneLake Security Best Practices for Enterprise
 ---
 
 # OneLake Security Best Practices for Enterprise

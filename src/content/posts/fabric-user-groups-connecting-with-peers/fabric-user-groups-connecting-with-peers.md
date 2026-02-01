@@ -1,14 +1,13 @@
 ---
-title: Fabric User Groups: Connecting with Peers
-published: 2025-12-11T00:00:00.000Z
-description: >-
-  Join the Fabric developer community
-tags:
-  - Fabric
-  - Community
 category: Fabric
-image: "./cover.png"
+description: Join the Fabric developer community
 draft: false
+image: ./cover.png
+published: 2025-12-11 00:00:00
+tags:
+- Fabric
+- Community
+title: 'Fabric User Groups: Connecting with Peers'
 ---
 
 # Fabric User Groups: Connecting with Peers

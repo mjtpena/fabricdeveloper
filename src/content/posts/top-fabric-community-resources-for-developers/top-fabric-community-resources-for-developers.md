@@ -1,14 +1,13 @@
 ---
-title: Top Fabric Community Resources for Developers
-published: 2025-12-10T00:00:00.000Z
-description: >-
-  Join the Fabric developer community
-tags:
-  - Fabric
-  - Community
 category: Fabric
-image: "./cover.png"
+description: Join the Fabric developer community
 draft: false
+image: ./cover.png
+published: 2025-12-10 00:00:00
+tags:
+- Fabric
+- Community
+title: Top Fabric Community Resources for Developers
 ---
 
 # Top Fabric Community Resources for Developers

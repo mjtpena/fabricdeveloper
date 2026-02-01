@@ -1,14 +1,13 @@
 ---
-title: Troubleshooting Spark Job Failures in Fabric
-published: 2025-12-13T00:00:00.000Z
-description: >-
-  Solve common issues and errors in Fabric
-tags:
-  - Fabric
-  - Troubleshooting
 category: Fabric
-image: "./cover.png"
+description: Solve common issues and errors in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-13 00:00:00
+tags:
+- Fabric
+- Troubleshooting
+title: Troubleshooting Spark Job Failures in Fabric
 ---
 
 # Troubleshooting Spark Job Failures in Fabric

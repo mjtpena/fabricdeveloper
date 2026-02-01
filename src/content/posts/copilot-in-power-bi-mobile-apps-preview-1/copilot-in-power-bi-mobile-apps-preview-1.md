@@ -1,16 +1,14 @@
 ---
-title: Copilot in Power BI Mobile Apps Preview
-
-published: 2024-11-18T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to copilot in power bi mobile apps preview
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to copilot
+  in power bi mobile apps preview'
 draft: false
+image: ./cover.png
+published: 2024-11-18 14:00:00
+tags:
+- Fabric
+- Features
+title: Copilot in Power BI Mobile Apps Preview
 ---
 
 # Copilot in Power BI Mobile Apps Preview

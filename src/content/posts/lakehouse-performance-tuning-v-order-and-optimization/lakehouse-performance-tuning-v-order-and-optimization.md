@@ -1,15 +1,14 @@
 ---
-title: Lakehouse Performance Tuning: V-Order and Optimization
-published: 2025-12-21T00:00:00.000Z
-description: >-
-  Explore Lakehouse design and Delta Lake fundamentals in Fabric
-tags:
-  - Fabric
-  - Lakehouse
-  - Delta Lake
 category: Fabric
-image: "./cover.png"
+description: Explore Lakehouse design and Delta Lake fundamentals in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-21 00:00:00
+tags:
+- Fabric
+- Lakehouse
+- Delta Lake
+title: 'Lakehouse Performance Tuning: V-Order and Optimization'
 ---
 
 # Lakehouse Performance Tuning: V-Order and Optimization

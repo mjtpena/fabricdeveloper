@@ -1,16 +1,14 @@
 ---
-title: TMDL Scripting Preview: Tabular Model Definition Language
-
-published: 2025-01-25T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to tmdl scripting preview: tabular model definition language
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to tmdl scripting
+  preview: tabular model definition language'
 draft: false
+image: ./cover.png
+published: 2025-01-25 14:00:00
+tags:
+- Fabric
+- Features
+title: 'TMDL Scripting Preview: Tabular Model Definition Language'
 ---
 
 # TMDL Scripting Preview: Tabular Model Definition Language

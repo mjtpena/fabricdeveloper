@@ -1,15 +1,14 @@
 ---
-title: Build 2025: Fabric Roadmap Tool Introduction
-published: 2025-05-19T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-05-19 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'Build 2025: Fabric Roadmap Tool Introduction'
 ---
 
 # Build 2025: Fabric Roadmap Tool Introduction

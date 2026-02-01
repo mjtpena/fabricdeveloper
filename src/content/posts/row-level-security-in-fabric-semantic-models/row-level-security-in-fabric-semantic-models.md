@@ -1,14 +1,13 @@
 ---
-title: Row-Level Security in Fabric Semantic Models
-published: 2026-01-23T00:00:00.000Z
-description: >-
-  Implement security and compliance in Fabric
-tags:
-  - Fabric
-  - Security
 category: Fabric
-image: "./cover.png"
+description: Implement security and compliance in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-23 00:00:00
+tags:
+- Fabric
+- Security
+title: Row-Level Security in Fabric Semantic Models
 ---
 
 # Row-Level Security in Fabric Semantic Models

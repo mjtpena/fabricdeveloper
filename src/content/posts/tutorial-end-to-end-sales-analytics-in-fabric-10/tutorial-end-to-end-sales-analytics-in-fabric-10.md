@@ -1,16 +1,14 @@
 ---
-title: Tutorial: End-to-End Sales Analytics in Fabric
-
-published: 2025-03-14T14:00:00.000Z
-description: >-
-  Tutorial in Microsoft Fabric: comprehensive guide to tutorial: end-to-end sales analytics in fabric
-
-tags:
-  - Fabric
-  - Tutorial
 category: Fabric
-image: "./cover.png"
+description: 'Tutorial in Microsoft Fabric: comprehensive guide to tutorial: end-to-end
+  sales analytics in fabric'
 draft: false
+image: ./cover.png
+published: 2025-03-14 14:00:00
+tags:
+- Fabric
+- Tutorial
+title: 'Tutorial: End-to-End Sales Analytics in Fabric'
 ---
 
 # Tutorial: End-to-End Sales Analytics in Fabric

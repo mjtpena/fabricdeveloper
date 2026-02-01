@@ -1,16 +1,14 @@
 ---
-title: AI Integration in Fabric: Copilot Previews Expand
-
-published: 2024-02-14T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to ai integration in fabric: copilot previews expand
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to ai integration
+  in fabric: copilot previews expand'
 draft: false
+image: ./cover.png
+published: 2024-02-14 14:00:00
+tags:
+- Fabric
+- Features
+title: 'AI Integration in Fabric: Copilot Previews Expand'
 ---
 
 # AI Integration in Fabric: Copilot Previews Expand

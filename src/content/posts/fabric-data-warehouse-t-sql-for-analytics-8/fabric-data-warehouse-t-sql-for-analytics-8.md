@@ -1,17 +1,15 @@
 ---
-title: Fabric Data Warehouse: T-SQL for Analytics
-
-published: 2024-09-14T14:00:00.000Z
-description: >-
-  Data Warehouse in Microsoft Fabric: comprehensive guide to fabric data warehouse: t-sql for analytics
-
-tags:
-  - Fabric
-  - Data Warehouse
-  - T-SQL
 category: Fabric
-image: "./cover.png"
+description: 'Data Warehouse in Microsoft Fabric: comprehensive guide to fabric data
+  warehouse: t-sql for analytics'
 draft: false
+image: ./cover.png
+published: 2024-09-14 14:00:00
+tags:
+- Fabric
+- Data Warehouse
+- T-SQL
+title: 'Fabric Data Warehouse: T-SQL for Analytics'
 ---
 
 # Fabric Data Warehouse: T-SQL for Analytics

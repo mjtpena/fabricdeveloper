@@ -1,16 +1,14 @@
 ---
-title: High-Concurrency Notebooks GA
-
-published: 2025-09-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to high-concurrency notebooks ga
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to high-concurrency
+  notebooks ga'
 draft: false
+image: ./cover.png
+published: 2025-09-15 14:00:00
+tags:
+- Fabric
+- Features
+title: High-Concurrency Notebooks GA
 ---
 
 # High-Concurrency Notebooks GA

@@ -1,16 +1,14 @@
 ---
-title: Migrating from Azure Synapse to Fabric
-
-published: 2023-09-04T14:00:00.000Z
-description: >-
-  Migration in Microsoft Fabric: comprehensive guide to migrating from azure synapse to fabric
-
-tags:
-  - Fabric
-  - Migration
 category: Fabric
-image: "./cover.png"
+description: 'Migration in Microsoft Fabric: comprehensive guide to migrating from
+  azure synapse to fabric'
 draft: false
+image: ./cover.png
+published: 2023-09-04 14:00:00
+tags:
+- Fabric
+- Migration
+title: Migrating from Azure Synapse to Fabric
 ---
 
 # Migrating from Azure Synapse to Fabric

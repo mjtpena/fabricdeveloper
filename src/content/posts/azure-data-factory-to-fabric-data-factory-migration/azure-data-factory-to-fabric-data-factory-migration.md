@@ -1,14 +1,13 @@
 ---
-title: Azure Data Factory to Fabric Data Factory Migration
-published: 2026-01-22T00:00:00.000Z
-description: >-
-  Plan and execute migrations to Microsoft Fabric
-tags:
-  - Fabric
-  - Migration
 category: Fabric
-image: "./cover.png"
+description: Plan and execute migrations to Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-22 00:00:00
+tags:
+- Fabric
+- Migration
+title: Azure Data Factory to Fabric Data Factory Migration
 ---
 
 # Azure Data Factory to Fabric Data Factory Migration

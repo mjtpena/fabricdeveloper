@@ -1,15 +1,14 @@
 ---
-title: Microsoft Fabric November 2023 Feature Summary
-published: 2023-11-01T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-11-01 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: Microsoft Fabric November 2023 Feature Summary
 ---
 
 # Microsoft Fabric November 2023 Feature Summary

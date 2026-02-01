@@ -1,14 +1,13 @@
 ---
-title: Power BI to Fabric: Upgrade Path Guide
-published: 2026-01-21T00:00:00.000Z
-description: >-
-  Plan and execute migrations to Microsoft Fabric
-tags:
-  - Fabric
-  - Migration
 category: Fabric
-image: "./cover.png"
+description: Plan and execute migrations to Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-21 00:00:00
+tags:
+- Fabric
+- Migration
+title: 'Power BI to Fabric: Upgrade Path Guide'
 ---
 
 # Power BI to Fabric: Upgrade Path Guide

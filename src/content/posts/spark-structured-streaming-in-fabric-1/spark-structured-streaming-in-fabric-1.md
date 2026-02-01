@@ -1,16 +1,14 @@
 ---
-title: Spark Structured Streaming in Fabric
-
-published: 2023-07-14T14:00:00.000Z
-description: >-
-  Advanced in Microsoft Fabric: comprehensive guide to spark structured streaming in fabric
-
-tags:
-  - Fabric
-  - Advanced
 category: Fabric
-image: "./cover.png"
+description: 'Advanced in Microsoft Fabric: comprehensive guide to spark structured
+  streaming in fabric'
 draft: false
+image: ./cover.png
+published: 2023-07-14 14:00:00
+tags:
+- Fabric
+- Advanced
+title: Spark Structured Streaming in Fabric
 ---
 
 # Spark Structured Streaming in Fabric

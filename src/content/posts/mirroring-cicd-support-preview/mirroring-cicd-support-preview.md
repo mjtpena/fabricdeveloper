@@ -1,14 +1,13 @@
 ---
-title: Mirroring CI/CD Support Preview
-published: 2025-01-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-01-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: Mirroring CI/CD Support Preview
 ---
 
 # Mirroring CI/CD Support Preview

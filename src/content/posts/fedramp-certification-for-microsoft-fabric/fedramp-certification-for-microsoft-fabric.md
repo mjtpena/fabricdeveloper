@@ -1,15 +1,14 @@
 ---
-title: FedRAMP Certification for Microsoft Fabric
-published: 2024-11-17T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-11-17 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: FedRAMP Certification for Microsoft Fabric
 ---
 
 # FedRAMP Certification for Microsoft Fabric

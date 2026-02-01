@@ -1,14 +1,13 @@
 ---
-title: Performance Diagnostics for Slow Queries
-published: 2025-12-15T00:00:00.000Z
-description: >-
-  Solve common issues and errors in Fabric
-tags:
-  - Fabric
-  - Troubleshooting
 category: Fabric
-image: "./cover.png"
+description: Solve common issues and errors in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-15 00:00:00
+tags:
+- Fabric
+- Troubleshooting
+title: Performance Diagnostics for Slow Queries
 ---
 
 # Performance Diagnostics for Slow Queries

@@ -1,14 +1,13 @@
 ---
-title: Tutorial: Real-Time IoT Dashboard in Fabric
-published: 2025-12-05T00:00:00.000Z
-description: >-
-  Step-by-step tutorials for Fabric workloads
-tags:
-  - Fabric
-  - Tutorial
 category: Fabric
-image: "./cover.png"
+description: Step-by-step tutorials for Fabric workloads
 draft: false
+image: ./cover.png
+published: 2025-12-05 00:00:00
+tags:
+- Fabric
+- Tutorial
+title: 'Tutorial: Real-Time IoT Dashboard in Fabric'
 ---
 
 # Tutorial: Real-Time IoT Dashboard in Fabric

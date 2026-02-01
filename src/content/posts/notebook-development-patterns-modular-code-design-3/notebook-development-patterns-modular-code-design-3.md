@@ -1,17 +1,15 @@
 ---
-title: Notebook Development Patterns: Modular Code Design
-
-published: 2023-10-11T14:00:00.000Z
-description: >-
-  Data Engineering in Microsoft Fabric: comprehensive guide to notebook development patterns: modular code design
-
-tags:
-  - Fabric
-  - Spark
-  - Data Engineering
 category: Fabric
-image: "./cover.png"
+description: 'Data Engineering in Microsoft Fabric: comprehensive guide to notebook
+  development patterns: modular code design'
 draft: false
+image: ./cover.png
+published: 2023-10-11 14:00:00
+tags:
+- Fabric
+- Spark
+- Data Engineering
+title: 'Notebook Development Patterns: Modular Code Design'
 ---
 
 # Notebook Development Patterns: Modular Code Design

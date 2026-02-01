@@ -1,16 +1,14 @@
 ---
-title: Parameterized Connections in Data Factory
-
-published: 2025-09-20T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to parameterized connections in data factory
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to parameterized
+  connections in data factory'
 draft: false
+image: ./cover.png
+published: 2025-09-20 14:00:00
+tags:
+- Fabric
+- Features
+title: Parameterized Connections in Data Factory
 ---
 
 # Parameterized Connections in Data Factory

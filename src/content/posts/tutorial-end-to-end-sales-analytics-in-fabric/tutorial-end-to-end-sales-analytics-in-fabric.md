@@ -1,14 +1,13 @@
 ---
-title: Tutorial: End-to-End Sales Analytics in Fabric
-published: 2025-12-04T00:00:00.000Z
-description: >-
-  Step-by-step tutorials for Fabric workloads
-tags:
-  - Fabric
-  - Tutorial
 category: Fabric
-image: "./cover.png"
+description: Step-by-step tutorials for Fabric workloads
 draft: false
+image: ./cover.png
+published: 2025-12-04 00:00:00
+tags:
+- Fabric
+- Tutorial
+title: 'Tutorial: End-to-End Sales Analytics in Fabric'
 ---
 
 # Tutorial: End-to-End Sales Analytics in Fabric

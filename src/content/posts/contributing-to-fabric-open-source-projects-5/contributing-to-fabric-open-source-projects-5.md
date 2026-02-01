@@ -1,16 +1,14 @@
 ---
-title: Contributing to Fabric Open Source Projects
-
-published: 2024-04-17T14:00:00.000Z
-description: >-
-  Community in Microsoft Fabric: comprehensive guide to contributing to fabric open source projects
-
-tags:
-  - Fabric
-  - Community
 category: Fabric
-image: "./cover.png"
+description: 'Community in Microsoft Fabric: comprehensive guide to contributing to
+  fabric open source projects'
 draft: false
+image: ./cover.png
+published: 2024-04-17 14:00:00
+tags:
+- Fabric
+- Community
+title: Contributing to Fabric Open Source Projects
 ---
 
 # Contributing to Fabric Open Source Projects

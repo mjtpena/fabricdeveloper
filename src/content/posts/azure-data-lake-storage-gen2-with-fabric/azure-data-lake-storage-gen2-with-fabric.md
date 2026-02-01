@@ -1,14 +1,13 @@
 ---
-title: Azure Data Lake Storage Gen2 with Fabric
-published: 2026-01-29T00:00:00.000Z
-description: >-
-  Connect external data sources and systems to Fabric
-tags:
-  - Fabric
-  - Integration
 category: Fabric
-image: "./cover.png"
+description: Connect external data sources and systems to Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-29 00:00:00
+tags:
+- Fabric
+- Integration
+title: Azure Data Lake Storage Gen2 with Fabric
 ---
 
 # Azure Data Lake Storage Gen2 with Fabric

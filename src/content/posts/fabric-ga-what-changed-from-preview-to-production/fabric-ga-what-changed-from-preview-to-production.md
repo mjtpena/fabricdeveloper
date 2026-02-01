@@ -1,15 +1,14 @@
 ---
-title: Fabric GA: What Changed from Preview to Production
-published: 2023-11-16T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-11-16 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'Fabric GA: What Changed from Preview to Production'
 ---
 
 # Fabric GA: What Changed from Preview to Production

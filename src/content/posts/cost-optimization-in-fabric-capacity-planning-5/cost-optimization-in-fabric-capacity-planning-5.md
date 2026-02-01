@@ -1,16 +1,14 @@
 ---
-title: Cost Optimization in Fabric: Capacity Planning
-
-published: 2024-03-29T14:00:00.000Z
-description: >-
-  Best Practices in Microsoft Fabric: comprehensive guide to cost optimization in fabric: capacity planning
-
-tags:
-  - Fabric
-  - Best Practices
 category: Fabric
-image: "./cover.png"
+description: 'Best Practices in Microsoft Fabric: comprehensive guide to cost optimization
+  in fabric: capacity planning'
 draft: false
+image: ./cover.png
+published: 2024-03-29 14:00:00
+tags:
+- Fabric
+- Best Practices
+title: 'Cost Optimization in Fabric: Capacity Planning'
 ---
 
 # Cost Optimization in Fabric: Capacity Planning

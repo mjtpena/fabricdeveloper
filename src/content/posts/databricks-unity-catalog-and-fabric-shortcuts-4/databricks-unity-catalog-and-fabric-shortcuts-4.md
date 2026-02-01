@@ -1,16 +1,14 @@
 ---
-title: Databricks Unity Catalog and Fabric Shortcuts
-
-published: 2024-01-26T14:00:00.000Z
-description: >-
-  Integration in Microsoft Fabric: comprehensive guide to databricks unity catalog and fabric shortcuts
-
-tags:
-  - Fabric
-  - Integration
 category: Fabric
-image: "./cover.png"
+description: 'Integration in Microsoft Fabric: comprehensive guide to databricks unity
+  catalog and fabric shortcuts'
 draft: false
+image: ./cover.png
+published: 2024-01-26 14:00:00
+tags:
+- Fabric
+- Integration
+title: Databricks Unity Catalog and Fabric Shortcuts
 ---
 
 # Databricks Unity Catalog and Fabric Shortcuts

@@ -1,14 +1,13 @@
 ---
-title: Python Notebooks IntelliSense Improvements
-published: 2024-09-20T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-09-20 00:00:00
+tags:
+- Fabric
+- New Features
+title: Python Notebooks IntelliSense Improvements
 ---
 
 # Python Notebooks IntelliSense Improvements

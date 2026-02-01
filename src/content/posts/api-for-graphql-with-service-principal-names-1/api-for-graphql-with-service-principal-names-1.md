@@ -1,16 +1,14 @@
 ---
-title: API for GraphQL with Service Principal Names
-
-published: 2024-10-05T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to api for graphql with service principal names
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to api for
+  graphql with service principal names'
 draft: false
+image: ./cover.png
+published: 2024-10-05 14:00:00
+tags:
+- Fabric
+- Features
+title: API for GraphQL with Service Principal Names
 ---
 
 # API for GraphQL with Service Principal Names

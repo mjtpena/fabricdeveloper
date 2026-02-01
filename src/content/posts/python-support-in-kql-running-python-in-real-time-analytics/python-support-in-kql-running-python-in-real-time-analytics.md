@@ -1,14 +1,13 @@
 ---
-title: Python Support in KQL: Running Python in Real-Time Analytics
-published: 2023-08-20T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-08-20 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'Python Support in KQL: Running Python in Real-Time Analytics'
 ---
 
 # Python Support in KQL: Running Python in Real-Time Analytics

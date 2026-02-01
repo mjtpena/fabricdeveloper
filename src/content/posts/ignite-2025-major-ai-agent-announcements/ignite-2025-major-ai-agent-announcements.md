@@ -1,15 +1,14 @@
 ---
-title: Ignite 2025: Major AI Agent Announcements
-published: 2025-11-18T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-11-18 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'Ignite 2025: Major AI Agent Announcements'
 ---
 
 # Ignite 2025: Major AI Agent Announcements

@@ -1,15 +1,14 @@
 ---
-title: Eventstreams: Real-Time Data Ingestion in Fabric
-published: 2026-01-04T00:00:00.000Z
-description: >-
-  Implement real-time analytics and streaming in Fabric
-tags:
-  - Fabric
-  - Real-Time Intelligence
-  - KQL
 category: Fabric
-image: "./cover.png"
+description: Implement real-time analytics and streaming in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-04 00:00:00
+tags:
+- Fabric
+- Real-Time Intelligence
+- KQL
+title: 'Eventstreams: Real-Time Data Ingestion in Fabric'
 ---
 
 # Eventstreams: Real-Time Data Ingestion in Fabric

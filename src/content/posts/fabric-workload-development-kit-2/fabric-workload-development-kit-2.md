@@ -1,16 +1,14 @@
 ---
-title: Fabric Workload Development Kit
-
-published: 2023-09-19T14:00:00.000Z
-description: >-
-  Advanced in Microsoft Fabric: comprehensive guide to fabric workload development kit
-
-tags:
-  - Fabric
-  - Advanced
 category: Fabric
-image: "./cover.png"
+description: 'Advanced in Microsoft Fabric: comprehensive guide to fabric workload
+  development kit'
 draft: false
+image: ./cover.png
+published: 2023-09-19 14:00:00
+tags:
+- Fabric
+- Advanced
+title: Fabric Workload Development Kit
 ---
 
 # Fabric Workload Development Kit

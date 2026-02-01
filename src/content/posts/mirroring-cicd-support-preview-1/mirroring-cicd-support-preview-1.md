@@ -1,16 +1,14 @@
 ---
-title: Mirroring CI/CD Support Preview
-
-published: 2025-01-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to mirroring ci/cd support preview
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to mirroring
+  ci/cd support preview'
 draft: false
+image: ./cover.png
+published: 2025-01-15 14:00:00
+tags:
+- Fabric
+- Features
+title: Mirroring CI/CD Support Preview
 ---
 
 # Mirroring CI/CD Support Preview

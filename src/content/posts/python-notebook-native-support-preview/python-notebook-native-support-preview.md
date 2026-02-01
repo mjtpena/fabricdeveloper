@@ -1,14 +1,13 @@
 ---
-title: Python Notebook Native Support Preview
-published: 2025-01-05T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-01-05 00:00:00
+tags:
+- Fabric
+- New Features
+title: Python Notebook Native Support Preview
 ---
 
 # Python Notebook Native Support Preview

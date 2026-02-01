@@ -1,17 +1,15 @@
 ---
-title: Delta Tables vs Files: When to Use Each in Lakehouse
-
-published: 2024-09-05T14:00:00.000Z
-description: >-
-  Lakehouse in Microsoft Fabric: comprehensive guide to delta tables vs files: when to use each in lakehouse
-
-tags:
-  - Fabric
-  - Lakehouse
-  - Delta Lake
 category: Fabric
-image: "./cover.png"
+description: 'Lakehouse in Microsoft Fabric: comprehensive guide to delta tables vs
+  files: when to use each in lakehouse'
 draft: false
+image: ./cover.png
+published: 2024-09-05 14:00:00
+tags:
+- Fabric
+- Lakehouse
+- Delta Lake
+title: 'Delta Tables vs Files: When to Use Each in Lakehouse'
 ---
 
 # Delta Tables vs Files: When to Use Each in Lakehouse

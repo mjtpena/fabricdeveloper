@@ -1,16 +1,14 @@
 ---
-title: Build 2025: Cosmos DB Integration Private Preview
-
-published: 2025-05-21T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to build 2025: cosmos db integration private preview
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to build 2025:
+  cosmos db integration private preview'
 draft: false
+image: ./cover.png
+published: 2025-05-21 14:00:00
+tags:
+- Fabric
+- News
+title: 'Build 2025: Cosmos DB Integration Private Preview'
 ---
 
 # Build 2025: Cosmos DB Integration Private Preview

@@ -1,15 +1,14 @@
 ---
-title: Microsoft Purview with Fabric: Data Governance
-published: 2026-01-24T00:00:00.000Z
-description: >-
-  Establish data governance with Purview integration
-tags:
-  - Fabric
-  - Governance
-  - Purview
 category: Fabric
-image: "./cover.png"
+description: Establish data governance with Purview integration
 draft: false
+image: ./cover.png
+published: 2026-01-24 00:00:00
+tags:
+- Fabric
+- Governance
+- Purview
+title: 'Microsoft Purview with Fabric: Data Governance'
 ---
 
 # Microsoft Purview with Fabric: Data Governance

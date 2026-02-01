@@ -1,16 +1,14 @@
 ---
-title: Databricks and Snowflake Interoperability Improvements
-
-published: 2024-08-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to databricks and snowflake interoperability improvements
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to databricks
+  and snowflake interoperability improvements'
 draft: false
+image: ./cover.png
+published: 2024-08-15 14:00:00
+tags:
+- Fabric
+- Features
+title: Databricks and Snowflake Interoperability Improvements
 ---
 
 # Databricks and Snowflake Interoperability Improvements

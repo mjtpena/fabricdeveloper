@@ -1,17 +1,15 @@
 ---
-title: Warehouse Performance: Distribution and Indexing
-
-published: 2025-02-06T14:00:00.000Z
-description: >-
-  Data Warehouse in Microsoft Fabric: comprehensive guide to warehouse performance: distribution and indexing
-
-tags:
-  - Fabric
-  - Data Warehouse
-  - T-SQL
 category: Fabric
-image: "./cover.png"
+description: 'Data Warehouse in Microsoft Fabric: comprehensive guide to warehouse
+  performance: distribution and indexing'
 draft: false
+image: ./cover.png
+published: 2025-02-06 14:00:00
+tags:
+- Fabric
+- Data Warehouse
+- T-SQL
+title: 'Warehouse Performance: Distribution and Indexing'
 ---
 
 # Warehouse Performance: Distribution and Indexing

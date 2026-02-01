@@ -1,16 +1,14 @@
 ---
-title: Download Large Semantic Models in Power BI
-
-published: 2024-06-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to download large semantic models in power bi
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to download
+  large semantic models in power bi'
 draft: false
+image: ./cover.png
+published: 2024-06-10 14:00:00
+tags:
+- Fabric
+- Features
+title: Download Large Semantic Models in Power BI
 ---
 
 # Download Large Semantic Models in Power BI

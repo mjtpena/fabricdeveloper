@@ -1,17 +1,15 @@
 ---
-title: Pipeline Orchestration: Activities and Triggers
-
-published: 2025-12-27T14:00:00.000Z
-description: >-
-  Data Factory in Microsoft Fabric: comprehensive guide to pipeline orchestration: activities and triggers
-
-tags:
-  - Fabric
-  - Data Factory
-  - ETL
 category: Fabric
-image: "./cover.png"
+description: 'Data Factory in Microsoft Fabric: comprehensive guide to pipeline orchestration:
+  activities and triggers'
 draft: false
+image: ./cover.png
+published: 2025-12-27 14:00:00
+tags:
+- Fabric
+- Data Factory
+- ETL
+title: 'Pipeline Orchestration: Activities and Triggers'
 ---
 
 # Pipeline Orchestration: Activities and Triggers

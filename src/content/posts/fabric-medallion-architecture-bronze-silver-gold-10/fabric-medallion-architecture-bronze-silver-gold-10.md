@@ -1,16 +1,14 @@
 ---
-title: Fabric Medallion Architecture: Bronze, Silver, Gold
-
-published: 2025-03-05T14:00:00.000Z
-description: >-
-  Best Practices in Microsoft Fabric: comprehensive guide to fabric medallion architecture: bronze, silver, gold
-
-tags:
-  - Fabric
-  - Best Practices
 category: Fabric
-image: "./cover.png"
+description: 'Best Practices in Microsoft Fabric: comprehensive guide to fabric medallion
+  architecture: bronze, silver, gold'
 draft: false
+image: ./cover.png
+published: 2025-03-05 14:00:00
+tags:
+- Fabric
+- Best Practices
+title: 'Fabric Medallion Architecture: Bronze, Silver, Gold'
 ---
 
 # Fabric Medallion Architecture: Bronze, Silver, Gold

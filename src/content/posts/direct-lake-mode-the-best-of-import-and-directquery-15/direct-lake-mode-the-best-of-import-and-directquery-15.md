@@ -1,17 +1,15 @@
 ---
-title: Direct Lake Mode: The Best of Import and DirectQuery
-
-published: 2026-01-07T14:00:00.000Z
-description: >-
-  Power BI in Microsoft Fabric: comprehensive guide to direct lake mode: the best of import and directquery
-
-tags:
-  - Fabric
-  - Power BI
-  - BI
 category: Fabric
-image: "./cover.png"
+description: 'Power BI in Microsoft Fabric: comprehensive guide to direct lake mode:
+  the best of import and directquery'
 draft: false
+image: ./cover.png
+published: 2026-01-07 14:00:00
+tags:
+- Fabric
+- Power BI
+- BI
+title: 'Direct Lake Mode: The Best of Import and DirectQuery'
 ---
 
 # Direct Lake Mode: The Best of Import and DirectQuery

@@ -1,16 +1,14 @@
 ---
-title: Git Integration: Branch Management in Fabric Workspaces
-
-published: 2024-07-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to git integration: branch management in fabric workspaces
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to git integration:
+  branch management in fabric workspaces'
 draft: false
+image: ./cover.png
+published: 2024-07-10 14:00:00
+tags:
+- Fabric
+- Features
+title: 'Git Integration: Branch Management in Fabric Workspaces'
 ---
 
 # Git Integration: Branch Management in Fabric Workspaces

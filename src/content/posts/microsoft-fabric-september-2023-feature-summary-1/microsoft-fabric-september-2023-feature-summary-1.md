@@ -1,16 +1,14 @@
 ---
-title: Microsoft Fabric September 2023 Feature Summary
-
-published: 2023-09-01T14:00:00.000Z
-description: >-
-  Monthly Update in Microsoft Fabric: comprehensive guide to microsoft fabric september 2023 feature summary
-
-tags:
-  - Fabric
-  - Updates
 category: Fabric
-image: "./cover.png"
+description: 'Monthly Update in Microsoft Fabric: comprehensive guide to microsoft
+  fabric september 2023 feature summary'
 draft: false
+image: ./cover.png
+published: 2023-09-01 14:00:00
+tags:
+- Fabric
+- Updates
+title: Microsoft Fabric September 2023 Feature Summary
 ---
 
 # Microsoft Fabric September 2023 Feature Summary

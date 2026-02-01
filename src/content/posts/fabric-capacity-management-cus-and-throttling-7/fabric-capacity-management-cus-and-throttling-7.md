@@ -1,16 +1,14 @@
 ---
-title: Fabric Capacity Management: CUs and Throttling
-
-published: 2024-07-24T14:00:00.000Z
-description: >-
-  Administration in Microsoft Fabric: comprehensive guide to fabric capacity management: cus and throttling
-
-tags:
-  - Fabric
-  - Administration
 category: Fabric
-image: "./cover.png"
+description: 'Administration in Microsoft Fabric: comprehensive guide to fabric capacity
+  management: cus and throttling'
 draft: false
+image: ./cover.png
+published: 2024-07-24 14:00:00
+tags:
+- Fabric
+- Administration
+title: 'Fabric Capacity Management: CUs and Throttling'
 ---
 
 # Fabric Capacity Management: CUs and Throttling

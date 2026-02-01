@@ -1,15 +1,14 @@
 ---
-title: Azure OpenAI Integration with Fabric Data
-published: 2026-01-19T00:00:00.000Z
-description: >-
-  Leverage AI and Copilot features in Fabric
-tags:
-  - Fabric
-  - AI
-  - Copilot
 category: Fabric
-image: "./cover.png"
+description: Leverage AI and Copilot features in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-19 00:00:00
+tags:
+- Fabric
+- AI
+- Copilot
+title: Azure OpenAI Integration with Fabric Data
 ---
 
 # Azure OpenAI Integration with Fabric Data

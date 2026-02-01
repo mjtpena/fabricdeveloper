@@ -1,17 +1,15 @@
 ---
-title: Git Integration in Fabric: Version Control Basics
-
-published: 2023-06-24T14:00:00.000Z
-description: >-
-  DevOps in Microsoft Fabric: comprehensive guide to git integration in fabric: version control basics
-
-tags:
-  - Fabric
-  - DevOps
-  - CI/CD
 category: Fabric
-image: "./cover.png"
+description: 'DevOps in Microsoft Fabric: comprehensive guide to git integration in
+  fabric: version control basics'
 draft: false
+image: ./cover.png
+published: 2023-06-24 14:00:00
+tags:
+- Fabric
+- DevOps
+- CI-CD
+title: 'Git Integration in Fabric: Version Control Basics'
 ---
 
 # Git Integration in Fabric: Version Control Basics

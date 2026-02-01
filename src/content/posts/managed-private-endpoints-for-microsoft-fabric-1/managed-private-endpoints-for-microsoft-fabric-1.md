@@ -1,16 +1,14 @@
 ---
-title: Managed Private Endpoints for Microsoft Fabric
-
-published: 2024-04-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to managed private endpoints for microsoft fabric
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to managed
+  private endpoints for microsoft fabric'
 draft: false
+image: ./cover.png
+published: 2024-04-10 14:00:00
+tags:
+- Fabric
+- Features
+title: Managed Private Endpoints for Microsoft Fabric
 ---
 
 # Managed Private Endpoints for Microsoft Fabric

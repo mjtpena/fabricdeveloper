@@ -1,16 +1,14 @@
 ---
-title: SQL Database Series: Security Deep Dive
-
-published: 2024-12-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to sql database series: security deep dive
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to sql database
+  series: security deep dive'
 draft: false
+image: ./cover.png
+published: 2024-12-10 14:00:00
+tags:
+- Fabric
+- Features
+title: 'SQL Database Series: Security Deep Dive'
 ---
 
 # SQL Database Series: Security Deep Dive

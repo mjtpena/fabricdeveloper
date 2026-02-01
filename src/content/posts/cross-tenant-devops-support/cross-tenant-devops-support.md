@@ -1,14 +1,13 @@
 ---
-title: Cross-Tenant DevOps Support
-published: 2026-01-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: Cross-Tenant DevOps Support
 ---
 
 # Cross-Tenant DevOps Support

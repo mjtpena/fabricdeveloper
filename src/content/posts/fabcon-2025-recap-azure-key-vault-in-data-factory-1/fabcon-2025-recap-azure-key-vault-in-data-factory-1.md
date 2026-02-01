@@ -1,16 +1,14 @@
 ---
-title: FabCon 2025 Recap: Azure Key Vault in Data Factory
-
-published: 2025-04-03T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to fabcon 2025 recap: azure key vault in data factory
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to fabcon 2025
+  recap: azure key vault in data factory'
 draft: false
+image: ./cover.png
+published: 2025-04-03 14:00:00
+tags:
+- Fabric
+- Features
+title: 'FabCon 2025 Recap: Azure Key Vault in Data Factory'
 ---
 
 # FabCon 2025 Recap: Azure Key Vault in Data Factory

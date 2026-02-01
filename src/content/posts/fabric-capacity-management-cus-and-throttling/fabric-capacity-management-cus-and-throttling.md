@@ -1,15 +1,14 @@
 ---
-title: Fabric Capacity Management: CUs and Throttling
-published: 2026-01-10T00:00:00.000Z
-description: >-
-  Master workspace and capacity management in Fabric
-tags:
-  - Fabric
-  - Administration
-  - Governance
 category: Fabric
-image: "./cover.png"
+description: Master workspace and capacity management in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-10 00:00:00
+tags:
+- Fabric
+- Administration
+- Governance
+title: 'Fabric Capacity Management: CUs and Throttling'
 ---
 
 # Fabric Capacity Management: CUs and Throttling

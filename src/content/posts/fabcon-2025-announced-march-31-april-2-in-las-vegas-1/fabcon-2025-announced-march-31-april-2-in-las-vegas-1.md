@@ -1,16 +1,14 @@
 ---
-title: FabCon 2025 Announced: March 31 - April 2 in Las Vegas
-
-published: 2025-01-28T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025 announced: march 31 - april 2 in las vegas
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025
+  announced: march 31 - april 2 in las vegas'
 draft: false
+image: ./cover.png
+published: 2025-01-28 14:00:00
+tags:
+- Fabric
+- News
+title: 'FabCon 2025 Announced: March 31 - April 2 in Las Vegas'
 ---
 
 # FabCon 2025 Announced: March 31 - April 2 in Las Vegas

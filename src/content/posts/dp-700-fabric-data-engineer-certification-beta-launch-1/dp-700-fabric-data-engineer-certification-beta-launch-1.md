@@ -1,16 +1,14 @@
 ---
-title: DP-700 Fabric Data Engineer Certification Beta Launch
-
-published: 2024-10-15T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to dp-700 fabric data engineer certification beta launch
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to dp-700 fabric
+  data engineer certification beta launch'
 draft: false
+image: ./cover.png
+published: 2024-10-15 14:00:00
+tags:
+- Fabric
+- News
+title: DP-700 Fabric Data Engineer Certification Beta Launch
 ---
 
 # DP-700 Fabric Data Engineer Certification Beta Launch

@@ -1,14 +1,13 @@
 ---
-title: Data Factory in Microsoft Fabric: Dataflows Gen2 Deep Dive
-published: 2023-06-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-06-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'Data Factory in Microsoft Fabric: Dataflows Gen2 Deep Dive'
 ---
 
 # Data Factory in Microsoft Fabric: Dataflows Gen2 Deep Dive

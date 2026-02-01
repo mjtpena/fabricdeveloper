@@ -1,15 +1,14 @@
 ---
-title: Pipeline Orchestration: Activities and Triggers
-published: 2025-12-27T00:00:00.000Z
-description: >-
-  Master ETL and data transformation workflows in Fabric
-tags:
-  - Fabric
-  - Data Factory
-  - ETL
 category: Fabric
-image: "./cover.png"
+description: Master ETL and data transformation workflows in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-27 00:00:00
+tags:
+- Fabric
+- Data Factory
+- ETL
+title: 'Pipeline Orchestration: Activities and Triggers'
 ---
 
 # Pipeline Orchestration: Activities and Triggers

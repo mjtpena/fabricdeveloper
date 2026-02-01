@@ -1,14 +1,13 @@
 ---
-title: Snowflake Mirroring in Fabric
-published: 2026-01-31T00:00:00.000Z
-description: >-
-  Connect external data sources and systems to Fabric
-tags:
-  - Fabric
-  - Integration
 category: Fabric
-image: "./cover.png"
+description: Connect external data sources and systems to Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-31 00:00:00
+tags:
+- Fabric
+- Integration
+title: Snowflake Mirroring in Fabric
 ---
 
 # Snowflake Mirroring in Fabric

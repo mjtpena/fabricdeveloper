@@ -1,14 +1,13 @@
 ---
-title: Tutorial: Customer 360 with Fabric Data Science
-published: 2025-12-06T00:00:00.000Z
-description: >-
-  Step-by-step tutorials for Fabric workloads
-tags:
-  - Fabric
-  - Tutorial
 category: Fabric
-image: "./cover.png"
+description: Step-by-step tutorials for Fabric workloads
 draft: false
+image: ./cover.png
+published: 2025-12-06 00:00:00
+tags:
+- Fabric
+- Tutorial
+title: 'Tutorial: Customer 360 with Fabric Data Science'
 ---
 
 # Tutorial: Customer 360 with Fabric Data Science

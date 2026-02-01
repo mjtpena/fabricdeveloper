@@ -1,15 +1,14 @@
 ---
-title: Fabric Capacity and SKU Guide: Choosing the Right Size
-published: 2023-11-18T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-11-18 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'Fabric Capacity and SKU Guide: Choosing the Right Size'
 ---
 
 # Fabric Capacity and SKU Guide: Choosing the Right Size

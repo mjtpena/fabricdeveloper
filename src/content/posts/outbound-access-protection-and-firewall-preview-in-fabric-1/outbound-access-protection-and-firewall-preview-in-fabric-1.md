@@ -1,16 +1,14 @@
 ---
-title: Outbound Access Protection and Firewall Preview in Fabric
-
-published: 2024-01-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to outbound access protection and firewall preview in fabric
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to outbound
+  access protection and firewall preview in fabric'
 draft: false
+image: ./cover.png
+published: 2024-01-10 14:00:00
+tags:
+- Fabric
+- Features
+title: Outbound Access Protection and Firewall Preview in Fabric
 ---
 
 # Outbound Access Protection and Firewall Preview in Fabric

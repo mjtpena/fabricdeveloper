@@ -1,15 +1,14 @@
 ---
-title: Git Integration in Fabric: Version Control Basics
-published: 2026-01-13T00:00:00.000Z
-description: >-
-  Implement CI/CD and automation for Fabric deployments
-tags:
-  - Fabric
-  - DevOps
-  - CI/CD
 category: Fabric
-image: "./cover.png"
+description: Implement CI/CD and automation for Fabric deployments
 draft: false
+image: ./cover.png
+published: 2026-01-13 00:00:00
+tags:
+- Fabric
+- DevOps
+- CI-CD
+title: 'Git Integration in Fabric: Version Control Basics'
 ---
 
 # Git Integration in Fabric: Version Control Basics

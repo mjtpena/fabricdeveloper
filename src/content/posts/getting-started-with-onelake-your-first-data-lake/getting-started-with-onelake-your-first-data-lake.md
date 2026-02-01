@@ -1,15 +1,14 @@
 ---
-title: Getting Started with OneLake: Your First Data Lake
-published: 2025-12-16T00:00:00.000Z
-description: >-
-  Master unified data lake architecture in Microsoft Fabric
-tags:
-  - Fabric
-  - OneLake
-  - Data Lake
 category: Fabric
-image: "./cover.png"
+description: Master unified data lake architecture in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-16 00:00:00
+tags:
+- Fabric
+- OneLake
+- Data Lake
+title: 'Getting Started with OneLake: Your First Data Lake'
 ---
 
 # Getting Started with OneLake: Your First Data Lake

@@ -1,15 +1,14 @@
 ---
-title: Build 2025: Cosmos DB Integration Private Preview
-published: 2025-05-21T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-05-21 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'Build 2025: Cosmos DB Integration Private Preview'
 ---
 
 # Build 2025: Cosmos DB Integration Private Preview

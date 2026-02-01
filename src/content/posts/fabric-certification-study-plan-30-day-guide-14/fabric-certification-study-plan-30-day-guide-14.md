@@ -1,16 +1,14 @@
 ---
-title: Fabric Certification Study Plan: 30-Day Guide
-
-published: 2025-12-09T14:00:00.000Z
-description: >-
-  Certification in Microsoft Fabric: comprehensive guide to fabric certification study plan: 30-day guide
-
-tags:
-  - Fabric
-  - Certification
 category: Fabric
-image: "./cover.png"
+description: 'Certification in Microsoft Fabric: comprehensive guide to fabric certification
+  study plan: 30-day guide'
 draft: false
+image: ./cover.png
+published: 2025-12-09 14:00:00
+tags:
+- Fabric
+- Certification
+title: 'Fabric Certification Study Plan: 30-Day Guide'
 ---
 
 # Fabric Certification Study Plan: 30-Day Guide

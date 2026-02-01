@@ -1,15 +1,14 @@
 ---
-title: Semantic Models in Fabric: Design Patterns
-published: 2026-01-08T00:00:00.000Z
-description: >-
-  Create impactful reports and dashboards with Power BI in Fabric
-tags:
-  - Fabric
-  - Power BI
-  - Analytics
 category: Fabric
-image: "./cover.png"
+description: Create impactful reports and dashboards with Power BI in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-08 00:00:00
+tags:
+- Fabric
+- Power BI
+- Analytics
+title: 'Semantic Models in Fabric: Design Patterns'
 ---
 
 # Semantic Models in Fabric: Design Patterns

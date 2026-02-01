@@ -1,16 +1,14 @@
 ---
-title: Data Warehouse Restore-in-Place via Fabric Editor
-
-published: 2024-07-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to data warehouse restore-in-place via fabric editor
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to data warehouse
+  restore-in-place via fabric editor'
 draft: false
+image: ./cover.png
+published: 2024-07-15 14:00:00
+tags:
+- Fabric
+- Features
+title: Data Warehouse Restore-in-Place via Fabric Editor
 ---
 
 # Data Warehouse Restore-in-Place via Fabric Editor

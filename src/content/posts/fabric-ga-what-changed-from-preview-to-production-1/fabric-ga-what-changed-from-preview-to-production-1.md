@@ -1,16 +1,14 @@
 ---
-title: Fabric GA: What Changed from Preview to Production
-
-published: 2023-11-16T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabric ga: what changed from preview to production
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabric ga:
+  what changed from preview to production'
 draft: false
+image: ./cover.png
+published: 2023-11-16 14:00:00
+tags:
+- Fabric
+- News
+title: 'Fabric GA: What Changed from Preview to Production'
 ---
 
 # Fabric GA: What Changed from Preview to Production

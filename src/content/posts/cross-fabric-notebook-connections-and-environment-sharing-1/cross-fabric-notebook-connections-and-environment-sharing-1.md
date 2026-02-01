@@ -1,16 +1,14 @@
 ---
-title: Cross-Fabric Notebook Connections and Environment Sharing
-
-published: 2024-01-20T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to cross-fabric notebook connections and environment sharing
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to cross-fabric
+  notebook connections and environment sharing'
 draft: false
+image: ./cover.png
+published: 2024-01-20 14:00:00
+tags:
+- Fabric
+- Features
+title: Cross-Fabric Notebook Connections and Environment Sharing
 ---
 
 # Cross-Fabric Notebook Connections and Environment Sharing

@@ -1,14 +1,13 @@
 ---
-title: Database Mirroring: Simplifying SQL Integration
-published: 2024-11-16T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-11-16 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'Database Mirroring: Simplifying SQL Integration'
 ---
 
 # Database Mirroring: Simplifying SQL Integration

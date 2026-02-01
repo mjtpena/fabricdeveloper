@@ -1,16 +1,14 @@
 ---
-title: Troubleshooting Spark Job Failures in Fabric
-
-published: 2024-02-10T14:00:00.000Z
-description: >-
-  Troubleshooting in Microsoft Fabric: comprehensive guide to troubleshooting spark job failures in fabric
-
-tags:
-  - Fabric
-  - Troubleshooting
 category: Fabric
-image: "./cover.png"
+description: 'Troubleshooting in Microsoft Fabric: comprehensive guide to troubleshooting
+  spark job failures in fabric'
 draft: false
+image: ./cover.png
+published: 2024-02-10 14:00:00
+tags:
+- Fabric
+- Troubleshooting
+title: Troubleshooting Spark Job Failures in Fabric
 ---
 
 # Troubleshooting Spark Job Failures in Fabric

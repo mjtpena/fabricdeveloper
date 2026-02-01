@@ -1,15 +1,14 @@
 ---
-title: AutoML in Fabric: No-Code Model Training
-published: 2026-01-03T00:00:00.000Z
-description: >-
-  Build machine learning models and analytical solutions in Fabric
-tags:
-  - Fabric
-  - Data Science
-  - ML
 category: Fabric
-image: "./cover.png"
+description: Build machine learning models and analytical solutions in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-03 00:00:00
+tags:
+- Fabric
+- Data Science
+- ML
+title: 'AutoML in Fabric: No-Code Model Training'
 ---
 
 # AutoML in Fabric: No-Code Model Training

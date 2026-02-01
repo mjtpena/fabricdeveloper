@@ -1,15 +1,14 @@
 ---
-title: OneLake: The OneDrive for Data - What Fabric Developers Need to Know
-published: 2023-05-24T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-05-24 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'OneLake: The OneDrive for Data - What Fabric Developers Need to Know'
 ---
 
 # OneLake: The OneDrive for Data - What Fabric Developers Need to Know

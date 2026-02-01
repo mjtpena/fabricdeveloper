@@ -1,17 +1,15 @@
 ---
-title: AI Skills in Fabric: Building Custom Agents
-
-published: 2024-12-18T14:00:00.000Z
-description: >-
-  AI/Copilot in Microsoft Fabric: comprehensive guide to ai skills in fabric: building custom agents
-
-tags:
-  - Fabric
-  - GenAI
-  - Copilot
 category: Fabric
-image: "./cover.png"
+description: 'AI/Copilot in Microsoft Fabric: comprehensive guide to ai skills in
+  fabric: building custom agents'
 draft: false
+image: ./cover.png
+published: 2024-12-18 14:00:00
+tags:
+- Fabric
+- GenAI
+- Copilot
+title: 'AI Skills in Fabric: Building Custom Agents'
 ---
 
 # AI Skills in Fabric: Building Custom Agents

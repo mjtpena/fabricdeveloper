@@ -1,16 +1,14 @@
 ---
-title: FabCon 2025 Day 2: OneLake Security Unified Access Control
-
-published: 2025-04-01T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025 day 2: onelake security unified access control
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025
+  day 2: onelake security unified access control'
 draft: false
+image: ./cover.png
+published: 2025-04-01 14:00:00
+tags:
+- Fabric
+- News
+title: 'FabCon 2025 Day 2: OneLake Security Unified Access Control'
 ---
 
 # FabCon 2025 Day 2: OneLake Security Unified Access Control

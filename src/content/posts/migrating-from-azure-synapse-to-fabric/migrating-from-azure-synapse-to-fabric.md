@@ -1,14 +1,13 @@
 ---
-title: Migrating from Azure Synapse to Fabric
-published: 2026-01-20T00:00:00.000Z
-description: >-
-  Plan and execute migrations to Microsoft Fabric
-tags:
-  - Fabric
-  - Migration
 category: Fabric
-image: "./cover.png"
+description: Plan and execute migrations to Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-20 00:00:00
+tags:
+- Fabric
+- Migration
+title: Migrating from Azure Synapse to Fabric
 ---
 
 # Migrating from Azure Synapse to Fabric

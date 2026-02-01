@@ -1,16 +1,14 @@
 ---
-title: Sensitivity Labels in Fabric: Information Protection
-
-published: 2024-06-02T14:00:00.000Z
-description: >-
-  Security in Microsoft Fabric: comprehensive guide to sensitivity labels in fabric: information protection
-
-tags:
-  - Fabric
-  - Security
 category: Fabric
-image: "./cover.png"
+description: 'Security in Microsoft Fabric: comprehensive guide to sensitivity labels
+  in fabric: information protection'
 draft: false
+image: ./cover.png
+published: 2024-06-02 14:00:00
+tags:
+- Fabric
+- Security
+title: 'Sensitivity Labels in Fabric: Information Protection'
 ---
 
 # Sensitivity Labels in Fabric: Information Protection

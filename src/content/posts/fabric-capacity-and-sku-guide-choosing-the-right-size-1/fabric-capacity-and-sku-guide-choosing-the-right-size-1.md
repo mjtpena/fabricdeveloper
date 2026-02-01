@@ -1,16 +1,14 @@
 ---
-title: Fabric Capacity and SKU Guide: Choosing the Right Size
-
-published: 2023-11-18T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabric capacity and sku guide: choosing the right size
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabric capacity
+  and sku guide: choosing the right size'
 draft: false
+image: ./cover.png
+published: 2023-11-18 14:00:00
+tags:
+- Fabric
+- News
+title: 'Fabric Capacity and SKU Guide: Choosing the Right Size'
 ---
 
 # Fabric Capacity and SKU Guide: Choosing the Right Size

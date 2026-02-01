@@ -1,16 +1,14 @@
 ---
-title: DP-600 Exam Guide: Fabric Analytics Engineer
-
-published: 2025-09-30T14:00:00.000Z
-description: >-
-  Certification in Microsoft Fabric: comprehensive guide to dp-600 exam guide: fabric analytics engineer
-
-tags:
-  - Fabric
-  - Certification
 category: Fabric
-image: "./cover.png"
+description: 'Certification in Microsoft Fabric: comprehensive guide to dp-600 exam
+  guide: fabric analytics engineer'
 draft: false
+image: ./cover.png
+published: 2025-09-30 14:00:00
+tags:
+- Fabric
+- Certification
+title: 'DP-600 Exam Guide: Fabric Analytics Engineer'
 ---
 
 # DP-600 Exam Guide: Fabric Analytics Engineer

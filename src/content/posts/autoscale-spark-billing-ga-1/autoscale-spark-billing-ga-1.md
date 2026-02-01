@@ -1,16 +1,14 @@
 ---
-title: Autoscale Spark Billing GA
-
-published: 2025-09-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to autoscale spark billing ga
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to autoscale
+  spark billing ga'
 draft: false
+image: ./cover.png
+published: 2025-09-10 14:00:00
+tags:
+- Fabric
+- Features
+title: Autoscale Spark Billing GA
 ---
 
 # Autoscale Spark Billing GA

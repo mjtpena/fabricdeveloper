@@ -1,16 +1,14 @@
 ---
-title: FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration
-
-published: 2025-04-02T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025 day 3: azure ai foundry agentic ai integration
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025
+  day 3: azure ai foundry agentic ai integration'
 draft: false
+image: ./cover.png
+published: 2025-04-02 14:00:00
+tags:
+- Fabric
+- News
+title: 'FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration'
 ---
 
 # FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration

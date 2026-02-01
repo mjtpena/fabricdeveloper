@@ -1,14 +1,13 @@
 ---
-title: Fabric CLI Open Source Release
-published: 2025-10-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-10-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: Fabric CLI Open Source Release
 ---
 
 # Fabric CLI Open Source Release

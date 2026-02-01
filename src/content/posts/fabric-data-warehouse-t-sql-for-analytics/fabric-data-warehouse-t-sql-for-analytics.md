@@ -1,15 +1,14 @@
 ---
-title: Fabric Data Warehouse: T-SQL for Analytics
-published: 2025-12-28T00:00:00.000Z
-description: >-
-  Build enterprise-grade analytics using T-SQL in Fabric
-tags:
-  - Fabric
-  - Data Warehouse
-  - T-SQL
 category: Fabric
-image: "./cover.png"
+description: Build enterprise-grade analytics using T-SQL in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-28 00:00:00
+tags:
+- Fabric
+- Data Warehouse
+- T-SQL
+title: 'Fabric Data Warehouse: T-SQL for Analytics'
 ---
 
 # Fabric Data Warehouse: T-SQL for Analytics

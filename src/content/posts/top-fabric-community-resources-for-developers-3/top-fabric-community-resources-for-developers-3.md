@@ -1,16 +1,14 @@
 ---
-title: Top Fabric Community Resources for Developers
-
-published: 2023-12-04T14:00:00.000Z
-description: >-
-  Community in Microsoft Fabric: comprehensive guide to top fabric community resources for developers
-
-tags:
-  - Fabric
-  - Community
 category: Fabric
-image: "./cover.png"
+description: 'Community in Microsoft Fabric: comprehensive guide to top fabric community
+  resources for developers'
 draft: false
+image: ./cover.png
+published: 2023-12-04 14:00:00
+tags:
+- Fabric
+- Community
+title: Top Fabric Community Resources for Developers
 ---
 
 # Top Fabric Community Resources for Developers

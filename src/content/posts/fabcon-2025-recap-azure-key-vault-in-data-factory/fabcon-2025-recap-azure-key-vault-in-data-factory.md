@@ -1,14 +1,13 @@
 ---
-title: FabCon 2025 Recap: Azure Key Vault in Data Factory
-published: 2025-04-03T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-04-03 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'FabCon 2025 Recap: Azure Key Vault in Data Factory'
 ---
 
 # FabCon 2025 Recap: Azure Key Vault in Data Factory

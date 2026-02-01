@@ -1,14 +1,13 @@
 ---
-title: Cosmos DB in Fabric GA
-published: 2025-11-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-11-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: Cosmos DB in Fabric GA
 ---
 
 # Cosmos DB in Fabric GA

@@ -1,15 +1,14 @@
 ---
-title: FabCon 2025 Day 2: OneLake Security Unified Access Control
-published: 2025-04-01T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-04-01 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'FabCon 2025 Day 2: OneLake Security Unified Access Control'
 ---
 
 # FabCon 2025 Day 2: OneLake Security Unified Access Control

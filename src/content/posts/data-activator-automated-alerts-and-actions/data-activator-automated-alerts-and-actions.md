@@ -1,15 +1,14 @@
 ---
-title: Data Activator: Automated Alerts and Actions
-published: 2026-01-06T00:00:00.000Z
-description: >-
-  Implement real-time analytics and streaming in Fabric
-tags:
-  - Fabric
-  - Real-Time Intelligence
-  - KQL
 category: Fabric
-image: "./cover.png"
+description: Implement real-time analytics and streaming in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-06 00:00:00
+tags:
+- Fabric
+- Real-Time Intelligence
+- KQL
+title: 'Data Activator: Automated Alerts and Actions'
 ---
 
 # Data Activator: Automated Alerts and Actions

@@ -1,17 +1,15 @@
 ---
-title: Fabric REST APIs: Automating Administration
-
-published: 2025-02-22T14:00:00.000Z
-description: >-
-  DevOps in Microsoft Fabric: comprehensive guide to fabric rest apis: automating administration
-
-tags:
-  - Fabric
-  - DevOps
-  - CI/CD
 category: Fabric
-image: "./cover.png"
+description: 'DevOps in Microsoft Fabric: comprehensive guide to fabric rest apis:
+  automating administration'
 draft: false
+image: ./cover.png
+published: 2025-02-22 14:00:00
+tags:
+- Fabric
+- DevOps
+- CI-CD
+title: 'Fabric REST APIs: Automating Administration'
 ---
 
 # Fabric REST APIs: Automating Administration

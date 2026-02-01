@@ -1,16 +1,14 @@
 ---
-title: Enhanced Report Format (PBIR) Upgrade
-
-published: 2024-06-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to enhanced report format (pbir) upgrade
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to enhanced
+  report format (pbir) upgrade'
 draft: false
+image: ./cover.png
+published: 2024-06-15 14:00:00
+tags:
+- Fabric
+- Features
+title: Enhanced Report Format (PBIR) Upgrade
 ---
 
 # Enhanced Report Format (PBIR) Upgrade

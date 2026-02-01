@@ -1,16 +1,14 @@
 ---
-title: Snowflake Mirroring in Fabric
-
-published: 2025-03-10T14:00:00.000Z
-description: >-
-  Integration in Microsoft Fabric: comprehensive guide to snowflake mirroring in fabric
-
-tags:
-  - Fabric
-  - Integration
 category: Fabric
-image: "./cover.png"
+description: 'Integration in Microsoft Fabric: comprehensive guide to snowflake mirroring
+  in fabric'
 draft: false
+image: ./cover.png
+published: 2025-03-10 14:00:00
+tags:
+- Fabric
+- Integration
+title: Snowflake Mirroring in Fabric
 ---
 
 # Snowflake Mirroring in Fabric

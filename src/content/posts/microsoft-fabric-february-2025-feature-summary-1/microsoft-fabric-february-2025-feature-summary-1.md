@@ -1,16 +1,14 @@
 ---
-title: Microsoft Fabric February 2025 Feature Summary
-
-published: 2025-02-01T14:00:00.000Z
-description: >-
-  Monthly Update in Microsoft Fabric: comprehensive guide to microsoft fabric february 2025 feature summary
-
-tags:
-  - Fabric
-  - Updates
 category: Fabric
-image: "./cover.png"
+description: 'Monthly Update in Microsoft Fabric: comprehensive guide to microsoft
+  fabric february 2025 feature summary'
 draft: false
+image: ./cover.png
+published: 2025-02-01 14:00:00
+tags:
+- Fabric
+- Updates
+title: Microsoft Fabric February 2025 Feature Summary
 ---
 
 # Microsoft Fabric February 2025 Feature Summary

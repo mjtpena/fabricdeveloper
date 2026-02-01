@@ -1,16 +1,14 @@
 ---
-title: FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs
-
-published: 2025-03-31T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025 day 1: copilot and ai now available for all paid skus
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fabcon 2025
+  day 1: copilot and ai now available for all paid skus'
 draft: false
+image: ./cover.png
+published: 2025-03-31 14:00:00
+tags:
+- Fabric
+- News
+title: 'FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs'
 ---
 
 # FabCon 2025 Day 1: Copilot and AI Now Available for All Paid SKUs

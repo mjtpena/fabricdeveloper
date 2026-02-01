@@ -1,15 +1,14 @@
 ---
-title: Dataflows Gen2: Power Query at Scale
-published: 2025-12-26T00:00:00.000Z
-description: >-
-  Master ETL and data transformation workflows in Fabric
-tags:
-  - Fabric
-  - Data Factory
-  - ETL
 category: Fabric
-image: "./cover.png"
+description: Master ETL and data transformation workflows in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-26 00:00:00
+tags:
+- Fabric
+- Data Factory
+- ETL
+title: 'Dataflows Gen2: Power Query at Scale'
 ---
 
 # Dataflows Gen2: Power Query at Scale

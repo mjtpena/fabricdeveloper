@@ -1,17 +1,15 @@
 ---
-title: CI/CD Pipelines for Fabric: Deployment Automation
-
-published: 2024-12-15T14:00:00.000Z
-description: >-
-  DevOps in Microsoft Fabric: comprehensive guide to ci/cd pipelines for fabric: deployment automation
-
-tags:
-  - Fabric
-  - DevOps
-  - CI/CD
 category: Fabric
-image: "./cover.png"
+description: 'DevOps in Microsoft Fabric: comprehensive guide to ci/cd pipelines for
+  fabric: deployment automation'
 draft: false
+image: ./cover.png
+published: 2024-12-15 14:00:00
+tags:
+- Fabric
+- DevOps
+- CI-CD
+title: 'CI/CD Pipelines for Fabric: Deployment Automation'
 ---
 
 # CI/CD Pipelines for Fabric: Deployment Automation

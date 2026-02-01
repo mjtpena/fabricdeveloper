@@ -1,14 +1,13 @@
 ---
-title: Fabric Workload Development Kit
-published: 2025-12-03T00:00:00.000Z
-description: >-
-  Advanced patterns and enterprise-scale solutions in Fabric
-tags:
-  - Fabric
-  - Advanced
 category: Fabric
-image: "./cover.png"
+description: Advanced patterns and enterprise-scale solutions in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-03 00:00:00
+tags:
+- Fabric
+- Advanced
+title: Fabric Workload Development Kit
 ---
 
 # Fabric Workload Development Kit

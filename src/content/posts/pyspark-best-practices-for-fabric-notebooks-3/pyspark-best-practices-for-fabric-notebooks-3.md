@@ -1,17 +1,15 @@
 ---
-title: PySpark Best Practices for Fabric Notebooks
-
-published: 2023-10-10T14:00:00.000Z
-description: >-
-  Data Engineering in Microsoft Fabric: comprehensive guide to pyspark best practices for fabric notebooks
-
-tags:
-  - Fabric
-  - Spark
-  - Data Engineering
 category: Fabric
-image: "./cover.png"
+description: 'Data Engineering in Microsoft Fabric: comprehensive guide to pyspark
+  best practices for fabric notebooks'
 draft: false
+image: ./cover.png
+published: 2023-10-10 14:00:00
+tags:
+- Fabric
+- Spark
+- Data Engineering
+title: PySpark Best Practices for Fabric Notebooks
 ---
 
 # PySpark Best Practices for Fabric Notebooks

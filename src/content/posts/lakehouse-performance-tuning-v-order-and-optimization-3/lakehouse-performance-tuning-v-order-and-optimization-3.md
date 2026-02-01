@@ -1,17 +1,15 @@
 ---
-title: Lakehouse Performance Tuning: V-Order and Optimization
-
-published: 2023-10-08T14:00:00.000Z
-description: >-
-  Lakehouse in Microsoft Fabric: comprehensive guide to lakehouse performance tuning: v-order and optimization
-
-tags:
-  - Fabric
-  - Lakehouse
-  - Delta Lake
 category: Fabric
-image: "./cover.png"
+description: 'Lakehouse in Microsoft Fabric: comprehensive guide to lakehouse performance
+  tuning: v-order and optimization'
 draft: false
+image: ./cover.png
+published: 2023-10-08 14:00:00
+tags:
+- Fabric
+- Lakehouse
+- Delta Lake
+title: 'Lakehouse Performance Tuning: V-Order and Optimization'
 ---
 
 # Lakehouse Performance Tuning: V-Order and Optimization

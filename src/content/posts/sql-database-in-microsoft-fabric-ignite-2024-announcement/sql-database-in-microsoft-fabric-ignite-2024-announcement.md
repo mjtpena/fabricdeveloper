@@ -1,15 +1,14 @@
 ---
-title: SQL Database in Microsoft Fabric: Ignite 2024 Announcement
-published: 2024-11-15T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-11-15 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'SQL Database in Microsoft Fabric: Ignite 2024 Announcement'
 ---
 
 # SQL Database in Microsoft Fabric: Ignite 2024 Announcement

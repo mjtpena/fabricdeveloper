@@ -1,15 +1,14 @@
 ---
-title: MLflow Integration: Tracking Experiments in Fabric
-published: 2026-01-02T00:00:00.000Z
-description: >-
-  Build machine learning models and analytical solutions in Fabric
-tags:
-  - Fabric
-  - Data Science
-  - ML
 category: Fabric
-image: "./cover.png"
+description: Build machine learning models and analytical solutions in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-02 00:00:00
+tags:
+- Fabric
+- Data Science
+- ML
+title: 'MLflow Integration: Tracking Experiments in Fabric'
 ---
 
 # MLflow Integration: Tracking Experiments in Fabric

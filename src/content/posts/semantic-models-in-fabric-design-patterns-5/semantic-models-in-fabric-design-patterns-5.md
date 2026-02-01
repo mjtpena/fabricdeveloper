@@ -1,17 +1,15 @@
 ---
-title: Semantic Models in Fabric: Design Patterns
-
-published: 2024-03-08T14:00:00.000Z
-description: >-
-  Power BI in Microsoft Fabric: comprehensive guide to semantic models in fabric: design patterns
-
-tags:
-  - Fabric
-  - Power BI
-  - BI
 category: Fabric
-image: "./cover.png"
+description: 'Power BI in Microsoft Fabric: comprehensive guide to semantic models
+  in fabric: design patterns'
 draft: false
+image: ./cover.png
+published: 2024-03-08 14:00:00
+tags:
+- Fabric
+- Power BI
+- BI
+title: 'Semantic Models in Fabric: Design Patterns'
 ---
 
 # Semantic Models in Fabric: Design Patterns

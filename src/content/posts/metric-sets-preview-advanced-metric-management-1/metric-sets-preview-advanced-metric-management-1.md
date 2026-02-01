@@ -1,16 +1,14 @@
 ---
-title: Metric Sets Preview: Advanced Metric Management
-
-published: 2024-11-20T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to metric sets preview: advanced metric management
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to metric sets
+  preview: advanced metric management'
 draft: false
+image: ./cover.png
+published: 2024-11-20 14:00:00
+tags:
+- Fabric
+- Features
+title: 'Metric Sets Preview: Advanced Metric Management'
 ---
 
 # Metric Sets Preview: Advanced Metric Management

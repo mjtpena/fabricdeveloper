@@ -1,15 +1,14 @@
 ---
-title: Power BI Composite Models with OneLake
-published: 2026-01-09T00:00:00.000Z
-description: >-
-  Create impactful reports and dashboards with Power BI in Fabric
-tags:
-  - Fabric
-  - Power BI
-  - Analytics
 category: Fabric
-image: "./cover.png"
+description: Create impactful reports and dashboards with Power BI in Fabric
 draft: false
+image: ./cover.png
+published: 2026-01-09 00:00:00
+tags:
+- Fabric
+- Power BI
+- Analytics
+title: Power BI Composite Models with OneLake
 ---
 
 # Power BI Composite Models with OneLake

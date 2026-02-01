@@ -1,16 +1,14 @@
 ---
-title: Azure Data Lake Storage Gen2 with Fabric
-
-published: 2024-01-25T14:00:00.000Z
-description: >-
-  Integration in Microsoft Fabric: comprehensive guide to azure data lake storage gen2 with fabric
-
-tags:
-  - Fabric
-  - Integration
 category: Fabric
-image: "./cover.png"
+description: 'Integration in Microsoft Fabric: comprehensive guide to azure data lake
+  storage gen2 with fabric'
 draft: false
+image: ./cover.png
+published: 2024-01-25 14:00:00
+tags:
+- Fabric
+- Integration
+title: Azure Data Lake Storage Gen2 with Fabric
 ---
 
 # Azure Data Lake Storage Gen2 with Fabric

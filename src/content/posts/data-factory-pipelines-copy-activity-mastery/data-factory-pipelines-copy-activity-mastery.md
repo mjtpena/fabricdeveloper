@@ -1,15 +1,14 @@
 ---
-title: Data Factory Pipelines: Copy Activity Mastery
-published: 2025-12-25T00:00:00.000Z
-description: >-
-  Master ETL and data transformation workflows in Fabric
-tags:
-  - Fabric
-  - Data Factory
-  - ETL
 category: Fabric
-image: "./cover.png"
+description: Master ETL and data transformation workflows in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-25 00:00:00
+tags:
+- Fabric
+- Data Factory
+- ETL
+title: 'Data Factory Pipelines: Copy Activity Mastery'
 ---
 
 # Data Factory Pipelines: Copy Activity Mastery

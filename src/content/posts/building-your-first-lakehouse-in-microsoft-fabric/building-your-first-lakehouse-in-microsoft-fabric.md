@@ -1,15 +1,14 @@
 ---
-title: Building Your First Lakehouse in Microsoft Fabric
-published: 2025-12-19T00:00:00.000Z
-description: >-
-  Explore Lakehouse design and Delta Lake fundamentals in Fabric
-tags:
-  - Fabric
-  - Lakehouse
-  - Delta Lake
 category: Fabric
-image: "./cover.png"
+description: Explore Lakehouse design and Delta Lake fundamentals in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-19 00:00:00
+tags:
+- Fabric
+- Lakehouse
+- Delta Lake
+title: Building Your First Lakehouse in Microsoft Fabric
 ---
 
 # Building Your First Lakehouse in Microsoft Fabric

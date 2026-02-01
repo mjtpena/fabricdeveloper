@@ -1,16 +1,14 @@
 ---
-title: Lakehouse: Sorting, Filtering, and Searching Data
-
-published: 2024-10-10T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to lakehouse: sorting, filtering, and searching data
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to lakehouse:
+  sorting, filtering, and searching data'
 draft: false
+image: ./cover.png
+published: 2024-10-10 14:00:00
+tags:
+- Fabric
+- Features
+title: 'Lakehouse: Sorting, Filtering, and Searching Data'
 ---
 
 # Lakehouse: Sorting, Filtering, and Searching Data

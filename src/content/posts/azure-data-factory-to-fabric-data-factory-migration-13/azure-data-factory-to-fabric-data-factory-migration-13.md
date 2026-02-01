@@ -1,16 +1,14 @@
 ---
-title: Azure Data Factory to Fabric Data Factory Migration
-
-published: 2025-09-12T14:00:00.000Z
-description: >-
-  Migration in Microsoft Fabric: comprehensive guide to azure data factory to fabric data factory migration
-
-tags:
-  - Fabric
-  - Migration
 category: Fabric
-image: "./cover.png"
+description: 'Migration in Microsoft Fabric: comprehensive guide to azure data factory
+  to fabric data factory migration'
 draft: false
+image: ./cover.png
+published: 2025-09-12 14:00:00
+tags:
+- Fabric
+- Migration
+title: Azure Data Factory to Fabric Data Factory Migration
 ---
 
 # Azure Data Factory to Fabric Data Factory Migration

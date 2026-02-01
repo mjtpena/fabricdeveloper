@@ -1,15 +1,14 @@
 ---
-title: DP-700 Exam Guide: Fabric Data Engineer
-published: 2025-12-08T00:00:00.000Z
-description: >-
-  Prepare for Fabric certification exams
-tags:
-  - Fabric
-  - Certification
-  - DP-700
 category: Fabric
-image: "./cover.png"
+description: Prepare for Fabric certification exams
 draft: false
+image: ./cover.png
+published: 2025-12-08 00:00:00
+tags:
+- Fabric
+- Certification
+- DP-700
+title: 'DP-700 Exam Guide: Fabric Data Engineer'
 ---
 
 # DP-700 Exam Guide: Fabric Data Engineer

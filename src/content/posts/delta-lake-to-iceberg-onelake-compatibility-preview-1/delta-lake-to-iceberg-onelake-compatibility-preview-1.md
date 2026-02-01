@@ -1,16 +1,14 @@
 ---
-title: Delta Lake to Iceberg: OneLake Compatibility Preview
-
-published: 2023-10-20T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to delta lake to iceberg: onelake compatibility preview
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to delta lake
+  to iceberg: onelake compatibility preview'
 draft: false
+image: ./cover.png
+published: 2023-10-20 14:00:00
+tags:
+- Fabric
+- Features
+title: 'Delta Lake to Iceberg: OneLake Compatibility Preview'
 ---
 
 # Delta Lake to Iceberg: OneLake Compatibility Preview

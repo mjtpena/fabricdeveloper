@@ -1,15 +1,14 @@
 ---
-title: FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration
-published: 2025-04-02T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-04-02 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: 'FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration'
 ---
 
 # FabCon 2025 Day 3: Azure AI Foundry Agentic AI Integration

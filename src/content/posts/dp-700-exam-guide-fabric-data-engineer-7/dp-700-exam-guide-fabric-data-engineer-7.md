@@ -1,16 +1,14 @@
 ---
-title: DP-700 Exam Guide: Fabric Data Engineer
-
-published: 2024-08-23T14:00:00.000Z
-description: >-
-  Certification in Microsoft Fabric: comprehensive guide to dp-700 exam guide: fabric data engineer
-
-tags:
-  - Fabric
-  - Certification
 category: Fabric
-image: "./cover.png"
+description: 'Certification in Microsoft Fabric: comprehensive guide to dp-700 exam
+  guide: fabric data engineer'
 draft: false
+image: ./cover.png
+published: 2024-08-23 14:00:00
+tags:
+- Fabric
+- Certification
+title: 'DP-700 Exam Guide: Fabric Data Engineer'
 ---
 
 # DP-700 Exam Guide: Fabric Data Engineer

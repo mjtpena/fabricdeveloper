@@ -1,16 +1,14 @@
 ---
-title: Build 2025: Fabric Roadmap Tool Introduction
-
-published: 2025-05-19T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to build 2025: fabric roadmap tool introduction
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to build 2025:
+  fabric roadmap tool introduction'
 draft: false
+image: ./cover.png
+published: 2025-05-19 14:00:00
+tags:
+- Fabric
+- News
+title: 'Build 2025: Fabric Roadmap Tool Introduction'
 ---
 
 # Build 2025: Fabric Roadmap Tool Introduction

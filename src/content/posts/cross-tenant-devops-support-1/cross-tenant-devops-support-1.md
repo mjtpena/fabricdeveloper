@@ -1,16 +1,14 @@
 ---
-title: Cross-Tenant DevOps Support
-
-published: 2026-01-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to cross-tenant devops support
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to cross-tenant
+  devops support'
 draft: false
+image: ./cover.png
+published: 2026-01-15 14:00:00
+tags:
+- Fabric
+- Features
+title: Cross-Tenant DevOps Support
 ---
 
 # Cross-Tenant DevOps Support

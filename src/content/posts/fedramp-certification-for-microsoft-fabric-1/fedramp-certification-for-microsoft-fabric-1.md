@@ -1,16 +1,14 @@
 ---
-title: FedRAMP Certification for Microsoft Fabric
-
-published: 2024-11-17T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to fedramp certification for microsoft fabric
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to fedramp certification
+  for microsoft fabric'
 draft: false
+image: ./cover.png
+published: 2024-11-17 14:00:00
+tags:
+- Fabric
+- News
+title: FedRAMP Certification for Microsoft Fabric
 ---
 
 # FedRAMP Certification for Microsoft Fabric

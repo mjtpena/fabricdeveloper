@@ -1,17 +1,15 @@
 ---
-title: Machine Learning in Fabric: Experiments and Models
-
-published: 2023-08-14T14:00:00.000Z
-description: >-
-  Data Science in Microsoft Fabric: comprehensive guide to machine learning in fabric: experiments and models
-
-tags:
-  - Fabric
-  - Data Science
-  - ML
 category: Fabric
-image: "./cover.png"
+description: 'Data Science in Microsoft Fabric: comprehensive guide to machine learning
+  in fabric: experiments and models'
 draft: false
+image: ./cover.png
+published: 2023-08-14 14:00:00
+tags:
+- Fabric
+- Data Science
+- ML
+title: 'Machine Learning in Fabric: Experiments and Models'
 ---
 
 # Machine Learning in Fabric: Experiments and Models

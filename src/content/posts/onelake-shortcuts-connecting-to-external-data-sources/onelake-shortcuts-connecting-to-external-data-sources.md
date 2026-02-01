@@ -1,14 +1,13 @@
 ---
-title: OneLake Shortcuts: Connecting to External Data Sources
-published: 2023-12-15T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-12-15 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'OneLake Shortcuts: Connecting to External Data Sources'
 ---
 
 # OneLake Shortcuts: Connecting to External Data Sources

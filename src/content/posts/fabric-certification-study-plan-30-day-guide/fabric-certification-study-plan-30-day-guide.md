@@ -1,15 +1,14 @@
 ---
-title: Fabric Certification Study Plan: 30-Day Guide
-published: 2025-12-09T00:00:00.000Z
-description: >-
-  Prepare for Fabric certification exams
-tags:
-  - Fabric
-  - Certification
-  - DP-700
 category: Fabric
-image: "./cover.png"
+description: Prepare for Fabric certification exams
 draft: false
+image: ./cover.png
+published: 2025-12-09 00:00:00
+tags:
+- Fabric
+- Certification
+- DP-700
+title: 'Fabric Certification Study Plan: 30-Day Guide'
 ---
 
 # Fabric Certification Study Plan: 30-Day Guide

@@ -1,14 +1,13 @@
 ---
-title: Real-Time Analytics in Fabric: KQL Database First Look
-published: 2023-07-10T00:00:00.000Z
-description: >-
-  Explore new features released in Microsoft Fabric
-tags:
-  - Fabric
-  - New Features
 category: Fabric
-image: "./cover.png"
+description: Explore new features released in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2023-07-10 00:00:00
+tags:
+- Fabric
+- New Features
+title: 'Real-Time Analytics in Fabric: KQL Database First Look'
 ---
 
 # Real-Time Analytics in Fabric: KQL Database First Look

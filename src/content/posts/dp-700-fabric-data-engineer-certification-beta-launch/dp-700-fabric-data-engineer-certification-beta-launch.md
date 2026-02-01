@@ -1,15 +1,14 @@
 ---
-title: DP-700 Fabric Data Engineer Certification Beta Launch
-published: 2024-10-15T00:00:00.000Z
-description: >-
-  Learn essential concepts and best practices in Microsoft Fabric
-tags:
-  - Fabric
-  - Analytics
-  - Platform
 category: Fabric
-image: "./cover.png"
+description: Learn essential concepts and best practices in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2024-10-15 00:00:00
+tags:
+- Fabric
+- Analytics
+- Platform
+title: DP-700 Fabric Data Engineer Certification Beta Launch
 ---
 
 # DP-700 Fabric Data Engineer Certification Beta Launch

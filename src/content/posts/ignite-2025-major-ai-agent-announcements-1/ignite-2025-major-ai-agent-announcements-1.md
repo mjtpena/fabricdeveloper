@@ -1,16 +1,14 @@
 ---
-title: Ignite 2025: Major AI Agent Announcements
-
-published: 2025-11-18T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to ignite 2025: major ai agent announcements
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to ignite 2025:
+  major ai agent announcements'
 draft: false
+image: ./cover.png
+published: 2025-11-18 14:00:00
+tags:
+- Fabric
+- News
+title: 'Ignite 2025: Major AI Agent Announcements'
 ---
 
 # Ignite 2025: Major AI Agent Announcements

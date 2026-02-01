@@ -1,17 +1,15 @@
 ---
-title: OneLake Security Best Practices for Enterprise
-
-published: 2025-03-28T14:00:00.000Z
-description: >-
-  OneLake in Microsoft Fabric: comprehensive guide to onelake security best practices for enterprise
-
-tags:
-  - Fabric
-  - OneLake
-  - Data Lake
 category: Fabric
-image: "./cover.png"
+description: 'OneLake in Microsoft Fabric: comprehensive guide to onelake security
+  best practices for enterprise'
 draft: false
+image: ./cover.png
+published: 2025-03-28 14:00:00
+tags:
+- Fabric
+- OneLake
+- Data Lake
+title: OneLake Security Best Practices for Enterprise
 ---
 
 # OneLake Security Best Practices for Enterprise

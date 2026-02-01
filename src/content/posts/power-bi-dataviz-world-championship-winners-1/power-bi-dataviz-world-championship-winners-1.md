@@ -1,16 +1,14 @@
 ---
-title: Power BI DataViz World Championship Winners
-
-published: 2025-04-10T14:00:00.000Z
-description: >-
-  Announcement in Microsoft Fabric: comprehensive guide to power bi dataviz world championship winners
-
-tags:
-  - Fabric
-  - News
 category: Fabric
-image: "./cover.png"
+description: 'Announcement in Microsoft Fabric: comprehensive guide to power bi dataviz
+  world championship winners'
 draft: false
+image: ./cover.png
+published: 2025-04-10 14:00:00
+tags:
+- Fabric
+- News
+title: Power BI DataViz World Championship Winners
 ---
 
 # Power BI DataViz World Championship Winners

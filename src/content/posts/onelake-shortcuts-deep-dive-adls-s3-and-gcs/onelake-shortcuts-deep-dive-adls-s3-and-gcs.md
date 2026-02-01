@@ -1,15 +1,14 @@
 ---
-title: OneLake Shortcuts Deep Dive: ADLS, S3, and GCS
-published: 2025-12-17T00:00:00.000Z
-description: >-
-  Master unified data lake architecture in Microsoft Fabric
-tags:
-  - Fabric
-  - OneLake
-  - Data Lake
 category: Fabric
-image: "./cover.png"
+description: Master unified data lake architecture in Microsoft Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-17 00:00:00
+tags:
+- Fabric
+- OneLake
+- Data Lake
+title: 'OneLake Shortcuts Deep Dive: ADLS, S3, and GCS'
 ---
 
 # OneLake Shortcuts Deep Dive: ADLS, S3, and GCS

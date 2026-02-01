@@ -1,17 +1,15 @@
 ---
-title: MLflow Integration: Tracking Experiments in Fabric
-
-published: 2024-07-14T14:00:00.000Z
-description: >-
-  Data Science in Microsoft Fabric: comprehensive guide to mlflow integration: tracking experiments in fabric
-
-tags:
-  - Fabric
-  - Data Science
-  - ML
 category: Fabric
-image: "./cover.png"
+description: 'Data Science in Microsoft Fabric: comprehensive guide to mlflow integration:
+  tracking experiments in fabric'
 draft: false
+image: ./cover.png
+published: 2024-07-14 14:00:00
+tags:
+- Fabric
+- Data Science
+- ML
+title: 'MLflow Integration: Tracking Experiments in Fabric'
 ---
 
 # MLflow Integration: Tracking Experiments in Fabric

@@ -1,14 +1,13 @@
 ---
-title: Contributing to Fabric Open Source Projects
-published: 2025-12-12T00:00:00.000Z
-description: >-
-  Join the Fabric developer community
-tags:
-  - Fabric
-  - Community
 category: Fabric
-image: "./cover.png"
+description: Join the Fabric developer community
 draft: false
+image: ./cover.png
+published: 2025-12-12 00:00:00
+tags:
+- Fabric
+- Community
+title: Contributing to Fabric Open Source Projects
 ---
 
 # Contributing to Fabric Open Source Projects

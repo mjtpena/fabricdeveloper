@@ -1,16 +1,14 @@
 ---
-title: Cosmos DB in Fabric GA
-
-published: 2025-11-15T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to cosmos db in fabric ga
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to cosmos db
+  in fabric ga'
 draft: false
+image: ./cover.png
+published: 2025-11-15 14:00:00
+tags:
+- Fabric
+- Features
+title: Cosmos DB in Fabric GA
 ---
 
 # Cosmos DB in Fabric GA

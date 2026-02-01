@@ -1,16 +1,14 @@
 ---
-title: Set Alert with Activator Now Generally Available
-
-published: 2024-11-19T14:00:00.000Z
-description: >-
-  Feature Release in Microsoft Fabric: comprehensive guide to set alert with activator now generally available
-
-tags:
-  - Fabric
-  - Features
 category: Fabric
-image: "./cover.png"
+description: 'Feature Release in Microsoft Fabric: comprehensive guide to set alert
+  with activator now generally available'
 draft: false
+image: ./cover.png
+published: 2024-11-19 14:00:00
+tags:
+- Fabric
+- Features
+title: Set Alert with Activator Now Generally Available
 ---
 
 # Set Alert with Activator Now Generally Available

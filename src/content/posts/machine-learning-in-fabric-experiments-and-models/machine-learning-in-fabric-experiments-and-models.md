@@ -1,15 +1,14 @@
 ---
-title: Machine Learning in Fabric: Experiments and Models
-published: 2025-12-31T00:00:00.000Z
-description: >-
-  Build machine learning models and analytical solutions in Fabric
-tags:
-  - Fabric
-  - Data Science
-  - ML
 category: Fabric
-image: "./cover.png"
+description: Build machine learning models and analytical solutions in Fabric
 draft: false
+image: ./cover.png
+published: 2025-12-31 00:00:00
+tags:
+- Fabric
+- Data Science
+- ML
+title: 'Machine Learning in Fabric: Experiments and Models'
 ---
 
 # Machine Learning in Fabric: Experiments and Models

@@ -1,17 +1,15 @@
 ---
-title: Apache Spark in Fabric: Architecture Overview
-
-published: 2023-10-09T14:00:00.000Z
-description: >-
-  Data Engineering in Microsoft Fabric: comprehensive guide to apache spark in fabric: architecture overview
-
-tags:
-  - Fabric
-  - Spark
-  - Data Engineering
 category: Fabric
-image: "./cover.png"
+description: 'Data Engineering in Microsoft Fabric: comprehensive guide to apache
+  spark in fabric: architecture overview'
 draft: false
+image: ./cover.png
+published: 2023-10-09 14:00:00
+tags:
+- Fabric
+- Spark
+- Data Engineering
+title: 'Apache Spark in Fabric: Architecture Overview'
 ---
 
 # Apache Spark in Fabric: Architecture Overview

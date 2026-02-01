@@ -1,16 +1,14 @@
 ---
-title: Fabric User Groups: Connecting with Peers
-
-published: 2025-03-21T14:00:00.000Z
-description: >-
-  Community in Microsoft Fabric: comprehensive guide to fabric user groups: connecting with peers
-
-tags:
-  - Fabric
-  - Community
 category: Fabric
-image: "./cover.png"
+description: 'Community in Microsoft Fabric: comprehensive guide to fabric user groups:
+  connecting with peers'
 draft: false
+image: ./cover.png
+published: 2025-03-21 14:00:00
+tags:
+- Fabric
+- Community
+title: 'Fabric User Groups: Connecting with Peers'
 ---
 
 # Fabric User Groups: Connecting with Peers
